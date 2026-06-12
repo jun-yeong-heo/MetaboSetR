@@ -1,0 +1,224 @@
+REACTOME_ABC_TRANSPORTER_DISORDERS	R-HSA-5619084	GCA	GCDCA	TCDCA
+REACTOME_ACTIVATION_OF_GENE_EXPRESSION_BY_SREBF_SREBP	R-HSA-2426168	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)
+REACTOME_ACTIVATION_OF_NMDA_RECEPTORS_AND_POSTSYNAPTIC_EVENTS	R-HSA-442755	Glu	Gly	cAMP
+REACTOME_ADAPTIVE_IMMUNE_SYSTEM	R-HSA-1280218	DG 16:0_16:0	PS 32:0	cAMP
+REACTOME_ADIPOGENESIS	R-HSA-9843745	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:6n-3 (DHA)
+REACTOME_AEROBIC_RESPIRATION_AND_RESPIRATORY_ELECTRON_TRANSPORT	R-HSA-1428517	2-OH-Glutaric acid	AHCys	Ala	Asp	Citric acid	FA 18:1	FA 2:0	Fumaric acid	Glu	Glyoxylic acid	Isocitric acid	Itaconic acid	Lac	Malic acid	Nicotinamide (B3)	Oxaloacetic acid	Phe	Pyruvic acid	Suc	a-Ketoglutaric acid	cAMP
+REACTOME_AFLATOXIN_ACTIVATION_AND_DETOXIFICATION	R-HSA-5423646	FA 2:0	Glu	Gly
+REACTOME_AGMATINE_BIOSYNTHESIS	R-HSA-351143	Agmatine	Arg	Putrescine	Urea
+REACTOME_ALANINE_METABOLISM	R-HSA-8964540	Ala	Glu	Pyruvic acid	a-Ketoglutaric acid
+REACTOME_AMINE_LIGAND_BINDING_RECEPTORS	R-HSA-375280	DOPA	Dopamine	Epinephrine	Histamine	Norepinephrine	PEA	Serotonin
+REACTOME_AMINE_OXIDASE_REACTIONS	R-HSA-140179	N1-Ac-Spermidine	N1-Ac-Spermine	PEA	Putrescine	Serotonin	Spermidine	Spermine	Tyramine
+REACTOME_AMINO_ACID_CONJUGATION	R-HSA-156587	2-Met-HipAcid	2-OH-Benzoic acid	Benzoic acid	Gln	Gly	HipAcid	Phenylacetylglutamine
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	R-HSA-352230	Ala	Arg	Asn	Betaine	Cys	Cystine	GABA	Gln	Glu	Gly	HArg	His	Ile	Leu	Lys	Met	Orn	Phe	Pro	Ser	Taurine	Thr	Trp	Tyr	Val	beta-Ala	t4-OH-Pro
+REACTOME_ANTI_INFLAMMATORY_RESPONSE_FAVOURING_LEISHMANIA_PARASITE_INFECTION	R-HSA-9662851	Adenosine	DG 16:0_16:0	Glu	Gly	cAMP
+REACTOME_ARACHIDONIC_ACID_METABOLISM	R-HSA-2142753	2-OH-Benzoic acid	FA 20:4n-6 (AA)	Glu	Gly
+REACTOME_ASPARAGINE_N_LINKED_GLYCOSYLATION	R-HSA-446203	CA	Gln	Glu	Mannose	Pyruvic acid
+REACTOME_ASPARTATE_AND_ASPARAGINE_METABOLISM	R-HSA-8963693	Asn	Asp	FA 2:0	Gln	Glu	Hypotaurine	N-Ac-Asp	Oxaloacetic acid	Taurine	a-Ketoglutaric acid	beta-Ala
+REACTOME_ASPIRIN_ADME	R-HSA-9749641	2-OH-Benzoic acid	3-OH-Butyric acid	FA 2:0	Gly	Lac	Pyruvic acid
+REACTOME_AXON_GUIDANCE	R-HSA-422475	DG 16:0_16:0	FA 16:0	Glu	Gly
+REACTOME_AZATHIOPRINE_ADME	R-HSA-9748787	AHCys	Gln	Glu
+REACTOME_BASE_EXCISION_REPAIR	R-HSA-73884	Adenine	Hypoxanthine	Nicotinamide (B3)	Thymine	Uracil
+REACTOME_BASE_EXCISION_REPAIR_AP_SITE_FORMATION	R-HSA-73929	Adenine	Hypoxanthine	Thymine	Uracil
+REACTOME_BCKDH_SYNTHESIZES_BCAA_COA_FROM_KIC_KMVA_KIV	R-HSA-9859138	3-Met-2-oxovaleric acid	4-Met-2-oxovaleric acid	a-Ketoisovaleric acid
+REACTOME_BETA_OXIDATION_OF_PRISTANOYL_COA	R-HSA-389887	C0	C2	C3	FA 2:0
+REACTOME_BILE_ACID_AND_BILE_SALT_METABOLISM	R-HSA-194068	CA	CDCA	DCA	GCA	GCDCA	Gly	LCA	TCDCA	Taurine
+REACTOME_BIOGENIC_AMINES_ARE_OXIDATIVELY_DEAMINATED_TO_ALDEHYDES_BY_MAOA_AND_MAOB	R-HSA-141333	PEA	Serotonin	Tyramine
+REACTOME_BIOLOGICAL_OXIDATIONS	R-HSA-211859	2-Met-HipAcid	2-OH-Benzoic acid	5-Oxo-Pro	AHCys	Adenosine	Arg	Benzoic acid	CDCA	Cortisol	Cys	DCA	DHEAS	Dopamine	FA 12:0	FA 20:4n-6 (AA)	FA 22:6n-3 (DHA)	FA 2:0	FA 4:0	Gln	Glu	Gly	HCys	HipAcid	Histamine	LCA	Melatonin	Met	N1-Ac-Spermidine	N1-Ac-Spermine	Nicotine	PEA	Phenylacetylglutamine	Putrescine	Serotonin	Spermidine	Spermine	TLCA	TMAO	Tyramine	Val
+REACTOME_BIOSYNTHESIS_OF_DHA_DERIVED_SPMS	R-HSA-9018677	FA 22:6n-3 (DHA)	Glu	Gly
+REACTOME_BIOSYNTHESIS_OF_ELECTROPHILIC_3_PUFA_OXO_DERIVATIVES	R-HSA-9027604	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)
+REACTOME_BIOSYNTHESIS_OF_SPECIALIZED_PRORESOLVING_MEDIATORS_SPMS	R-HSA-9018678	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	Glu	Gly
+REACTOME_BRANCHED_CHAIN_AMINO_ACID_CATABOLISM	R-HSA-70895	3-Met-2-oxovaleric acid	4-Met-2-oxovaleric acid	Glu	Ile	Leu	Val	a-Ketoglutaric acid	a-Ketoisovaleric acid
+REACTOME_CARBOXYTERMINAL_POST_TRANSLATIONAL_MODIFICATIONS_OF_TUBULIN	R-HSA-8955332	Glu	Gly	Tyr
+REACTOME_CARNITINE_METABOLISM	R-HSA-200425	C0	C16	Citric acid
+REACTOME_CARNITINE_SYNTHESIS	R-HSA-71262	C0	Gly	Suc	a-Ketoglutaric acid
+REACTOME_CATECHOLAMINE_BIOSYNTHESIS	R-HSA-209905	AHCys	DOPA	Dopamine	Epinephrine	Norepinephrine	Tyr
+REACTOME_CELLULAR_RESPONSES_TO_STIMULI	R-HSA-8953897	AHCys	Arg	Cortisol	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	Leu	Nicotinamide (B3)	Suc	a-Ketoglutaric acid
+REACTOME_CELLULAR_SENESCENCE	R-HSA-2559583	AHCys	Suc	a-Ketoglutaric acid
+REACTOME_CELL_CYCLE	R-HSA-1640170	AHCys	Nicotinamide (B3)	Suc	a-Ketoglutaric acid
+REACTOME_CHOLINE_CATABOLISM	R-HSA-6798163	Betaine	Choline	DMG	Gly	HCys	Met	Sarcosine
+REACTOME_CHROMATIN_MODIFYING_ENZYMES	R-HSA-3247509	AHCys	FA 2:0	Suc	a-Ketoglutaric acid
+REACTOME_CIRCADIAN_CLOCK	R-HSA-400253	Cortisol	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)
+REACTOME_CITRIC_ACID_CYCLE_TCA_CYCLE	R-HSA-71403	AHCys	Citric acid	Fumaric acid	Isocitric acid	Itaconic acid	Malic acid	Nicotinamide (B3)	Oxaloacetic acid	Suc	a-Ketoglutaric acid
+REACTOME_CLASS_A_1_RHODOPSIN_LIKE_RECEPTORS	R-HSA-373076	3-OH-Butyric acid	Adenosine	CA	CDCA	DCA	DOPA	Dopamine	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	Histamine	Kynurenic acid	LCA	Lac	MG 20:4	Melatonin	Nicotinic acid (B3)	Norepinephrine	PEA	Serotonin	Suc	a-Ketoglutaric acid
+REACTOME_CLASS_C_3_METABOTROPIC_GLUTAMATE_PHEROMONE_RECEPTORS	R-HSA-420499	Arg	GABA	Glu	Lys	Orn
+REACTOME_COBALAMIN_CBL_METABOLISM	R-HSA-9759218	AHCys	HCys	Met
+REACTOME_CONJUGATION_OF_BENZOATE_WITH_GLYCINE	R-HSA-177135	2-Met-HipAcid	Benzoic acid	Gly	HipAcid
+REACTOME_CREATINE_METABOLISM	R-HSA-71288	AHCys	Arg	Creatine	Creatinine	Gly	Guanidinoacetic acid	Orn
+REACTOME_CYSTEINE_FORMATION_FROM_HOMOCYSTEINE	R-HSA-1614603	Cys	HCys	Ser
+REACTOME_CYTOCHROME_P450_ARRANGED_BY_SUBSTRATE_TYPE	R-HSA-211897	CDCA	Cortisol	DCA	FA 12:0	FA 20:4n-6 (AA)	FA 22:6n-3 (DHA)	LCA
+REACTOME_CYTOSOLIC_SULFONATION_OF_SMALL_MOLECULES	R-HSA-156584	DHEAS	Dopamine	FA 4:0	LCA	TLCA
+REACTOME_CYTOSOLIC_TRNA_AMINOACYLATION	R-HSA-379716	Ala	Arg	Asn	Asp	Cys	Gln	Glu	Gly	His	Ile	Leu	Lys	Met	Phe	Pro	Ser	Thr	Trp	Tyr	Val
+REACTOME_DEFECTIVE_PNP_DISRUPTS_PHOSPHOROLYSIS_OF_DEOXY_GUANOSINE_AND_DEOXY_INOSINE	R-HSA-9735763	Deoxyguanosine	Guanosine	Inosine
+REACTOME_DEFECTIVE_SLC16A1_CAUSES_SYMPTOMATIC_DEFICIENCY_IN_LACTATE_TRANSPORT_SDLT	R-HSA-5619070	2-OH-Benzoic acid	3-OH-Butyric acid	Lac	Pyruvic acid
+REACTOME_DEFECTIVE_SLC27A4_CAUSES_ICHTHYOSIS_PREMATURITY_SYNDROME_IPS	R-HSA-5619108	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0
+REACTOME_DEFECTIVE_SLC29A3_CAUSES_HISTIOCYTOSIS_LYMPHADENOPATHY_PLUS_SYNDROME_HLAS	R-HSA-5619063	Adenine	Adenosine	Cytidine	Guanosine	Inosine	Thymidine	Uridine
+REACTOME_DEFECTIVE_SLC3A1_CAUSES_CYSTINURIA_CSNU	R-HSA-5619113	Arg	Cystine	Leu	Lys
+REACTOME_DEFECTIVE_SLC6A19_CAUSES_HARTNUP_DISORDER_HND	R-HSA-5619044	Ala	Cys	Gln	Gly	Ile	Leu	Met	Phe	Ser	Trp	Tyr	Val
+REACTOME_DEGRADATION_OF_CYSTEINE_AND_HOMOCYSTEINE	R-HSA-1614558	Cys	Glu	HCys	Hypotaurine	Malic acid	Pyruvic acid	Ser	Taurine	a-Ketoglutaric acid
+REACTOME_DEGRADATION_OF_GABA	R-HSA-916853	GABA	Glu	Suc	a-Ketoglutaric acid
+REACTOME_DEVELOPMENTAL_BIOLOGY	R-HSA-1266738	AHCys	Cer d18:1/25:0	DG 16:0_16:0	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:6n-3 (DHA)	Glu	Gly	Nicotinamide (B3)	Suc	a-Ketoglutaric acid
+REACTOME_DIGESTION	R-HSA-8935690	CA	CDCA	DG 16:0_16:0	FA 16:0	GCA	GCDCA	TCDCA
+REACTOME_DISEASE	R-HSA-1643685	2-OH-Benzoic acid	2-OH-Glutaric acid	3-OH-Butyric acid	5-Oxo-Pro	AHCys	Adenine	Adenosine	Ala	Arg	Asp	Biotin (B7)	C0	Choline	Cys	Cystine	Cytidine	DG 16:0_16:0	Deoxyguanosine	Dopamine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 20:4n-6 (AA)	FA 24:0	GCA	GCDCA	Gln	Glu	Glucose	Gly	Guanine	Guanosine	HCys	His	Hypoxanthine	Ile	Inosine	Lac	Leu	Lys	Met	Nicotinamide (B3)	Norepinephrine	Phe	Pro	Pyruvic acid	Ser	Serotonin	TCDCA	Thymidine	Trp	Tyr	Uric acid	Uridine	Val	a-Ketoglutaric acid	beta-Ala	cAMP
+REACTOME_DISEASES_OF_METABOLISM	R-HSA-5668914	2-OH-Glutaric acid	5-Oxo-Pro	AHCys	Adenine	Adenosine	Biotin (B7)	Cys	Deoxyguanosine	FA 20:4n-6 (AA)	Gln	Glu	Gly	Guanine	Guanosine	HCys	Hypoxanthine	Inosine	Met	Phe	Serotonin	a-Ketoglutaric acid
+REACTOME_DISEASES_OF_NUCLEOTIDE_METABOLISM	R-HSA-9735804	Adenine	Adenosine	Deoxyguanosine	Guanine	Guanosine	Hypoxanthine	Inosine
+REACTOME_DISORDERS_OF_TRANSMEMBRANE_TRANSPORTERS	R-HSA-5619115	2-OH-Benzoic acid	3-OH-Butyric acid	Adenine	Adenosine	Ala	Arg	Asp	C0	Choline	Cys	Cystine	Cytidine	Dopamine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0	GCA	GCDCA	Gln	Glu	Gly	Guanosine	His	Ile	Inosine	Lac	Leu	Lys	Met	Norepinephrine	Phe	Pro	Pyruvic acid	Ser	TCDCA	Thymidine	Trp	Tyr	Uric acid	Uridine	Val	beta-Ala
+REACTOME_DNA_DAMAGE_REVERSAL	R-HSA-73942	Adenosine	Suc	a-Ketoglutaric acid
+REACTOME_DNA_REPAIR	R-HSA-73894	AHCys	Adenine	Adenosine	Hypoxanthine	Nicotinamide (B3)	Suc	Thymine	Uracil	a-Ketoglutaric acid
+REACTOME_DOPAMINE_CLEARANCE_FROM_THE_SYNAPTIC_CLEFT	R-HSA-379401	AHCys	DOPAC	Dopamine	HCys	Homovanillic acid
+REACTOME_DRUG_ADME	R-HSA-9748784	2-OH-Benzoic acid	3-OH-Butyric acid	AHCys	Adenosine	Cys	FA 2:0	Gln	Glu	Gly	Inosine	Lac	Pyruvic acid
+REACTOME_ENDOGENOUS_STEROLS	R-HSA-211976	CDCA	Cortisol	DCA	FA 22:6n-3 (DHA)	LCA
+REACTOME_ENOS_ACTIVATION	R-HSA-203615	ADMA	Arg	Cit	FA 16:0
+REACTOME_ENZYMATIC_DEGRADATION_OF_DOPAMINE_BY_COMT	R-HSA-379397	AHCys	Dopamine	Homovanillic acid
+REACTOME_ENZYMATIC_DEGRADATION_OF_DOPAMINE_BY_MONOAMINE_OXIDASE	R-HSA-379398	DOPAC	Dopamine	HCys	Homovanillic acid
+REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	R-HSA-212165	AHCys	FA 2:0	Nicotinamide (B3)	Suc	a-Ketoglutaric acid
+REACTOME_ESR_MEDIATED_SIGNALING	R-HSA-8939211	ADMA	AHCys	Arg	Cit	FA 16:0
+REACTOME_FATTY_ACIDS_BOUND_TO_GPR40_FFAR1_REGULATE_INSULIN_SECRETION	R-HSA-434316	FA 12:0	FA 15:0	FA 16:0	FA 18:1
+REACTOME_FATTY_ACID_METABOLISM	R-HSA-8978868	2-OH-Benzoic acid	C0	C16	C2	C3	Citric acid	FA 10:0	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 22:6n-3 (DHA)	FA 2:0	FA 4:0	Glu	Gly	Oxaloacetic acid	Suc	a-Ketoglutaric acid
+REACTOME_FATTY_ACYL_COA_BIOSYNTHESIS	R-HSA-75105	Citric acid	FA 10:0	FA 16:0	FA 20:4n-6 (AA)	Oxaloacetic acid
+REACTOME_FCGAMMA_RECEPTOR_FCGR_DEPENDENT_PHAGOCYTOSIS	R-HSA-2029480	Choline	DG 16:0_16:0	FA 20:4n-6 (AA)
+REACTOME_FREE_FATTY_ACID_RECEPTORS	R-HSA-444209	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0
+REACTOME_GABA_SYNTHESIS_RELEASE_REUPTAKE_AND_DEGRADATION	R-HSA-888590	Betaine	GABA	Glu	Suc	a-Ketoglutaric acid	beta-Ala
+REACTOME_GAMMA_CARBOXYLATION_HYPUSINYLATION_HYDROXYLATION_AND_ARYLSULFATASE_ACTIVATION	R-HSA-163841	AHCys	Spermidine	Suc	a-Ketoglutaric acid
+REACTOME_GENERIC_TRANSCRIPTION_PATHWAY	R-HSA-212436	AHCys	Cortisol	FA 2:0	Gln	Glu	Nicotinamide (B3)
+REACTOME_GENE_EXPRESSION_TRANSCRIPTION	R-HSA-74160	AHCys	Cortisol	FA 2:0	Gln	Glu	Nicotinamide (B3)	Suc	a-Ketoglutaric acid
+REACTOME_GLUCONEOGENESIS	R-HSA-70263	Glu	Malic acid	Oxaloacetic acid	Pyruvic acid	a-Ketoglutaric acid
+REACTOME_GLUCOSE_METABOLISM	R-HSA-70326	Citric acid	Glu	Malic acid	Oxaloacetic acid	Pyruvic acid	a-Ketoglutaric acid	cAMP
+REACTOME_GLUTAMATE_AND_GLUTAMINE_METABOLISM	R-HSA-8964539	Ala	Asp	Gln	Glu	N-Ac-Asp	Orn	Oxaloacetic acid	Pro	Pyruvic acid	a-Ketoglutaric acid
+REACTOME_GLUTATHIONE_CONJUGATION	R-HSA-156590	5-Oxo-Pro	Cys	Glu	Gly
+REACTOME_GLYCEROPHOSPHOLIPID_BIOSYNTHESIS	R-HSA-1483206	AHCys	Choline	FA 2:0	LPA 14:0	PS 32:0	Ser
+REACTOME_GLYCOLYSIS	R-HSA-70171	Citric acid	Pyruvic acid	cAMP
+REACTOME_GLYOXYLATE_METABOLISM_AND_GLYCINE_DEGRADATION	R-HSA-389661	AHCys	Ala	Asp	Gly	Glycolic acid	Glyoxylic acid	Oxalic acid	Oxaloacetic acid	Pyruvic acid	Sarcosine	t4-OH-Pro
+REACTOME_GPCR_DOWNSTREAM_SIGNALLING	R-HSA-388396	3-OH-Butyric acid	Adenosine	Arg	CA	CDCA	DCA	DG 16:0_16:0	DOPA	Dopamine	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	GABA	Glu	Histamine	LCA	Lac	Lys	MG 20:4	Melatonin	Nicotinic acid (B3)	Norepinephrine	Orn	PEA	PS 32:0	Serotonin	Suc	a-Ketoglutaric acid	cAMP
+REACTOME_GPCR_LIGAND_BINDING	R-HSA-500792	3-OH-Butyric acid	Adenosine	Arg	CA	CDCA	DCA	DOPA	Dopamine	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	GABA	Glu	Histamine	Kynurenic acid	LCA	Lac	Lys	MG 20:4	Melatonin	Nicotinic acid (B3)	Norepinephrine	Orn	PEA	Serotonin	Suc	a-Ketoglutaric acid
+REACTOME_G_ALPHA_I_SIGNALLING_EVENTS	R-HSA-418594	3-OH-Butyric acid	Adenosine	DG 16:0_16:0	Dopamine	Epinephrine	FA 20:4n-6 (AA)	GABA	Glu	Histamine	Lac	MG 20:4	Melatonin	Nicotinic acid (B3)	Norepinephrine	Serotonin	Suc	a-Ketoglutaric acid	cAMP
+REACTOME_G_ALPHA_Q_SIGNALLING_EVENTS	R-HSA-416476	Arg	DOPA	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	Glu	Histamine	Lys	MG 20:4	Norepinephrine	Orn	Serotonin
+REACTOME_G_ALPHA_S_SIGNALLING_EVENTS	R-HSA-418555	Adenosine	CA	CDCA	DCA	Dopamine	Epinephrine	Histamine	LCA	Norepinephrine	PEA	Serotonin	cAMP
+REACTOME_G_ALPHA_Z_SIGNALLING_EVENTS	R-HSA-418597	Epinephrine	Norepinephrine	PS 32:0	cAMP
+REACTOME_G_PROTEIN_MEDIATED_EVENTS	R-HSA-112040	DG 16:0_16:0	FA 20:4n-6 (AA)	cAMP
+REACTOME_HEMOSTASIS	R-HSA-109582	Arg	Cit	Epinephrine	FA 20:4n-6 (AA)	FA 2:0	MG 20:4	Norepinephrine	PS 32:0	Serotonin	cGMP
+REACTOME_HISTIDINE_CATABOLISM	R-HSA-70921	AHCys	Anserine	Carnosine	Glu	His	Histamine	beta-Ala
+REACTOME_HYDROXYCARBOXYLIC_ACID_BINDING_RECEPTORS	R-HSA-3296197	3-OH-Butyric acid	Lac	Nicotinic acid (B3)
+REACTOME_IMMUNE_SYSTEM	R-HSA-168256	Arg	Choline	Cit	DG 16:0_16:0	Deoxyguanosine	FA 20:4n-6 (AA)	Guanosine	PS 32:0	cAMP
+REACTOME_INACTIVATION_RECOVERY_AND_REGULATION_OF_THE_PHOTOTRANSDUCTION_CASCADE	R-HSA-2514859	AHCys	Met	cGMP
+REACTOME_INCRETIN_SYNTHESIS_SECRETION_AND_INACTIVATION	R-HSA-400508	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)
+REACTOME_INFECTIOUS_DISEASE	R-HSA-5663205	AHCys	Adenosine	DG 16:0_16:0	Glu	Glucose	Gly	Nicotinamide (B3)	cAMP
+REACTOME_INNATE_IMMUNE_SYSTEM	R-HSA-168249	Arg	Choline	Cit	DG 16:0_16:0	Deoxyguanosine	FA 20:4n-6 (AA)	Guanosine
+REACTOME_INTEGRATION_OF_ENERGY_METABOLISM	R-HSA-163685	Epinephrine	FA 12:0	FA 15:0	FA 16:0	FA 18:1	Norepinephrine	cAMP
+REACTOME_INTERCONVERSION_OF_POLYAMINES	R-HSA-351200	N1-Ac-Spermidine	N1-Ac-Spermine	Putrescine	Spermidine	Spermine
+REACTOME_INTRACELLULAR_SIGNALING_BY_SECOND_MESSENGERS	R-HSA-9006925	DG 16:0_16:0	Nicotinamide (B3)	cAMP
+REACTOME_KETONE_BODY_METABOLISM	R-HSA-74182	3-OH-Butyric acid	FA 2:0	Suc
+REACTOME_LATE_SARS_COV_2_INFECTION_EVENTS	R-HSA-9772573	AHCys	Glucose	Nicotinamide (B3)
+REACTOME_LYSINE_CATABOLISM	R-HSA-71064	Glu	Lys	a-Ketoglutaric acid	alpha-AAA
+REACTOME_MALATE_ASPARTATE_SHUTTLE	R-HSA-9856872	Asp	Glu	Malic acid	Oxaloacetic acid	a-Ketoglutaric acid
+REACTOME_MAPK1_MAPK3_SIGNALING	R-HSA-5684996	AHCys	DG 16:0_16:0	FA 16:0	Glu	Gly	cGMP
+REACTOME_MATURATION_OF_TCA_ENZYMES_AND_REGULATION_OF_TCA_CYCLE	R-HSA-9854311	AHCys	Fumaric acid	Nicotinamide (B3)	Oxaloacetic acid
+REACTOME_MELANIN_BIOSYNTHESIS	R-HSA-5662702	Cys	DOPA	Tyr
+REACTOME_METABOLIC_DISORDERS_OF_BIOLOGICAL_OXIDATION_ENZYMES	R-HSA-5579029	5-Oxo-Pro	AHCys	Cys	FA 20:4n-6 (AA)	Glu	Gly	Met	Serotonin
+REACTOME_METABOLISM	R-HSA-1430728	2-Met-HipAcid	2-OH-Benzoic acid	2-OH-Glutaric acid	3-IPA	3-Met-2-oxovaleric acid	3-OH-Anthranilic acid	3-OH-Butyric acid	4-Met-2-oxovaleric acid	4-OH-Benzoic acid	4-OH-Phenylpyruvic acid	5-Amino-4-oxovaleric acid	5-OH-Trp	5-Oxo-Pro	ADMA	AHCys	Adenine	Adenosine	Agmatine	Ala	Anserine	Arg	Arginino-Suc	Asn	Asp	Benzoic acid	Betaine	Biotin (B7)	C0	C16	C2	C3	CA	CDCA	Carbamoyl-PO4	Carnosine	Choline	Cit	Citric acid	Cortisol	Cortisone	Creatine	Creatinine	Cys	Cytidine	DCA	DG 16:0_16:0	DHEAS	DMG	DOPA	Deoxycytidine	Deoxyguanosine	Dopamine	Epinephrine	FA 10:0	FA 12:0	FA 15:0	FA 16:0	FA 18:1	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	Folic acid (B9)	Fructose	Fumaric acid	GCA	GCDCA	Gln	Glu	Gly	Glyceric acid	Glycolic acid	Glyoxylic acid	Guanidinoacetic acid	Guanine	Guanosine	HCys	HipAcid	His	Histamine	Hypotaurine	Hypoxanthine	Ile	Indole-Lac	Indolepyruvic acid	Inosine	Isocitric acid	Itaconic acid	Kynurenic acid	Kynurenine	LCA	LPA 14:0	Lac	Leu	Lys	Malic acid	Mannose	Melatonin	Met	Mevalonic acid	N-Ac-Asp	N-Ac-Glu	N1-Ac-Spermidine	N1-Ac-Spermine	Nicotinamide (B3)	Nicotine	Nicotinic acid (B3)	Norepinephrine	Orn	Orotic acid	Oxalic acid	Oxaloacetic acid	PE 34:2	PE 36:2	PEA	PMP	PS 32:0	Pantothenic acid (B5)	Phe	Phenylacetylglutamine	Phenylpyruvic acid	Pro	Putrescine	Pyridoxine (B6)	Pyruvic acid	Quinolinic acid	Riboflavin (B2)	Ribose	Sarcosine	Ser	Serotonin	Spermidine	Spermine	Suc	TCDCA	TLCA	TMAO	Taurine	Thr	Threonic acid	Thymidine	Thymine	Trp	Tyr	Tyramine	Uracil	Urea	Uric acid	Uridine	Val	Xanthine	a-Ketoglutaric acid	a-Ketoisovaleric acid	alpha-AAA	beta-Ala	cAMP	t4-OH-Pro
+REACTOME_METABOLISM_OF_AMINE_DERIVED_HORMONES	R-HSA-209776	5-OH-Trp	AHCys	Ala	DOPA	Dopamine	Epinephrine	Melatonin	Norepinephrine	Serotonin	Trp	Tyr
+REACTOME_METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES	R-HSA-71291	3-IPA	3-Met-2-oxovaleric acid	3-OH-Anthranilic acid	4-Met-2-oxovaleric acid	4-OH-Phenylpyruvic acid	5-OH-Trp	AHCys	Adenine	Adenosine	Agmatine	Ala	Anserine	Arg	Arginino-Suc	Asn	Asp	Betaine	C0	Carbamoyl-PO4	Carnosine	Choline	Cit	Creatine	Creatinine	Cys	DMG	DOPA	Dopamine	Epinephrine	FA 2:0	Fumaric acid	Gln	Glu	Gly	Glycolic acid	Glyoxylic acid	Guanidinoacetic acid	HCys	His	Histamine	Hypotaurine	Ile	Indole-Lac	Indolepyruvic acid	Kynurenic acid	Kynurenine	Leu	Lys	Malic acid	Melatonin	Met	N-Ac-Asp	N-Ac-Glu	N1-Ac-Spermidine	N1-Ac-Spermine	Nicotinamide (B3)	Norepinephrine	Orn	Oxalic acid	Oxaloacetic acid	Phe	Phenylpyruvic acid	Pro	Putrescine	Pyruvic acid	Sarcosine	Ser	Serotonin	Spermidine	Spermine	Suc	Taurine	Thr	Trp	Tyr	Urea	Val	a-Ketoglutaric acid	a-Ketoisovaleric acid	alpha-AAA	beta-Ala	t4-OH-Pro
+REACTOME_METABOLISM_OF_CARBOHYDRATES	R-HSA-71387	Asp	Citric acid	FA 2:0	Fructose	Glu	Glyceric acid	Malic acid	Mannose	Oxaloacetic acid	Pyruvic acid	Ribose	a-Ketoglutaric acid	cAMP
+REACTOME_METABOLISM_OF_COFACTORS	R-HSA-8978934	4-OH-Benzoic acid	4-OH-Phenylpyruvic acid	AHCys	Citric acid	Isocitric acid	Phe	a-Ketoglutaric acid
+REACTOME_METABOLISM_OF_FAT_SOLUBLE_VITAMINS	R-HSA-6806667	DG 16:0_16:0	FA 16:0	FA 18:1	FA 18:2
+REACTOME_METABOLISM_OF_FOLATE_AND_PTERINES	R-HSA-196757	Folic acid (B9)	Glu	Gly	Ser
+REACTOME_METABOLISM_OF_INGESTED_SEMET_SEC_MESEC_INTO_H2SE	R-HSA-2408508	AHCys	Adenosine	Ala	Gly	Histamine	Nicotinamide (B3)	Pyruvic acid	Sarcosine	Ser
+REACTOME_METABOLISM_OF_LIPIDS	R-HSA-556833	2-OH-Benzoic acid	3-OH-Butyric acid	AHCys	C0	C16	C2	C3	CA	CDCA	Choline	Citric acid	Cortisol	Cortisone	DCA	FA 10:0	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 4:0	GCA	GCDCA	Glu	Gly	LCA	LPA 14:0	Mevalonic acid	Oxaloacetic acid	PE 34:2	PE 36:2	PS 32:0	Ser	Suc	TCDCA	Taurine	a-Ketoglutaric acid
+REACTOME_METABOLISM_OF_NUCLEOTIDES	R-HSA-15869	Adenine	Adenosine	Ala	Asp	Carbamoyl-PO4	Cytidine	Deoxycytidine	Deoxyguanosine	Fumaric acid	Gln	Glu	Gly	Guanine	Guanosine	Hypoxanthine	Inosine	Orotic acid	Pyruvic acid	Thymidine	Thymine	Uracil	Uric acid	Uridine	Xanthine	beta-Ala
+REACTOME_METABOLISM_OF_POLYAMINES	R-HSA-351202	Agmatine	Arg	N1-Ac-Spermidine	N1-Ac-Spermine	Orn	Putrescine	Spermidine	Spermine	Urea
+REACTOME_METABOLISM_OF_PROTEINS	R-HSA-392499	AHCys	Adenosine	Ala	Arg	Asn	Asp	CA	CDCA	Cortisol	Cys	Epinephrine	FA 10:0	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 8:0	Gln	Glu	Gly	His	Ile	Inosine	Leu	Lys	Mannose	Met	Met-SO	N-Met-Asp	Norepinephrine	Phe	Pro	Pyruvic acid	Ser	Spermidine	Suc	Thr	Trp	Tyr	Val	a-Ketoglutaric acid
+REACTOME_METABOLISM_OF_RNA	R-HSA-8953854	AHCys	Cys	Guanine	Met	Pyruvic acid	Suc	a-Ketoglutaric acid
+REACTOME_METABOLISM_OF_STEROIDS	R-HSA-8957322	CA	CDCA	Cortisol	Cortisone	DCA	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	GCA	GCDCA	Gly	LCA	Mevalonic acid	TCDCA	Taurine
+REACTOME_METABOLISM_OF_VITAMINS_AND_COFACTORS	R-HSA-196854	4-OH-Benzoic acid	4-OH-Phenylpyruvic acid	AHCys	Ala	Biotin (B7)	Citric acid	Cys	DG 16:0_16:0	FA 16:0	FA 18:1	FA 18:2	FA 2:0	FA 3:0	FA 4:0	Folic acid (B9)	Gln	Glu	Gly	HCys	Isocitric acid	Lac	Lys	Met	Nicotinamide (B3)	Nicotinic acid (B3)	Oxalic acid	PMP	Pantothenic acid (B5)	Phe	Pyridoxine (B6)	Pyruvic acid	Quinolinic acid	Riboflavin (B2)	Ser	Threonic acid	a-Ketoglutaric acid
+REACTOME_METABOLISM_OF_WATER_SOLUBLE_VITAMINS_AND_COFACTORS	R-HSA-196849	AHCys	Ala	Biotin (B7)	Cys	FA 2:0	FA 3:0	FA 4:0	Folic acid (B9)	Gln	Glu	Gly	HCys	Lac	Lys	Met	Nicotinamide (B3)	Nicotinic acid (B3)	Oxalic acid	PMP	Pantothenic acid (B5)	Pyridoxine (B6)	Pyruvic acid	Quinolinic acid	Riboflavin (B2)	Ser	Threonic acid
+REACTOME_METHYLATION	R-HSA-156581	AHCys	Adenosine	HCys	Met
+REACTOME_MISCELLANEOUS_TRANSPORT_AND_BINDING_EVENTS	R-HSA-5223345	Arg	Cystine	His	Lys
+REACTOME_MITOCHONDRIAL_BIOGENESIS	R-HSA-1592230	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	Nicotinamide (B3)
+REACTOME_MOLYBDENUM_COFACTOR_BIOSYNTHESIS	R-HSA-947581	Ala	Cys	Met
+REACTOME_MULTIFUNCTIONAL_ANION_EXCHANGERS	R-HSA-427601	Lac	Nicotinic acid (B3)	Pyruvic acid
+REACTOME_NADPH_REGENERATION	R-HSA-389542	Citric acid	Isocitric acid	a-Ketoglutaric acid
+REACTOME_NA_CL_DEPENDENT_NEUROTRANSMITTER_TRANSPORTERS	R-HSA-442660	Ala	Arg	Asn	Betaine	Cys	Dopamine	Epinephrine	GABA	Gln	Gly	His	Histamine	Ile	Leu	Lys	Met	Norepinephrine	Phe	Pro	Ser	Serotonin	Taurine	Thr	Trp	Tyr	Val	beta-Ala	t4-OH-Pro
+REACTOME_NEGATIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	R-HSA-5250941	AHCys	FA 2:0	Nicotinamide (B3)
+REACTOME_NEURONAL_SYSTEM	R-HSA-112316	5-HIAA	AHCys	Betaine	Choline	DOPAC	Dopamine	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 20:4n-6 (AA)	FA 2:0	GABA	Gln	Glu	Gly	HCys	Homovanillic acid	Norepinephrine	PS 32:0	Serotonin	Suc	a-Ketoglutaric acid	beta-Ala	cAMP
+REACTOME_NEUROTRANSMITTER_CLEARANCE	R-HSA-112311	5-HIAA	AHCys	Choline	DOPAC	Dopamine	FA 2:0	HCys	Homovanillic acid	Norepinephrine	Serotonin
+REACTOME_NEUROTRANSMITTER_RECEPTORS_AND_POSTSYNAPTIC_SIGNAL_TRANSMISSION	R-HSA-112314	GABA	Glu	Gly	PS 32:0	Serotonin	cAMP
+REACTOME_NEUROTRANSMITTER_RELEASE_CYCLE	R-HSA-112310	Betaine	Choline	Dopamine	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 20:4n-6 (AA)	GABA	Gln	Glu	Norepinephrine	Serotonin	Suc	a-Ketoglutaric acid	beta-Ala
+REACTOME_NICOTINAMIDE_SALVAGING	R-HSA-197264	AHCys	FA 2:0	FA 3:0	FA 4:0	Lac	Nicotinamide (B3)	Nicotinic acid (B3)	Pyruvic acid
+REACTOME_NICOTINATE_METABOLISM	R-HSA-196807	AHCys	FA 2:0	FA 3:0	FA 4:0	Gln	Glu	Lac	Nicotinamide (B3)	Nicotinic acid (B3)	Pyruvic acid	Quinolinic acid
+REACTOME_NITRIC_OXIDE_STIMULATES_GUANYLATE_CYCLASE	R-HSA-392154	Arg	Cit	cGMP
+REACTOME_NUCLEOTIDE_BIOSYNTHESIS	R-HSA-8956320	Asp	Carbamoyl-PO4	Fumaric acid	Gln	Glu	Gly	Orotic acid
+REACTOME_NUCLEOTIDE_CATABOLISM	R-HSA-8956319	Adenosine	Ala	Cytidine	Deoxycytidine	Deoxyguanosine	Guanine	Guanosine	Hypoxanthine	Inosine	Pyruvic acid	Thymidine	Thymine	Uracil	Uric acid	Uridine	Xanthine	beta-Ala
+REACTOME_NUCLEOTIDE_SALVAGE	R-HSA-8956321	Adenine	Adenosine	Cytidine	Deoxycytidine	Deoxyguanosine	Guanine	Guanosine	Hypoxanthine	Inosine	Thymidine	Thymine	Uracil	Uridine
+REACTOME_NUCLEOTIDE_SALVAGE_DEFECTS	R-HSA-9734207	Adenine	Adenosine	Guanine	Hypoxanthine
+REACTOME_OLFACTORY_SIGNALING_PATHWAY	R-HSA-381753	FA 12:0	FA 2:0	FA 3:0	FA 4:0	FA 4:0-3M	FA 6:0	FA 7:0	FA 8:0	Lac	cAMP
+REACTOME_ORGANIC_ANION_TRANSPORT	R-HSA-561048	DHEAS	Lac	Uric acid	a-Ketoglutaric acid
+REACTOME_ORGANIC_ANION_TRANSPORTERS	R-HSA-428643	Citric acid	FA 2:0	FA 3:0	FA 4:0	Glu	Lac	Malic acid	Nicotinic acid (B3)	Pyruvic acid	a-Ketoglutaric acid
+REACTOME_ORGANIC_CATION_ANION_ZWITTERION_TRANSPORT	R-HSA-549132	Agmatine	C0	Choline	Creatinine	DHEAS	Dopamine	Epinephrine	Histamine	Lac	Norepinephrine	Serotonin	Spermidine	Spermine	Uric acid	a-Ketoglutaric acid
+REACTOME_ORGANIC_CATION_TRANSPORT	R-HSA-549127	Agmatine	C0	Choline	Creatinine	Dopamine	Epinephrine	Histamine	Norepinephrine	Serotonin	Spermidine	Spermine
+REACTOME_PARACETAMOL_ADME	R-HSA-9753281	Cys	FA 2:0	Glu	Gly
+REACTOME_PEPTIDE_HORMONE_METABOLISM	R-HSA-2980736	Arg	FA 10:0	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 8:0	Lys
+REACTOME_PEROXISOMAL_LIPID_METABOLISM	R-HSA-390918	C0	C2	C3	FA 2:0	Suc	a-Ketoglutaric acid
+REACTOME_PHASE_II_CONJUGATION_OF_COMPOUNDS	R-HSA-156580	2-Met-HipAcid	2-OH-Benzoic acid	5-Oxo-Pro	AHCys	Adenosine	Benzoic acid	Cys	DHEAS	Dopamine	FA 4:0	Gln	Glu	Gly	HCys	HipAcid	LCA	Met	Nicotine	Phenylacetylglutamine	TLCA
+REACTOME_PHASE_I_FUNCTIONALIZATION_OF_COMPOUNDS	R-HSA-211945	Arg	CDCA	Cortisol	DCA	FA 12:0	FA 20:4n-6 (AA)	FA 22:6n-3 (DHA)	FA 2:0	Histamine	LCA	Melatonin	N1-Ac-Spermidine	N1-Ac-Spermine	PEA	Putrescine	Serotonin	Spermidine	Spermine	TMAO	Tyramine	Val
+REACTOME_PHENYLALANINE_AND_TYROSINE_METABOLISM	R-HSA-8963691	4-OH-Phenylpyruvic acid	Ala	Asp	Fumaric acid	Glu	Indolepyruvic acid	Phe	Phenylpyruvic acid	Pyruvic acid	Tyr	a-Ketoglutaric acid
+REACTOME_PHENYLALANINE_METABOLISM	R-HSA-8964208	Ala	Asp	Indolepyruvic acid	Phe	Phenylpyruvic acid	Pyruvic acid	Tyr
+REACTOME_PLATELET_ACTIVATION_SIGNALING_AND_AGGREGATION	R-HSA-76002	Epinephrine	FA 20:4n-6 (AA)	MG 20:4	Norepinephrine	PS 32:0	Serotonin
+REACTOME_PLATELET_HOMEOSTASIS	R-HSA-418346	Arg	Cit	FA 2:0	cGMP
+REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION	R-HSA-597592	AHCys	CA	CDCA	Cortisol	FA 2:0	Gln	Glu	Gly	Lys	Mannose	Met	Pyruvic acid	Spermidine	Suc	Tyr	a-Ketoglutaric acid
+REACTOME_PPARA_ACTIVATES_GENE_EXPRESSION	R-HSA-1989781	CDCA	DCA	FA 16:0	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	LCA
+REACTOME_PROLINE_CATABOLISM	R-HSA-70688	Glu	Pro	t4-OH-Pro
+REACTOME_PROTEIN_REPAIR	R-HSA-5676934	AHCys	Arg	Asn	Asp	Met	Met-SO	N-Met-Asp
+REACTOME_PROTON_COUPLED_NEUTRAL_AMINO_ACID_TRANSPORTERS	R-HSA-428559	Ala	Gly	Pro
+REACTOME_PURINE_CATABOLISM	R-HSA-74259	Adenosine	Deoxyguanosine	Guanine	Guanosine	Hypoxanthine	Inosine	Uric acid	Xanthine
+REACTOME_PURINE_RIBONUCLEOSIDE_MONOPHOSPHATE_BIOSYNTHESIS	R-HSA-73817	Asp	Fumaric acid	Gln	Glu	Gly
+REACTOME_PYRIMIDINE_BIOSYNTHESIS	R-HSA-500753	Asp	Carbamoyl-PO4	Gln	Glu	Orotic acid
+REACTOME_PYRIMIDINE_CATABOLISM	R-HSA-73621	Ala	Cytidine	Deoxycytidine	Pyruvic acid	Thymidine	Thymine	Uracil	Uridine	beta-Ala
+REACTOME_PYRIMIDINE_SALVAGE	R-HSA-73614	Cytidine	Deoxycytidine	Thymidine	Thymine	Uracil	Uridine
+REACTOME_PYRUVATE_METABOLISM	R-HSA-70268	Ala	FA 2:0	Fumaric acid	Glu	Glyoxylic acid	Lac	Malic acid	Nicotinamide (B3)	Oxaloacetic acid	Pyruvic acid	a-Ketoglutaric acid	cAMP
+REACTOME_RAS_PROCESSING	R-HSA-9648002	AHCys	DG 16:0_16:0	FA 16:0	cGMP
+REACTOME_REGULATION_OF_PYRUVATE_DEHYDROGENASE_PDH_COMPLEX	R-HSA-204174	Glyoxylic acid	Nicotinamide (B3)	Pyruvic acid
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT	R-HSA-611105	Asp	Fumaric acid	Glu	Itaconic acid	Malic acid	Oxaloacetic acid	Suc	a-Ketoglutaric acid
+REACTOME_REUPTAKE_OF_GABA	R-HSA-888593	Betaine	GABA	beta-Ala
+REACTOME_RHO_GTPASE_EFFECTORS	R-HSA-195258	FA 20:4n-6 (AA)	Suc	a-Ketoglutaric acid
+REACTOME_ROS_AND_RNS_PRODUCTION_IN_PHAGOCYTES	R-HSA-1222556	Arg	Cit	Deoxyguanosine
+REACTOME_SENSORY_PERCEPTION	R-HSA-9709957	AHCys	Asp	Benzoic acid	Citric acid	Cortisone	DG 16:0_16:0	FA 12:0	FA 16:0	FA 18:1	FA 18:2	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 4:0-3M	FA 6:0	FA 7:0	FA 8:0	Glu	Lac	Met	cAMP	cGMP
+REACTOME_SENSORY_PERCEPTION_OF_SWEET_BITTER_AND_UMAMI_GLUTAMATE_TASTE	R-HSA-9717207	Asp	Benzoic acid	Cortisone	Glu
+REACTOME_SENSORY_PERCEPTION_OF_TASTE	R-HSA-9717189	Asp	Benzoic acid	Citric acid	Cortisone	FA 2:0	Glu
+REACTOME_SERINE_BIOSYNTHESIS	R-HSA-977347	Glu	Pyruvic acid	Ser	a-Ketoglutaric acid
+REACTOME_SEROTONIN_AND_MELATONIN_BIOSYNTHESIS	R-HSA-209931	5-OH-Trp	AHCys	Melatonin	Serotonin	Trp
+REACTOME_SIGNALING_BY_GPCR	R-HSA-372790	3-OH-Butyric acid	Adenosine	Arg	CA	CDCA	DCA	DG 16:0_16:0	DOPA	Dopamine	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	GABA	Glu	Histamine	Kynurenic acid	LCA	Lac	Lys	MG 20:4	Melatonin	Nicotinic acid (B3)	Norepinephrine	Orn	PEA	PS 32:0	Serotonin	Suc	a-Ketoglutaric acid	cAMP
+REACTOME_SIGNALING_BY_NUCLEAR_RECEPTORS	R-HSA-9006931	ADMA	AHCys	Arg	C0	C16	Cit	FA 16:0	Pyruvic acid
+REACTOME_SIGNALING_BY_RECEPTOR_TYROSINE_KINASES	R-HSA-9006934	ADMA	Adenosine	Arg	Cit	DG 16:0_16:0	FA 2:0	GABA	PS 32:0	cAMP
+REACTOME_SIGNALING_BY_RETINOIC_ACID	R-HSA-5362517	C0	C16	Pyruvic acid
+REACTOME_SIGNALING_BY_VEGF	R-HSA-194138	ADMA	Arg	Cit	DG 16:0_16:0
+REACTOME_SIGNALING_BY_WNT	R-HSA-195721	AHCys	Nicotinamide (B3)	PS 32:0	cGMP
+REACTOME_SIGNAL_TRANSDUCTION	R-HSA-162582	3-OH-Butyric acid	ADMA	AHCys	Adenosine	Arg	C0	C16	CA	CDCA	Cit	Cortisol	DCA	DG 16:0_16:0	DOPA	Dopamine	Epinephrine	FA 12:0	FA 14:0	FA 15:0	FA 16:0	FA 16:1	FA 18:1	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)	FA 2:0	FA 3:0	FA 4:0	FA 5:0	FA 6:0	GABA	Glu	Gly	Histamine	Kynurenic acid	LCA	Lac	Lys	MG 20:4	Melatonin	Nicotinamide (B3)	Nicotinic acid (B3)	Norepinephrine	Orn	PEA	PS 32:0	Pyruvic acid	Serotonin	Suc	a-Ketoglutaric acid	cAMP	cGMP
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	R-HSA-425407	2-OH-Benzoic acid	3-OH-Butyric acid	AHCys	Adenine	Adenosine	Agmatine	Ala	Arg	Asn	Asp	Betaine	Biotin (B7)	C0	CA	CDCA	Choline	Citric acid	Creatinine	Cys	Cystine	Cytidine	Cytosine	DHEAS	Dopamine	Epinephrine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0	FA 2:0	FA 3:0	FA 4:0	GABA	GCA	GCDCA	Gln	Glu	Gly	Guanine	Guanosine	HArg	His	Histamine	Hypoxanthine	Ile	Inosine	Lac	Leu	Lys	Malic acid	Mannose	Met	Nicotinic acid (B3)	Norepinephrine	Orn	Pantothenic acid (B5)	Phe	Pro	Pyruvic acid	Ser	Serotonin	Spermidine	Spermine	Suc	TCDCA	Taurine	Thr	Thymidine	Thymine	Trp	Tyr	Uracil	Urea	Uric acid	Uridine	Val	a-Ketoglutaric acid	beta-Ala	t4-OH-Pro
+REACTOME_SLC_TRANSPORTER_DISORDERS	R-HSA-5619102	2-OH-Benzoic acid	3-OH-Butyric acid	Adenine	Adenosine	Ala	Arg	Asp	C0	Choline	Cys	Cystine	Cytidine	Dopamine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0	Gln	Glu	Gly	Guanosine	His	Ile	Inosine	Lac	Leu	Lys	Met	Norepinephrine	Phe	Pro	Pyruvic acid	Ser	Thymidine	Trp	Tyr	Uric acid	Uridine	Val	beta-Ala
+REACTOME_SPHINGOLIPID_METABOLISM	R-HSA-428157	FA 16:0	PE 34:2	PE 36:2	Ser
+REACTOME_SULFUR_AMINO_ACID_METABOLISM	R-HSA-1614635	AHCys	Adenine	Adenosine	Betaine	Cys	DMG	Glu	HCys	Hypotaurine	Malic acid	Met	Pyruvic acid	Ser	Taurine	a-Ketoglutaric acid
+REACTOME_SURFACTANT_METABOLISM	R-HSA-5683826	Adenosine	Epinephrine	Inosine	Norepinephrine
+REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_27_HYDROXYCHOLESTEROL	R-HSA-193807	CDCA	DCA	LCA
+REACTOME_SYNTHESIS_OF_LEUKOTRIENES_LT_AND_EOXINS_EX	R-HSA-2142691	FA 20:4n-6 (AA)	Glu	Gly
+REACTOME_SYNTHESIS_OF_PC	R-HSA-1483191	AHCys	Choline	FA 2:0
+REACTOME_SYNTHESIS_OF_PS	R-HSA-1483101	Choline	PS 32:0	Ser
+REACTOME_SYNTHESIS_OF_UDP_N_ACETYL_GLUCOSAMINE	R-HSA-446210	CA	Gln	Glu
+REACTOME_SYNTHESIS_OF_WYBUTOSINE_AT_G37_OF_TRNA_PHE	R-HSA-6782861	AHCys	Met	Pyruvic acid	Suc	a-Ketoglutaric acid
+REACTOME_THE_CANONICAL_RETINOID_CYCLE_IN_RODS_TWILIGHT_VISION	R-HSA-2453902	FA 16:0	FA 18:1	FA 18:2	FA 22:6n-3 (DHA)
+REACTOME_TRANSCRIPTIONAL_REGULATION_BY_TP53	R-HSA-3700989	AHCys	FA 2:0	Gln	Glu
+REACTOME_TRANSLATION	R-HSA-72766	AHCys	Ala	Arg	Asn	Asp	Cys	Gln	Glu	Gly	His	Ile	Leu	Lys	Met	Phe	Pro	Ser	Thr	Trp	Tyr	Val
+REACTOME_TRANSPORT_OF_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS	R-HSA-425366	2-OH-Benzoic acid	3-OH-Butyric acid	Agmatine	Ala	Arg	Asn	Betaine	C0	Choline	Citric acid	Creatinine	Cys	DHEAS	Dopamine	Epinephrine	GABA	Gln	Gly	His	Histamine	Ile	Lac	Leu	Lys	Met	Norepinephrine	Phe	Pro	Pyruvic acid	Ser	Serotonin	Spermidine	Spermine	Suc	Taurine	Thr	Trp	Tyr	Urea	Uric acid	Val	a-Ketoglutaric acid	beta-Ala	t4-OH-Pro
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	R-HSA-425393	AHCys	Ala	Arg	Asn	Asp	Betaine	Citric acid	Cys	Cystine	FA 2:0	FA 3:0	FA 4:0	GABA	Gln	Glu	Gly	HArg	His	Ile	Lac	Leu	Lys	Malic acid	Met	Nicotinic acid (B3)	Orn	Phe	Pro	Pyruvic acid	Ser	Taurine	Thr	Trp	Tyr	Val	a-Ketoglutaric acid	beta-Ala	t4-OH-Pro
+REACTOME_TRANSPORT_OF_NUCLEOSIDES_AND_FREE_PURINE_AND_PYRIMIDINE_BASES_ACROSS_THE_PLASMA_MEMBRANE	R-HSA-83936	Adenine	Adenosine	Cytidine	Cytosine	Dopamine	Epinephrine	Guanine	Guanosine	Hypoxanthine	Inosine	Norepinephrine	Serotonin	Thymidine	Thymine	Uracil	Uridine
+REACTOME_TRANSPORT_OF_ORGANIC_ANIONS	R-HSA-879518	CA	CDCA	DHEAS	GCA	GCDCA	TCDCA
+REACTOME_TRANSPORT_OF_SMALL_MOLECULES	R-HSA-382551	2-OH-Benzoic acid	3-OH-Butyric acid	AHCys	Adenine	Adenosine	Agmatine	Ala	Arg	Asn	Asp	Betaine	Biotin (B7)	C0	CA	CDCA	Choline	Citric acid	Creatinine	Cys	Cystine	Cytidine	Cytosine	DG 16:0_16:0	DHEAS	Dopamine	Epinephrine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0	FA 2:0	FA 3:0	FA 4:0	GABA	GCA	GCDCA	Gln	Glu	Gly	Guanine	Guanosine	HArg	His	Histamine	Hypoxanthine	Ile	Inosine	Lac	Leu	Lys	Malic acid	Mannose	Met	Nicotinic acid (B3)	Norepinephrine	Orn	PS 32:0	Pantothenic acid (B5)	Phe	Pro	Pyruvic acid	Ser	Serotonin	Spermidine	Spermine	Suc	TCDCA	Taurine	Thr	Thymidine	Thymine	Trp	Tyr	Uracil	Urea	Uric acid	Uridine	Val	a-Ketoglutaric acid	beta-Ala	cAMP	t4-OH-Pro
+REACTOME_TRANSPORT_OF_VITAMINS_NUCLEOSIDES_AND_RELATED_MOLECULES	R-HSA-425397	Adenine	Adenosine	Biotin (B7)	CA	CDCA	Cytidine	Cytosine	DHEAS	Dopamine	Epinephrine	FA 10:0	FA 12:0	FA 14:0	FA 16:0	FA 18:1	FA 18:2	FA 20:0	FA 24:0	GCA	GCDCA	Guanine	Guanosine	Hypoxanthine	Inosine	Norepinephrine	Pantothenic acid (B5)	Serotonin	TCDCA	Thymidine	Thymine	Uracil	Uridine
+REACTOME_TRNA_MODIFICATION_IN_THE_NUCLEUS_AND_CYTOSOL	R-HSA-6782315	AHCys	Guanine	Met	Pyruvic acid	Suc	a-Ketoglutaric acid
+REACTOME_TRYPTOPHAN_CATABOLISM	R-HSA-71240	3-IPA	3-OH-Anthranilic acid	Ala	Glu	His	Ile	Indole-Lac	Kynurenic acid	Kynurenine	Leu	Met	Phe	Pyruvic acid	Trp	Tyr	Val	a-Ketoglutaric acid
+REACTOME_TYROSINE_CATABOLISM	R-HSA-8963684	4-OH-Phenylpyruvic acid	Fumaric acid	Glu	Tyr	a-Ketoglutaric acid
+REACTOME_UBIQUINOL_BIOSYNTHESIS	R-HSA-2142789	4-OH-Benzoic acid	4-OH-Phenylpyruvic acid	AHCys
+REACTOME_UREA_CYCLE	R-HSA-70635	Arg	Arginino-Suc	Asp	Carbamoyl-PO4	Cit	Fumaric acid	Glu	N-Ac-Glu	Orn	Urea
+REACTOME_VARIANT_SLC6A14_MAY_CONFER_SUSCEPTIBILITY_TOWARDS_OBESITY	R-HSA-5619094	Ala	Arg	Cys	Gly	His	Ile	Leu	Lys	Met	Ser	Trp	Val	beta-Ala
+REACTOME_VEGFR2_MEDIATED_VASCULAR_PERMEABILITY	R-HSA-5218920	ADMA	Arg	Cit
+REACTOME_VESICLE_MEDIATED_TRANSPORT	R-HSA-5653656	Epinephrine	Mannose	Norepinephrine	PS 32:0
+REACTOME_VISUAL_PHOTOTRANSDUCTION	R-HSA-2187338	AHCys	DG 16:0_16:0	FA 16:0	FA 18:1	FA 18:2	FA 22:6n-3 (DHA)	Met	cGMP

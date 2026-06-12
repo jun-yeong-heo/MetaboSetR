@@ -1,0 +1,15 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.Rprofile$
+^\.claude$
+^\.gitignore$
+^\.github$
+^docs$
+^data-raw$
+^renv$
+^renv\.lock$
+^vignettes$
+^README\.Rmd$
+^README\.md$
+^CLAUDE\.md$
+^cran-comments\.md$

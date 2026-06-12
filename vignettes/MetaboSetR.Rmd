@@ -1,0 +1,18 @@
+---
+title: "MetaboSetR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{MetaboSetR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
+```
+
+`MetaboSetR` preprocesses Biocrates MxP Quant 1000 WebIDQ exports and runs
+metabolite-level feature statistics together with curated pathway-set
+enrichment (GSEA / ORA). See `docs/DESIGN.md` for the full design.
+
+A full worked example will be added here.

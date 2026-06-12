@@ -1,0 +1,38 @@
+# R session state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Package build artifacts
+/Meta/
+/build/
+/inst/doc/
+*.tar.gz
+*.tgz
+
+# Real sample data — never commit (CLAUDE.md §5.1)
+data-raw/real_samples/
+tmp_data/
+
+# Pathway-set raw downloads — large external source data, not committed
+# (CLAUDE.md §5.3: commit derived master TSV + build.py + logs, not raw).
+data-raw/pathway_sets/lion/raw/
+data-raw/pathway_sets/ramp/raw/
+
+# Logs
+*.log
+
+# Python build artifacts (data-raw build scripts)
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+
+# renv-specific ignores live in renv/.gitignore

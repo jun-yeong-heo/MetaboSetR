@@ -1,0 +1,655 @@
+shortname	fullname	analyte_class	set_name	match_basis
+Ala	Alanine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Arg	Arginine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Asn	Asparagine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Asp	Aspartic acid	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Cys	Cysteine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Gln	Glutamine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Glu	Glutamic acid	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Gly	Glycine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+His	Histidine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Ile	Isoleucine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Leu	Leucine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Lys	Lysine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Met	Methionine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Phe	Phenylalanine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Pro	Proline	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Ser	Serine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Thr	Threonine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Trp	Tryptophan	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Tyr	Tyrosine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+Val	Valine	Amino acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acids
+1-Met-His	1-Methylhistidine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+3-Met-2-oxovaleric acid	3-Methyl-2-oxovaleric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+3-Met-His	3-Methylhistidine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+3-OH-Anthranilic acid	3-Hydroxyanthranilic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+3-OH-Kynurenine	3-Hydroxykynurenine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+4-Guanidinobutanoic acid	4-Guanidinobutanoic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+4-Met-2-oxovaleric acid	2-Oxoisocaproic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+5-Amino-4-oxovaleric acid	5-Amino-4-oxovaleric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+5-AVA	5-Aminovaleric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+5-OH-Trp	5-Hydroxytryptophan	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+5-Oxo-Pro	5-Oxoproline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+AABA	alpha-Aminobutyric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Ac-Orn	Acetylornithine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+ADMA	Asymmetric dimethylarginine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Agmatine	Agmatine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+a-Ketoisovaleric acid	alpha-Ketoisovaleric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+alpha-AAA	alpha-Aminoadipic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Anserine	Anserine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Anthranilic acid	Anthranilic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Arginino-Suc	Argininosuccinic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+BABA	beta-Aminobutyric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+BAIBA	3-Aminoisobutyric acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Betaine	Betaine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+c4-OH-Pro	cis-4-Hydroxyproline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Carbamoyl-PO4	Carbamoylphosphate	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Carnosine	Carnosine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Cinnamoyl-Gly	Cinnamoylglycine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Cit	Citrulline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Creatine	Creatine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Creatinine	Creatinine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Cystine	Cystine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+DMG	Dimethylglycine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+DOPA	Dihydroxyphenylalanine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Furoyl-Gly	Furoylglycine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Guanidinoacetic acid	Guanidinoacetic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+HArg	Homoarginine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+HCit	Homocitrulline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+HCys	Homocysteine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+HSer	Homoserine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Hypotaurine	Hypotaurine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Imidazolepropionic acid	Imidazolepropionic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Kynurenine	Kynurenine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Met-SO	Methionine sulfoxide	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N2-Ac-Lys	N2-Acetyllysine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N6-Ac-Lys	N6-Acetyllysine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Ala	N-Acetylalanine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Arg	N-Acetylarginine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Asn	N-Acetylasparagine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Asp	N-Acetylaspartic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Gln	N-Acetylglutamine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Glu	N-Acetylglutamic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Gly	N-Acetylglycine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-His	N-Acetylhistidine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Ile	N-Acetylisoleucine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Leu	N-Acetylleucine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Met	N-Acetylmethionine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Phe	N-Acetylphenylalanine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Pro	N-Acetylproline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Ser	N-Acetylserine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Trp	N-Acetyltryptophan	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Tyr	N-Acetyltyrosine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Ac-Val	N-Acetylvaline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Nitro-Tyr	Nitrotyrosine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Met-Asp	N-Methylaspartic acid	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+N-Nitroso-Pro	N-Nitrosoproline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Orn	Ornithine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+PAG	Phenylacetylglycine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+PheAlaBetaine	Phenylalanine betaine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Phenylacetylglutamine	Phenylacetylglutamine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+ProBetaine	Proline betaine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Sarcosine	Sarcosine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+SDMA	Symmetric dimethylarginine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+t4-OH-Pro	trans-4-Hydroxyproline	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Taurine	Taurine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+TrpBetaine	Tryptophan betaine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Tryptamine	Tryptamine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+Tyramine	Tyramine	Amino acid-related	IMMUNOMET_ONEIL_AA_METABOLISM	class:Amino acid-related
+beta-Ala	beta-Alanine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+GABA	gamma-Aminobutyric acid	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Dopamine	Dopamine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Histamine	Histamine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+PEA	Phenylethylamine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Putrescine	Putrescine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Serotonin	Serotonin	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Spermidine	Spermidine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Spermine	Spermine	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Urea	Urea	Biogenic amines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Biogenic amines
+Lac	Lactic acid	Carboxylic acids	IMMUNOMET_ONEIL_GLYCOLYSIS	individual
+Pyruvic acid	Pyruvic acid	Carboxylic acids	IMMUNOMET_ONEIL_GLYCOLYSIS	individual
+2-OH-Glutaric acid	2-Hydroxyglutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+3-HMGA	3-Hydroxymethylglutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+3-Met-adipic acid	3-Methyladipic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+3-Met-glutaric acid	3-Methylglutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+3-OH-Glutaric acid	3-Hydroxyglutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+3-OH-Sebacic acid	3-Hydroxysebacic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Adipic acid	Adipic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+a-Ketoglutaric acid	alpha-Ketoglutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Citramalic acid	Citramalic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+DiCA 12:0	Dodecanedioic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+DiCA 14:0	Tetradecanedioic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+E-3-Met-glutaconic acid	E-3-Methylglutaconic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Ethylmalonic acid	Ethylmalonic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Fumaric acid	Fumaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Glutaric acid	Glutaric acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Itaconic acid	Itaconic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Maleic acid	Maleic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Malic acid	Malic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Malonic acid	Malonic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Methylmalonic acid	Methylmalonic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Oxalic acid	Oxalic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Oxaloacetic acid	Oxaloacetic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Suberic acid	Suberic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+Suc	Succinic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Z-3-Met-glutaconic acid	Z-3-Methylglutaconic acid	Dicarboxylic acids	IMMUNOMET_ONEIL_FAO	class:Dicarboxylic acids
+FA 2:0	Acetic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 3:0	Propanoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 3:0-2M	Isobutyric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 4:0	Butyric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 4:0-2M	2-Methylbutyric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 4:0-3M	Isovaleric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 5:0	Valeric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 5:0-3M	3-Methylvaleric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 5:0-4M	Isocaproic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 6:0	Caproic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 7:0	Heptanoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 8:0	Caprylic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 9:0	Nonanoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 10:0	Capric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 11:0	Undecanoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 12:0	Lauric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 14:0	Myristic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 14:1n-5	Myristoleic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 15:0	Pentadecanoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 16:0	Palmitic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 16:1	Palmitoleic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 18:0	Stearic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 18:1	Oleic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 18:2	Linoleic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 18:3	Octadecatrienoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:0	Arachidic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:1n-9	Gondoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:2	Eicosadienoic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:3n-6	Dihomo-gamma-linolenic acid (omega6)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:3n-9	Mead acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:4n-6 (AA)	Arachidonic acid (AA; omega6)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 20:5n-3 (EPA)	Eicosapentaenoic acid (EPA; omega3)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 22:0	Behenic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 22:4n-6	Docosatetraenoic acid (omega6)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 22:5n-3 (DPA)	Docosapentaenoic acid (DPA, omega3)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 22:6n-3 (DHA)	Docosahexaenoic acid (DHA; omega3)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 24:0	Lignoceric acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 24:1n-9	Nervonic acid	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+FA 24:4n-6	Tetracosatetraenoic acid (omega6)	Fatty acids	IMMUNOMET_ONEIL_FAS	class:Fatty acids
+3-IAA	3-Indoleacetic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+3-IPA	3-Indolepropionic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+5-HIAA	5-Hydroxyindoleacetic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+IAG	Indolylacryloylglycine	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indole-3-acetamide	Indole-3-acetamide	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indole-3-carboxylic acid	Indole-3-carboxylic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indole-3-ethanol	Indole-3-ethanol	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indole-3-methanol	Indole-3-methanol	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indoleacetaldehyde	Indoleacetaldehyde	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indoleacrylic acid	Indoleacrylic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indolealdehyde	Indolealdehyde	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indole-Lac	Indolelactic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indolepyruvic acid	Indolepyruvic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Indoxyl glucuronide	Indoxyl glucuronide	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Ind-SO4	Indoxyl sulfate	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Melatonin	Melatonin	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Met-IAA	Methylindole-3-acetic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Met-IPA	Methylindole-3-propionic acid	Indoles and derivatives	IMMUNOMET_ONEIL_AA_METABOLISM	class:Indoles and derivatives
+Cadaverine	Cadaverine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N1,N8-Di-Ac-Spermidine	N1,N8-Diacetylspermidine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N1,N12-Di-Ac-Spermine	N1,N12-Diacetylspermine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N1-Ac-Spermidine	N1-Acetylspermidine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N1-Ac-Spermine	N1-Acetylspermine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N8-Ac-Spermidine	N8-Acetylspermidine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+N-Ac-Putrescine	N-Acetylputrescine	Polyamines	IMMUNOMET_ONEIL_AA_METABOLISM	class:Polyamines
+Isonicotinic acid	Isonicotinic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Kynurenic acid	Kynurenic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Picolinic acid	Picolinic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Quinaldic acid	Quinaldic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Quinolinic acid	Quinolinic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Xanthurenic acid	Xanthurenic acid	Pyridinecarboxylic acids	IMMUNOMET_ONEIL_AA_METABOLISM	class:Pyridinecarboxylic acids
+Glucose	Glucose	Sugars	IMMUNOMET_ONEIL_GLYCOLYSIS	individual
+AconAcid	Aconitic acid	Tricarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Citric acid	Citric acid	Tricarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+Isocitric acid	Isocitric acid	Tricarboxylic acids	IMMUNOMET_ONEIL_TCA	individual
+C0	Carnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C2	Acetylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C3	Propionylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C3-DC (C4-OH)	Malonylcarnitine (Hydroxybutyrylcarnitine)	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C3-OH	Hydroxypropionylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C3:1	Propenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C4	Butyrylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C4:1	Butenylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5	Valerylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5-DC (C6-OH)	Glutarylcarnitine (Hydroxyhexanoylcarnitine)	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5-M-DC	Methylglutarylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5-OH (C3-DC-M)	Hydroxyvalerylcarnitine (Methylmalonylcarnitine)	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5:1	Tiglylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C5:1-DC	Glutaconylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C10:1	Decenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C10:2	Decadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C12	Dodecanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C12-DC	Dodecanedioylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C12:1	Dodecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C14	Tetradecanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C14:1	Tetradecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C14:1-OH	Hydroxytetradecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C14:2	Tetradecadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C14:2-OH	Hydroxytetradecadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16	Hexadecanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16-OH	Hydroxyhexadecanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16:1	Hexadecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16:1-OH	Hydroxyhexadecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C6 (C4:1-DC)	Hexanoylcarnitine (Fumarylcarnitine)	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C6:1	Hexenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C7-DC	Pimeloylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C8	Octanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C9	Nonanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C10	Decanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16:2	Hexadecadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C16:2-OH	Hydroxyhexadecadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C18	Octadecanoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C18:1	Octadecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C18:1-OH	Hydroxyoctadecenoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+C18:2	Octadecadienoylcarnitine	Acylcarnitines	IMMUNOMET_ONEIL_FAO	class:Acylcarnitines
+CE 14:0	CE 14:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 14:1	CE 14:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 15:0	CE 15:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 15:1	CE 15:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 16:0	CE 16:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 16:1	CE 16:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 17:0	CE 17:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 17:1	CE 17:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 18:0	CE 18:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 18:1	CE 18:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 18:2	CE 18:2	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 18:3	CE 18:3	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 20:0	CE 20:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 20:1	CE 20:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 20:3	CE 20:3	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 20:4	CE 20:4	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 20:5	CE 20:5	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 22:0	CE 22:0	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 22:1	CE 22:1	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 22:2	CE 22:2	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 22:5	CE 22:5	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+CE 22:6	CE 22:6	Cholesteryl esters	IMMUNOMET_ONEIL_FAS	class:Cholesteryl esters
+DG 14:0_14:0	DG 14:0_14:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 14:0_18:1	DG 14:0_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 14:0_18:2	DG 14:0_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 14:0_20:0	DG 14:0_20:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 14:1_18:1	DG 14:1_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 14:1_20:2	DG 14:1_20:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_16:0	DG 16:0_16:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_16:1	DG 16:0_16:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_18:1	DG 16:0_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_18:2	DG 16:0_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_20:0	DG 16:0_20:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_20:3	DG 16:0_20:3	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:0_20:4	DG 16:0_20:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:1_18:0	DG 16:1_18:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:1_18:1	DG 16:1_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:1_18:2	DG 16:1_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 16:1_20:0	DG 16:1_20:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 17:0_18:1	DG 17:0_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:0_20:4	DG 18:0_20:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_18:1	DG 18:1_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_18:2	DG 18:1_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_18:3	DG 18:1_18:3	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_18:4	DG 18:1_18:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_20:0	DG 18:1_20:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_20:1	DG 18:1_20:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_20:2	DG 18:1_20:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_20:3	DG 18:1_20:3	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_20:4	DG 18:1_20:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_22:5	DG 18:1_22:5	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:1_22:6	DG 18:1_22:6	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:2_18:2	DG 18:2_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:2_18:3	DG 18:2_18:3	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:2_18:4	DG 18:2_18:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:2_20:0	DG 18:2_20:0	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:2_20:4	DG 18:2_20:4	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:3_18:3	DG 18:3_18:3	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 18:3_20:2	DG 18:3_20:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 21:0_22:6	DG 21:0_22:6	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG 22:1_22:2	DG 22:1_22:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG O-14:0_18:2	DG O-14:0_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG O-16:0_18:1	DG O-16:0_18:1	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+DG O-18:2_18:2	DG O-18:2_18:2	Diglycerides	IMMUNOMET_ONEIL_FAS	class:Diglycerides
+LPC 14:0	LPC 14:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 16:0	LPC 16:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 16:1	LPC 16:1	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 17:0	LPC 17:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 18:0	LPC 18:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 18:1	LPC 18:1	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 18:2	LPC 18:2	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 20:3	LPC 20:3	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 20:4	LPC 20:4	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 24:0	LPC 24:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 26:0	LPC 26:0	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+LPC 26:1	LPC 26:1	Lysophosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Lysophosphatidylcholines
+MG 16:1	MG 16:1	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 18:1	MG 18:1	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 18:2	MG 18:2	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 18:3	MG 18:3	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 20:1	MG 20:1	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 20:3	MG 20:3	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 20:4	MG 20:4	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 20:5	MG 20:5	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 22:1	MG 22:1	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 22:2	MG 22:2	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 22:4	MG 22:4	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+MG 22:6	MG 22:6	Monoglycerides	IMMUNOMET_ONEIL_FAS	class:Monoglycerides
+PC 24:0	PC 24:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 26:0	PC 26:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 28:1	PC 28:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 30:0	PC 30:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 32:0	PC 32:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 32:1	PC 32:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 32:2	PC 32:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 32:3	PC 32:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 34:1	PC 34:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 34:2	PC 34:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 34:3	PC 34:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 34:4	PC 34:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:0	PC 36:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:1	PC 36:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:2	PC 36:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:3	PC 36:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:4	PC 36:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:5	PC 36:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 36:6	PC 36:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 38:0	PC 38:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 38:3	PC 38:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 38:4	PC 38:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 38:5	PC 38:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 38:6	PC 38:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:1	PC 40:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:2	PC 40:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:3	PC 40:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:4	PC 40:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:5	PC 40:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 40:6	PC 40:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:0	PC 42:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:1	PC 42:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:2	PC 42:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:4	PC 42:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:5	PC 42:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC 42:6	PC 42:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-28:0	PC O-28:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-28:1	PC O-28:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-30:0	PC O-30:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-30:1	PC O-30:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-30:2	PC O-30:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-32:1	PC O-32:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-32:2	PC O-32:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-34:0	PC O-34:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-34:1	PC O-34:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-34:2	PC O-34:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-34:3	PC O-34:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:0	PC O-36:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:1	PC O-36:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:2	PC O-36:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:3	PC O-36:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:4	PC O-36:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-36:5	PC O-36:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:0	PC O-38:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:1	PC O-38:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:2	PC O-38:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:3	PC O-38:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:4	PC O-38:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:5	PC O-38:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-38:6	PC O-38:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:1	PC O-40:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:2	PC O-40:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:3	PC O-40:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:4	PC O-40:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:5	PC O-40:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-40:6	PC O-40:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:0	PC O-42:0	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:1	PC O-42:1	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:2	PC O-42:2	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:3	PC O-42:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:4	PC O-42:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-42:5	PC O-42:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-44:3	PC O-44:3	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-44:4	PC O-44:4	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-44:5	PC O-44:5	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+PC O-44:6	PC O-44:6	Phosphatidylcholines	IMMUNOMET_ONEIL_FAS	class:Phosphatidylcholines
+TG 14:0_32:2	TG 14:0_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_34:1	TG 16:0_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_32:0	TG 16:1_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_34:3	TG 17:1_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_34:0	TG 14:0_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_34:2	TG 16:0_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_32:1	TG 16:1_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_36:3	TG 17:1_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_34:1	TG 14:0_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_34:3	TG 16:0_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_32:2	TG 16:1_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_36:4	TG 17:1_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_34:2	TG 14:0_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_34:4	TG 16:0_34:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_33:1	TG 16:1_33:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_36:5	TG 17:1_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_34:3	TG 14:0_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_35:1	TG 16:0_35:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_34:0	TG 16:1_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_38:5	TG 17:1_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_35:1	TG 14:0_35:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_35:2	TG 16:0_35:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_34:1	TG 16:1_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_38:6	TG 17:1_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_35:2	TG 14:0_35:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_35:3	TG 16:0_35:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_34:2	TG 16:1_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_38:7	TG 17:1_38:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_36:1	TG 14:0_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_36:2	TG 16:0_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_34:3	TG 16:1_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_34:2	TG 17:2_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_36:2	TG 14:0_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_36:3	TG 16:0_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_36:1	TG 16:1_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_34:3	TG 17:2_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_36:3	TG 14:0_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_36:4	TG 16:0_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_36:2	TG 16:1_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_36:2	TG 17:2_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_36:4	TG 14:0_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_36:5	TG 16:0_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_36:3	TG 16:1_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_36:3	TG 17:2_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_38:4	TG 14:0_38:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_36:6	TG 16:0_36:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_36:4	TG 16:1_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_36:4	TG 17:2_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_38:5	TG 14:0_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_37:3	TG 16:0_37:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_36:5	TG 16:1_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_38:5	TG 17:2_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_39:3	TG 14:0_39:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:1	TG 16:0_38:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_38:3	TG 16:1_38:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_38:6	TG 17:2_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 14:0_40:5	TG 14:0_40:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:2	TG 16:0_38:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_38:4	TG 16:1_38:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:2_38:7	TG 17:2_38:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_28:1	TG 16:0_28:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:3	TG 16:0_38:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_38:5	TG 16:1_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_30:0	TG 18:0_30:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_28:2	TG 16:0_28:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:4	TG 16:0_38:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_32:1	TG 17:0_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_30:1	TG 18:0_30:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_30:2	TG 16:0_30:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:5	TG 16:0_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_34:1	TG 17:0_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_32:0	TG 18:0_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_32:0	TG 16:0_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:6	TG 16:0_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_34:3	TG 17:0_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_34:2	TG 18:0_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_32:1	TG 16:0_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_38:7	TG 16:0_38:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_36:3	TG 17:0_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_34:3	TG 18:0_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_32:2	TG 16:0_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_40:6	TG 16:0_40:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_36:4	TG 17:0_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_36:1	TG 18:0_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_32:3	TG 16:0_32:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_40:7	TG 16:0_40:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_32:1	TG 17:1_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_36:2	TG 18:0_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_33:1	TG 16:0_33:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_40:8	TG 16:0_40:8	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_34:1	TG 17:1_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_36:3	TG 18:0_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_33:2	TG 16:0_33:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_28:0	TG 16:1_28:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:1_34:2	TG 17:1_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_30:0	TG 20:4_30:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:0_34:0	TG 16:0_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 16:1_30:1	TG 16:1_30:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_36:3	TG 18:3_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_32:0	TG 20:4_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_36:4	TG 18:0_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_30:1	TG 18:2_30:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_36:4	TG 18:3_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_32:1	TG 20:4_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_36:5	TG 18:0_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_31:0	TG 18:2_31:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_38:5	TG 18:3_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_32:2	TG 20:4_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_38:6	TG 18:0_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_32:0	TG 18:2_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_38:6	TG 18:3_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_33:2	TG 20:4_33:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_38:7	TG 18:0_38:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_32:1	TG 18:2_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:0_32:3	TG 20:0_32:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_34:0	TG 20:4_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_26:0	TG 18:1_26:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_32:2	TG 18:2_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:0_32:4	TG 20:0_32:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_34:1	TG 20:4_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_28:1	TG 18:1_28:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_33:0	TG 18:2_33:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:0_34:1	TG 20:0_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_34:2	TG 20:4_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_30:0	TG 18:1_30:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_33:1	TG 18:2_33:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_26:1	TG 20:1_26:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_34:3	TG 20:4_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_30:1	TG 18:1_30:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_33:2	TG 18:2_33:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_30:1	TG 20:1_30:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_35:3	TG 20:4_35:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_30:2	TG 18:1_30:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_34:1	TG 18:2_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_31:0	TG 20:1_31:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_36:2	TG 20:4_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_31:0	TG 18:1_31:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_34:2	TG 18:2_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_32:0	TG 20:1_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_36:3	TG 20:4_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_32:0	TG 18:1_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_34:3	TG 18:2_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_32:1	TG 20:1_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_36:4	TG 20:4_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_32:1	TG 18:1_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_34:4	TG 18:2_34:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_32:2	TG 20:1_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:4_36:5	TG 20:4_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_32:2	TG 18:1_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_35:1	TG 18:2_35:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_32:3	TG 20:1_32:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:5_34:0	TG 20:5_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_32:3	TG 18:1_32:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_35:2	TG 18:2_35:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_34:0	TG 20:1_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:5_34:1	TG 20:5_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_33:0	TG 18:1_33:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_35:3	TG 18:2_35:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_34:1	TG 20:1_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:5_34:2	TG 20:5_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_33:1	TG 18:1_33:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:0	TG 18:2_36:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_34:2	TG 20:1_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:5_36:2	TG 20:5_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_33:2	TG 18:1_33:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:1	TG 18:2_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:1_34:3	TG 20:1_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:5_36:3	TG 20:5_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_33:3	TG 18:1_33:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:2	TG 18:2_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_32:0	TG 20:2_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:0_32:4	TG 22:0_32:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_34:1	TG 18:1_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:3	TG 18:2_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_32:1	TG 20:2_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:1_32:5	TG 22:1_32:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_34:2	TG 18:1_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:4	TG 18:2_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_34:1	TG 20:2_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:2_32:4	TG 22:2_32:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_34:3	TG 18:1_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_36:5	TG 18:2_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_34:2	TG 20:2_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:3_30:2	TG 22:3_30:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_34:4	TG 18:1_34:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_38:4	TG 18:2_38:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_34:3	TG 20:2_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:4_32:0	TG 22:4_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_35:2	TG 18:1_35:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_38:5	TG 18:2_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_34:4	TG 20:2_34:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:4_32:2	TG 22:4_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_35:3	TG 18:1_35:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_38:6	TG 18:2_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:2_36:5	TG 20:2_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:4_34:2	TG 22:4_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:0	TG 18:1_36:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_30:0	TG 18:3_30:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_32:0	TG 20:3_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:5_32:0	TG 22:5_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:1	TG 18:1_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_32:0	TG 18:3_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_32:1	TG 20:3_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:5_32:1	TG 22:5_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:2	TG 18:1_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_32:1	TG 18:3_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_32:2	TG 20:3_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:5_34:1	TG 22:5_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:3	TG 18:1_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_33:2	TG 18:3_33:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_34:0	TG 20:3_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:5_34:2	TG 22:5_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:4	TG 18:1_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_34:0	TG 18:3_34:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_34:1	TG 20:3_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:5_34:3	TG 22:5_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:5	TG 18:1_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_34:1	TG 18:3_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_34:2	TG 20:3_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:6_32:0	TG 22:6_32:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_36:6	TG 18:1_36:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_34:2	TG 18:3_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_34:3	TG 20:3_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:6_32:1	TG 22:6_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_38:5	TG 18:1_38:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_34:3	TG 18:3_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_36:3	TG 20:3_36:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:6_34:1	TG 22:6_34:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_38:6	TG 18:1_38:6	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_35:2	TG 18:3_35:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_36:4	TG 20:3_36:4	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:6_34:2	TG 22:6_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:1_38:7	TG 18:1_38:7	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_36:1	TG 18:3_36:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 20:3_36:5	TG 20:3_36:5	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 22:6_34:3	TG 22:6_34:3	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_28:0	TG 18:2_28:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:3_36:2	TG 18:3_36:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_32:1	TG 18:0_32:1	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:2_30:0	TG 18:2_30:0	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 17:0_34:2	TG 17:0_34:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides
+TG 18:0_32:2	TG 18:0_32:2	Triglycerides	IMMUNOMET_ONEIL_FAS	class:Triglycerides

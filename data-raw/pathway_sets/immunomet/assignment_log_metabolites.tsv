@@ -1,0 +1,1235 @@
+shortname	fullname	analyte_class	n_pathways	pathways
+Nicotine	Nicotine	Alkaloids	0	
+Trigonelline	Trigonelline	Alkaloids	0	
+TMAO	Trimethylamine N-oxide	Amine oxides	0	
+Ala	Alanine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Arg	Arginine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Asn	Asparagine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Asp	Aspartic acid	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Cys	Cysteine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Gln	Glutamine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Glu	Glutamic acid	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Gly	Glycine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+His	Histidine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Ile	Isoleucine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Leu	Leucine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Lys	Lysine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Met	Methionine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Phe	Phenylalanine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Pro	Proline	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Ser	Serine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Thr	Threonine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Trp	Tryptophan	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Tyr	Tyrosine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Val	Valine	Amino acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+1-Met-His	1-Methylhistidine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-Met-2-oxovaleric acid	3-Methyl-2-oxovaleric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-Met-His	3-Methylhistidine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-OH-Anthranilic acid	3-Hydroxyanthranilic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-OH-Kynurenine	3-Hydroxykynurenine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+4-Guanidinobutanoic acid	4-Guanidinobutanoic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+4-Met-2-oxovaleric acid	2-Oxoisocaproic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+5-Amino-4-oxovaleric acid	5-Amino-4-oxovaleric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+5-AVA	5-Aminovaleric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+5-OH-Trp	5-Hydroxytryptophan	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+5-Oxo-Pro	5-Oxoproline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+AABA	alpha-Aminobutyric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Ac-Orn	Acetylornithine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+ADMA	Asymmetric dimethylarginine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Agmatine	Agmatine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+a-Ketoisovaleric acid	alpha-Ketoisovaleric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+alpha-AAA	alpha-Aminoadipic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Anserine	Anserine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Anthranilic acid	Anthranilic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Arginino-Suc	Argininosuccinic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+BABA	beta-Aminobutyric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+BAIBA	3-Aminoisobutyric acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Betaine	Betaine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+c4-OH-Pro	cis-4-Hydroxyproline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Carbamoyl-PO4	Carbamoylphosphate	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Carnosine	Carnosine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Cinnamoyl-Gly	Cinnamoylglycine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Cit	Citrulline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Creatine	Creatine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Creatinine	Creatinine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Cystine	Cystine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+DMG	Dimethylglycine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+DOPA	Dihydroxyphenylalanine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Furoyl-Gly	Furoylglycine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Guanidinoacetic acid	Guanidinoacetic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+HArg	Homoarginine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+HCit	Homocitrulline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+HCys	Homocysteine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+HSer	Homoserine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Hypotaurine	Hypotaurine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Imidazolepropionic acid	Imidazolepropionic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Kynurenine	Kynurenine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Met-SO	Methionine sulfoxide	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N2-Ac-Lys	N2-Acetyllysine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N6-Ac-Lys	N6-Acetyllysine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Ala	N-Acetylalanine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Arg	N-Acetylarginine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Asn	N-Acetylasparagine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Asp	N-Acetylaspartic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Gln	N-Acetylglutamine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Glu	N-Acetylglutamic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Gly	N-Acetylglycine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-His	N-Acetylhistidine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Ile	N-Acetylisoleucine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Leu	N-Acetylleucine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Met	N-Acetylmethionine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Phe	N-Acetylphenylalanine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Pro	N-Acetylproline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Ser	N-Acetylserine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Trp	N-Acetyltryptophan	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Tyr	N-Acetyltyrosine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Val	N-Acetylvaline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Nitro-Tyr	Nitrotyrosine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Met-Asp	N-Methylaspartic acid	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Nitroso-Pro	N-Nitrosoproline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Orn	Ornithine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+PAG	Phenylacetylglycine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+PheAlaBetaine	Phenylalanine betaine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Phenylacetylglutamine	Phenylacetylglutamine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+ProBetaine	Proline betaine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Sarcosine	Sarcosine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+SDMA	Symmetric dimethylarginine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+t4-OH-Pro	trans-4-Hydroxyproline	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Taurine	Taurine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+TrpBetaine	Tryptophan betaine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Tryptamine	Tryptamine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Tyramine	Tyramine	Amino acid-related	1	IMMUNOMET_ONEIL_AA_METABOLISM
+12-KetoDCA	12-Ketodeoxycholic acid	Bile acids	0	
+3-EpiDCA	3-Epideoxycholic acid	Bile acids	0	
+7-KetoDCA	7-Ketodeoxycholic acid	Bile acids	0	
+CA	Cholic acid	Bile acids	0	
+CDCA	Chenodeoxycholic acid	Bile acids	0	
+DCA	Deoxycholic acid	Bile acids	0	
+GCA	Glycocholic acid	Bile acids	0	
+GCDCA	Glycochenodeoxycholic acid	Bile acids	0	
+GDCA	Glycodeoxycholic acid	Bile acids	0	
+GLCA	Glycolithocholic acid	Bile acids	0	
+GLCAS	Glycolithocholic acid sulfate	Bile acids	0	
+GUDCA	Glycoursodeoxycholic acid	Bile acids	0	
+IsoLCA	Isolithocholic acid	Bile acids	0	
+IsoUDCA	Isoursodeoxycholic acid	Bile acids	0	
+LCA	Lithocholic acid	Bile acids	0	
+NorDCA	Nordeoxycholic acid	Bile acids	0	
+TCA	Taurocholic acid	Bile acids	0	
+TCDCA	Taurochenodeoxycholic acid	Bile acids	0	
+TDCA	Taurodeoxycholic acid	Bile acids	0	
+THDCA	Taurohyodeoxycholic acid	Bile acids	0	
+TLCA	Taurolithocholic acid	Bile acids	0	
+TMCA	Tauromuricholic acids	Bile acids	0	
+TUDCA	Tauroursodeoxycholic acid	Bile acids	0	
+UDCA	Ursodeoxycholic acid	Bile acids	0	
+beta-Ala	beta-Alanine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+GABA	gamma-Aminobutyric acid	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Dopamine	Dopamine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Histamine	Histamine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+PEA	Phenylethylamine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Putrescine	Putrescine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Serotonin	Serotonin	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Spermidine	Spermidine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Spermine	Spermine	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Urea	Urea	Biogenic amines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+2-OH-Butyric acid	2-Hydroxybutyric acid	Carboxylic acids	0	
+3-OH-Butyric acid	3-Hydroxybutyric acid	Carboxylic acids	0	
+Glycolic acid	Glycolic acid	Carboxylic acids	0	
+Glyoxylic acid	Glyoxylic acid	Carboxylic acids	0	
+HipAcid	Hippuric acid	Carboxylic acids	0	
+Lac	Lactic acid	Carboxylic acids	1	IMMUNOMET_ONEIL_GLYCOLYSIS
+Mevalonic acid	Mevalonic acid	Carboxylic acids	0	
+Pyruvic acid	Pyruvic acid	Carboxylic acids	1	IMMUNOMET_ONEIL_GLYCOLYSIS
+3,4-DiOH-Benzaldehyde	3,4-Dihydroxybenzaldehyde	Catechols	0	
+Epinephrine	Epinephrine	Catechols	0	
+Norepinephrine	Norepinephrine	Catechols	0	
+p-Cresol glucuronide	p-Cresol glucuronide	Cresols	0	
+p-Cresol-SO4	p-Cresol sulfate	Cresols	0	
+2-OH-Glutaric acid	2-Hydroxyglutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+3-HMGA	3-Hydroxymethylglutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+3-Met-adipic acid	3-Methyladipic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+3-Met-glutaric acid	3-Methylglutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+3-OH-Glutaric acid	3-Hydroxyglutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+3-OH-Sebacic acid	3-Hydroxysebacic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Adipic acid	Adipic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+a-Ketoglutaric acid	alpha-Ketoglutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Citramalic acid	Citramalic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+DiCA 12:0	Dodecanedioic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+DiCA 14:0	Tetradecanedioic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+E-3-Met-glutaconic acid	E-3-Methylglutaconic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Ethylmalonic acid	Ethylmalonic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Fumaric acid	Fumaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Glutaric acid	Glutaric acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Itaconic acid	Itaconic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Maleic acid	Maleic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Malic acid	Malic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Malonic acid	Malonic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Methylmalonic acid	Methylmalonic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Oxalic acid	Oxalic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Oxaloacetic acid	Oxaloacetic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Suberic acid	Suberic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+Suc	Succinic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Z-3-Met-glutaconic acid	Z-3-Methylglutaconic acid	Dicarboxylic acids	1	IMMUNOMET_ONEIL_FAO
+FA 2:0	Acetic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 3:0	Propanoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 3:0-2M	Isobutyric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 4:0	Butyric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 4:0-2M	2-Methylbutyric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 4:0-3M	Isovaleric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 5:0	Valeric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 5:0-3M	3-Methylvaleric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 5:0-4M	Isocaproic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 6:0	Caproic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 7:0	Heptanoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 8:0	Caprylic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 9:0	Nonanoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 10:0	Capric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 11:0	Undecanoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 12:0	Lauric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 14:0	Myristic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 14:1n-5	Myristoleic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 15:0	Pentadecanoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 16:0	Palmitic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 16:1	Palmitoleic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 18:0	Stearic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 18:1	Oleic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 18:2	Linoleic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 18:3	Octadecatrienoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:0	Arachidic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:1n-9	Gondoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:2	Eicosadienoic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:3n-6	Dihomo-gamma-linolenic acid (omega6)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:3n-9	Mead acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:4n-6 (AA)	Arachidonic acid (AA; omega6)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 20:5n-3 (EPA)	Eicosapentaenoic acid (EPA; omega3)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 22:0	Behenic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 22:4n-6	Docosatetraenoic acid (omega6)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 22:5n-3 (DPA)	Docosapentaenoic acid (DPA, omega3)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 22:6n-3 (DHA)	Docosahexaenoic acid (DHA; omega3)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 24:0	Lignoceric acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 24:1n-9	Nervonic acid	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+FA 24:4n-6	Tetracosatetraenoic acid (omega6)	Fatty acids	1	IMMUNOMET_ONEIL_FAS
+Cortisol	Cortisol	Hormones and related	0	
+Cortisone	Cortisone	Hormones and related	0	
+DHEAS	Dehydroepiandrosterone sulfate	Hormones and related	0	
+T3	3,3',5-Triiodothyronine (T3)	Hormones and related	0	
+T4	Thyroxine (T4)	Hormones and related	0	
+3-IAA	3-Indoleacetic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-IPA	3-Indolepropionic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+5-HIAA	5-Hydroxyindoleacetic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+IAG	Indolylacryloylglycine	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indole-3-acetamide	Indole-3-acetamide	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indole-3-carboxylic acid	Indole-3-carboxylic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indole-3-ethanol	Indole-3-ethanol	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indole-3-methanol	Indole-3-methanol	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indoleacetaldehyde	Indoleacetaldehyde	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indoleacrylic acid	Indoleacrylic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indolealdehyde	Indolealdehyde	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indole-Lac	Indolelactic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indolepyruvic acid	Indolepyruvic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Indoxyl glucuronide	Indoxyl glucuronide	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Ind-SO4	Indoxyl sulfate	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Melatonin	Melatonin	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Met-IAA	Methylindole-3-acetic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Met-IPA	Methylindole-3-propionic acid	Indoles and derivatives	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Adenine	Adenine	Nucleobases	0	
+Cytosine	Cytosine	Nucleobases	0	
+Guanine	Guanine	Nucleobases	0	
+Thymine	Thymine	Nucleobases	0	
+Uracil	Uracil	Nucleobases	0	
+Adenosine	Adenosine	Nucleobase-related	0	
+AHCys	S-Adenosylhomocysteine	Nucleobase-related	0	
+Cytidine	Cytidine	Nucleobase-related	0	
+Deoxycytidine	Deoxycytidine	Nucleobase-related	0	
+Deoxyguanosine	Deoxyguanosine	Nucleobase-related	0	
+Guanosine	Guanosine	Nucleobase-related	0	
+Hypoxanthine	Hypoxanthine	Nucleobase-related	0	
+Inosine	Inosine	Nucleobase-related	0	
+N-Ac-Cytidine	N4-Acetylcytidine	Nucleobase-related	0	
+Orotic acid	Orotic acid	Nucleobase-related	0	
+Thymidine	Thymidine	Nucleobase-related	0	
+Uric acid	Uric acid	Nucleobase-related	0	
+Uridine	Uridine	Nucleobase-related	0	
+Xanthine	Xanthine	Nucleobase-related	0	
+cAMP	Adenosine monophosphate, cyclic (cAMP)	Nucleotides	0	
+cGMP	Guanosine monophosphate, cyclic (cGMP)	Nucleotides	0	
+2,5-Furandicarboxylic acid	Furan-2,5-dicarboxylic acid	Organic acids	0	
+2-Met-HipAcid	2-Methylhippuric acid	Organic acids	0	
+2-OH-2-Met-butyric acid	2-Hydroxy-2-methylbutyric acid	Organic acids	0	
+2-OH-Isobutyric acid	2-Hydroxyisobutyric acid	Organic acids	0	
+3-Guanidinopropionic acid	3-Guanidinopropionic acid	Organic acids	0	
+3-OH-HipAcid	3-Hydroxyhippuric acid	Organic acids	0	
+3-OH-Isobutyric acid	3-Hydroxyisobutyric acid	Organic acids	0	
+4-OH-HipAcid	4-Hydroxyhippuric acid	Organic acids	0	
+4-Quinolinecarboxylic acid	4-Quinolinecarboxylic acid	Organic acids	0	
+Abscisic acid	Abscisic acid	Organic acids	0	
+Argininic acid	Argininic acid	Organic acids	0	
+Bilirubin	Bilirubin	Organic acids	0	
+Biliverdin	Biliverdin	Organic acids	0	
+CMPF	3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid	Organic acids	0	
+Glyceric acid	Glyceric acid	Organic acids	0	
+Nicotinuric acid	Nicotinuric acid	Organic acids	0	
+2-OH-Benzoic acid	2-Hydroxybenzoic acid	Phenolic acids	0	
+2-OH-Phenylacetic acid	2-Hydroxyphenylacetic acid	Phenolic acids	0	
+3-(3-OH-Phenyl)propanoic acid	3-(3-Hydroxyphenyl)propanoic acid	Phenolic acids	0	
+3,5-DiOH-Benzoic acid	3,5-Dihydroxybenzoic acid	Phenolic acids	0	
+3-OH-Phenylacetic acid	3-Hydroxyphenylacetic acid	Phenolic acids	0	
+3-OH-Phenylpyruvic acid	3-Hydroxyphenylpyruvic acid	Phenolic acids	0	
+4-OH-Benzoic acid	4-Hydroxybenzoic acid	Phenolic acids	0	
+4-OH-Phenylacetic acid	4-Hydroxyphenylacetic acid	Phenolic acids	0	
+4-OH-Phenylpyruvic acid	4-Hydroxyphenylpyruvic acid	Phenolic acids	0	
+Benzoic acid	Benzoic acid	Phenolic acids	0	
+Desamino-Tyr	Desaminotyrosine	Phenolic acids	0	
+DOPAC	3,4-Dihydroxyphenylacetic acid	Phenolic acids	0	
+Homovanillic acid	Homovanillic acid	Phenolic acids	0	
+HPHPA	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	Phenolic acids	0	
+OH-Phenyl-Lac	Hydroxyphenyllactic acid	Phenolic acids	0	
+Phenylacetic acid	Phenylacetic acid	Phenolic acids	0	
+Phenyl-Lac	Phenyllactic acid	Phenolic acids	0	
+Phenylpyruvic acid	Phenylpyruvic acid	Phenolic acids	0	
+t-p-Coumaric acid	trans-p-Coumaric acid	Phenolic acids	0	
+Vanillactic acid	Vanillactic acid	Phenolic acids	0	
+Vanillic acid	Vanillic acid	Phenolic acids	0	
+Vanillylmandelic acid	Vanillylmandelic acid	Phenolic acids	0	
+4-EPS	4-Ethylphenyl sulfate	Phenoxy compounds	0	
+Phenylglucuronide	Phenylglucuronide	Phenoxy compounds	0	
+Cadaverine	Cadaverine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N1,N8-Di-Ac-Spermidine	N1,N8-Diacetylspermidine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N1,N12-Di-Ac-Spermine	N1,N12-Diacetylspermine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N1-Ac-Spermidine	N1-Acetylspermidine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N1-Ac-Spermine	N1-Acetylspermine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N8-Ac-Spermidine	N8-Acetylspermidine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+N-Ac-Putrescine	N-Acetylputrescine	Polyamines	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Isonicotinic acid	Isonicotinic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Kynurenic acid	Kynurenic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Picolinic acid	Picolinic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Quinaldic acid	Quinaldic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Quinolinic acid	Quinolinic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+Xanthurenic acid	Xanthurenic acid	Pyridinecarboxylic acids	1	IMMUNOMET_ONEIL_AA_METABOLISM
+3-Deoxyglucosone	3-Deoxyglucosone	Sugars	0	
+Fructose	Fructose	Sugars	0	
+Glucose	Glucose	Sugars	1	IMMUNOMET_ONEIL_GLYCOLYSIS
+Mannose	Mannose	Sugars	0	
+NeuAc	Acetylneuraminic acid	Sugars	0	
+Ribose	Ribose	Sugars	0	
+Threonic acid	Threonic acid	Sugars	0	
+AconAcid	Aconitic acid	Tricarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Citric acid	Citric acid	Tricarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Isocitric acid	Isocitric acid	Tricarboxylic acids	1	IMMUNOMET_ONEIL_TCA
+Biotin (B7)	Biotin (B7)	Vitamins and cofactors	0	
+Choline	Choline	Vitamins and cofactors	0	
+Folic acid (B9)	Folic acid (B9)	Vitamins and cofactors	0	
+Nicotinamide (B3)	Nicotinamide (B3)	Vitamins and cofactors	0	
+Nicotinic acid (B3)	Nicotinic acid (B3)	Vitamins and cofactors	0	
+Pantothenic acid (B5)	Pantothenic acid (B5)	Vitamins and cofactors	0	
+PMP	Pyridoxamine 5'-phosphate	Vitamins and cofactors	0	
+Pyridoxine (B6)	Pyridoxine (B6)	Vitamins and cofactors	0	
+Riboflavin (B2)	Riboflavin (B2)	Vitamins and cofactors	0	
+C0	Carnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C2	Acetylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C3	Propionylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C3-DC (C4-OH)	Malonylcarnitine (Hydroxybutyrylcarnitine)	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C3-OH	Hydroxypropionylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C3:1	Propenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C4	Butyrylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C4:1	Butenylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5	Valerylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5-DC (C6-OH)	Glutarylcarnitine (Hydroxyhexanoylcarnitine)	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5-M-DC	Methylglutarylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5-OH (C3-DC-M)	Hydroxyvalerylcarnitine (Methylmalonylcarnitine)	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5:1	Tiglylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C5:1-DC	Glutaconylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C10:1	Decenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C10:2	Decadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C12	Dodecanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C12-DC	Dodecanedioylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C12:1	Dodecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C14	Tetradecanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C14:1	Tetradecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C14:1-OH	Hydroxytetradecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C14:2	Tetradecadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C14:2-OH	Hydroxytetradecadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16	Hexadecanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16-OH	Hydroxyhexadecanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16:1	Hexadecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16:1-OH	Hydroxyhexadecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C6 (C4:1-DC)	Hexanoylcarnitine (Fumarylcarnitine)	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C6:1	Hexenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C7-DC	Pimeloylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C8	Octanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C9	Nonanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C10	Decanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16:2	Hexadecadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C16:2-OH	Hydroxyhexadecadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C18	Octadecanoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C18:1	Octadecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C18:1-OH	Hydroxyoctadecenoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+C18:2	Octadecadienoylcarnitine	Acylcarnitines	1	IMMUNOMET_ONEIL_FAO
+Cer d16:1/18:0	Cer d16:1/18:0	Ceramides	0	
+Cer d16:1/20:0	Cer d16:1/20:0	Ceramides	0	
+Cer d16:1/22:0	Cer d16:1/22:0	Ceramides	0	
+Cer d16:1/23:0	Cer d16:1/23:0	Ceramides	0	
+Cer d16:1/24:0	Cer d16:1/24:0	Ceramides	0	
+Cer d18:1/14:0	Cer d18:1/14:0	Ceramides	0	
+Cer d18:1/16:0	Cer d18:1/16:0	Ceramides	0	
+Cer d18:1/18:0-OH	Cer d18:1/18:0-OH	Ceramides	0	
+Cer d18:1/18:0	Cer d18:1/18:0	Ceramides	0	
+Cer d18:1/18:1	Cer d18:1/18:1	Ceramides	0	
+Cer d18:1/20:0-OH	Cer d18:1/20:0-OH	Ceramides	0	
+Cer d18:1/20:0	Cer d18:1/20:0	Ceramides	0	
+Cer d18:1/22:0	Cer d18:1/22:0	Ceramides	0	
+Cer d18:1/23:0	Cer d18:1/23:0	Ceramides	0	
+Cer d18:1/24:0	Cer d18:1/24:0	Ceramides	0	
+Cer d18:1/24:1	Cer d18:1/24:1	Ceramides	0	
+Cer d18:1/25:0	Cer d18:1/25:0	Ceramides	0	
+Cer d18:1/26:0	Cer d18:1/26:0	Ceramides	0	
+Cer d18:1/26:1	Cer d18:1/26:1	Ceramides	0	
+Cer d18:2/14:0	Cer d18:2/14:0	Ceramides	0	
+Cer d18:2/16:0	Cer d18:2/16:0	Ceramides	0	
+Cer d18:2/18:0	Cer d18:2/18:0	Ceramides	0	
+Cer d18:2/18:1	Cer d18:2/18:1	Ceramides	0	
+Cer d18:2/20:0	Cer d18:2/20:0	Ceramides	0	
+Cer d18:2/22:0	Cer d18:2/22:0	Ceramides	0	
+Cer d18:2/23:0	Cer d18:2/23:0	Ceramides	0	
+Cer d18:2/24:0	Cer d18:2/24:0	Ceramides	0	
+Cer d18:2/24:1	Cer d18:2/24:1	Ceramides	0	
+CerP d18:1/16:0	CerP d18:1/16:0	Ceramides	0	
+CE 14:0	CE 14:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 14:1	CE 14:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 15:0	CE 15:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 15:1	CE 15:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 16:0	CE 16:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 16:1	CE 16:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 17:0	CE 17:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 17:1	CE 17:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 18:0	CE 18:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 18:1	CE 18:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 18:2	CE 18:2	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 18:3	CE 18:3	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 20:0	CE 20:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 20:1	CE 20:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 20:3	CE 20:3	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 20:4	CE 20:4	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 20:5	CE 20:5	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 22:0	CE 22:0	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 22:1	CE 22:1	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 22:2	CE 22:2	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 22:5	CE 22:5	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+CE 22:6	CE 22:6	Cholesteryl esters	1	IMMUNOMET_ONEIL_FAS
+DG 14:0_14:0	DG 14:0_14:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 14:0_18:1	DG 14:0_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 14:0_18:2	DG 14:0_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 14:0_20:0	DG 14:0_20:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 14:1_18:1	DG 14:1_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 14:1_20:2	DG 14:1_20:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_16:0	DG 16:0_16:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_16:1	DG 16:0_16:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_18:1	DG 16:0_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_18:2	DG 16:0_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_20:0	DG 16:0_20:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_20:3	DG 16:0_20:3	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:0_20:4	DG 16:0_20:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:1_18:0	DG 16:1_18:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:1_18:1	DG 16:1_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:1_18:2	DG 16:1_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 16:1_20:0	DG 16:1_20:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 17:0_18:1	DG 17:0_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:0_20:4	DG 18:0_20:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_18:1	DG 18:1_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_18:2	DG 18:1_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_18:3	DG 18:1_18:3	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_18:4	DG 18:1_18:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_20:0	DG 18:1_20:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_20:1	DG 18:1_20:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_20:2	DG 18:1_20:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_20:3	DG 18:1_20:3	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_20:4	DG 18:1_20:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_22:5	DG 18:1_22:5	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:1_22:6	DG 18:1_22:6	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:2_18:2	DG 18:2_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:2_18:3	DG 18:2_18:3	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:2_18:4	DG 18:2_18:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:2_20:0	DG 18:2_20:0	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:2_20:4	DG 18:2_20:4	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:3_18:3	DG 18:3_18:3	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 18:3_20:2	DG 18:3_20:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 21:0_22:6	DG 21:0_22:6	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG 22:1_22:2	DG 22:1_22:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG O-14:0_18:2	DG O-14:0_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG O-16:0_18:1	DG O-16:0_18:1	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+DG O-18:2_18:2	DG O-18:2_18:2	Diglycerides	1	IMMUNOMET_ONEIL_FAS
+Hex2Cer d18:1/14:0	Hex2Cer d18:1/14:0	Dihexosylceramides	0	
+Hex2Cer d18:1/16:0	Hex2Cer d18:1/16:0	Dihexosylceramides	0	
+Hex2Cer d18:1/18:0	Hex2Cer d18:1/18:0	Dihexosylceramides	0	
+Hex2Cer d18:1/20:0	Hex2Cer d18:1/20:0	Dihexosylceramides	0	
+Hex2Cer d18:1/22:0	Hex2Cer d18:1/22:0	Dihexosylceramides	0	
+Hex2Cer d18:1/24:0	Hex2Cer d18:1/24:0	Dihexosylceramides	0	
+Hex2Cer d18:1/24:1	Hex2Cer d18:1/24:1	Dihexosylceramides	0	
+Hex2Cer d18:1/26:0	Hex2Cer d18:1/26:0	Dihexosylceramides	0	
+Hex2Cer d18:1/26:1	Hex2Cer d18:1/26:1	Dihexosylceramides	0	
+Cer d18:0/18:0-OH	Cer d18:0/18:0-OH	Dihydroceramides	0	
+Cer d18:0/18:0	Cer d18:0/18:0	Dihydroceramides	0	
+Cer d18:0/20:0	Cer d18:0/20:0	Dihydroceramides	0	
+Cer d18:0/22:0	Cer d18:0/22:0	Dihydroceramides	0	
+Cer d18:0/24:0	Cer d18:0/24:0	Dihydroceramides	0	
+Cer d18:0/24:1	Cer d18:0/24:1	Dihydroceramides	0	
+Cer d18:0/26:1-OH	Cer d18:0/26:1-OH	Dihydroceramides	0	
+Cer d18:0/26:1	Cer d18:0/26:1	Dihydroceramides	0	
+Hex-Cer d16:1/20:0	Hex-Cer d16:1/20:0	Hexosylceramides	0	
+Hex-Cer d16:1/22:0	Hex-Cer d16:1/22:0	Hexosylceramides	0	
+Hex-Cer d16:1/24:0	Hex-Cer d16:1/24:0	Hexosylceramides	0	
+Hex-Cer d18:1/14:0	Hex-Cer d18:1/14:0	Hexosylceramides	0	
+Hex-Cer d18:1/16:0	Hex-Cer d18:1/16:0	Hexosylceramides	0	
+Hex-Cer d18:1/18:0	Hex-Cer d18:1/18:0	Hexosylceramides	0	
+Hex-Cer d18:1/18:1	Hex-Cer d18:1/18:1	Hexosylceramides	0	
+Hex-Cer d18:1/20:0	Hex-Cer d18:1/20:0	Hexosylceramides	0	
+Hex-Cer d18:1/22:0	Hex-Cer d18:1/22:0	Hexosylceramides	0	
+Hex-Cer d18:1/23:0	Hex-Cer d18:1/23:0	Hexosylceramides	0	
+Hex-Cer d18:1/24:0	Hex-Cer d18:1/24:0	Hexosylceramides	0	
+Hex-Cer d18:1/24:1	Hex-Cer d18:1/24:1	Hexosylceramides	0	
+Hex-Cer d18:1/26:0	Hex-Cer d18:1/26:0	Hexosylceramides	0	
+Hex-Cer d18:1/26:1	Hex-Cer d18:1/26:1	Hexosylceramides	0	
+Hex-Cer d18:2/16:0	Hex-Cer d18:2/16:0	Hexosylceramides	0	
+Hex-Cer d18:2/18:0	Hex-Cer d18:2/18:0	Hexosylceramides	0	
+Hex-Cer d18:2/20:0	Hex-Cer d18:2/20:0	Hexosylceramides	0	
+Hex-Cer d18:2/22:0	Hex-Cer d18:2/22:0	Hexosylceramides	0	
+Hex-Cer d18:2/23:0	Hex-Cer d18:2/23:0	Hexosylceramides	0	
+Hex-Cer d18:2/24:0	Hex-Cer d18:2/24:0	Hexosylceramides	0	
+LPA 14:0	LPA 14:0	Lysophosphatidic acids	0	
+LPA 14:1	LPA 14:1	Lysophosphatidic acids	0	
+LPA 15:0	LPA 15:0	Lysophosphatidic acids	0	
+LPA 16:0	LPA 16:0	Lysophosphatidic acids	0	
+LPA 18:1	LPA 18:1	Lysophosphatidic acids	0	
+LPA 18:2	LPA 18:2	Lysophosphatidic acids	0	
+LPA 22:3	LPA 22:3	Lysophosphatidic acids	0	
+LPA 22:4	LPA 22:4	Lysophosphatidic acids	0	
+LPC 14:0	LPC 14:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 16:0	LPC 16:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 16:1	LPC 16:1	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 17:0	LPC 17:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 18:0	LPC 18:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 18:1	LPC 18:1	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 18:2	LPC 18:2	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 20:3	LPC 20:3	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 20:4	LPC 20:4	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 24:0	LPC 24:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 26:0	LPC 26:0	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPC 26:1	LPC 26:1	Lysophosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+LPE 12:0	LPE 12:0	Lysophosphatidylethanolamines	0	
+LPE 14:0	LPE 14:0	Lysophosphatidylethanolamines	0	
+LPE 14:1	LPE 14:1	Lysophosphatidylethanolamines	0	
+LPE 15:0	LPE 15:0	Lysophosphatidylethanolamines	0	
+LPE 16:0	LPE 16:0	Lysophosphatidylethanolamines	0	
+LPE 16:1	LPE 16:1	Lysophosphatidylethanolamines	0	
+LPE 17:0	LPE 17:0	Lysophosphatidylethanolamines	0	
+LPE 17:1	LPE 17:1	Lysophosphatidylethanolamines	0	
+LPE 18:0	LPE 18:0	Lysophosphatidylethanolamines	0	
+LPE 18:1	LPE 18:1	Lysophosphatidylethanolamines	0	
+LPE 18:2	LPE 18:2	Lysophosphatidylethanolamines	0	
+LPE 18:3	LPE 18:3	Lysophosphatidylethanolamines	0	
+LPE 19:0	LPE 19:0	Lysophosphatidylethanolamines	0	
+LPE 19:1	LPE 19:1	Lysophosphatidylethanolamines	0	
+LPE 19:2	LPE 19:2	Lysophosphatidylethanolamines	0	
+LPE 20:0	LPE 20:0	Lysophosphatidylethanolamines	0	
+LPE 20:1	LPE 20:1	Lysophosphatidylethanolamines	0	
+LPE 20:2	LPE 20:2	Lysophosphatidylethanolamines	0	
+LPE 20:3	LPE 20:3	Lysophosphatidylethanolamines	0	
+LPE 20:4	LPE 20:4	Lysophosphatidylethanolamines	0	
+LPE 20:5	LPE 20:5	Lysophosphatidylethanolamines	0	
+LPE 22:0	LPE 22:0	Lysophosphatidylethanolamines	0	
+LPE 22:1	LPE 22:1	Lysophosphatidylethanolamines	0	
+LPE 22:4	LPE 22:4	Lysophosphatidylethanolamines	0	
+LPE 22:5	LPE 22:5	Lysophosphatidylethanolamines	0	
+LPE 22:6	LPE 22:6	Lysophosphatidylethanolamines	0	
+LPE 24:0	LPE 24:0	Lysophosphatidylethanolamines	0	
+LPE P-14:0	LPE P-14:0	Lysophosphatidylethanolamines	0	
+LPE P-15:0	LPE P-15:0	Lysophosphatidylethanolamines	0	
+LPE P-16:0	LPE P-16:0	Lysophosphatidylethanolamines	0	
+LPE P-17:0	LPE P-17:0	Lysophosphatidylethanolamines	0	
+LPE P-18:0	LPE P-18:0	Lysophosphatidylethanolamines	0	
+LPE P-18:1	LPE P-18:1	Lysophosphatidylethanolamines	0	
+LPE P-18:2	LPE P-18:2	Lysophosphatidylethanolamines	0	
+LPE P-20:0	LPE P-20:0	Lysophosphatidylethanolamines	0	
+LPE P-20:1	LPE P-20:1	Lysophosphatidylethanolamines	0	
+LPE P-20:4	LPE P-20:4	Lysophosphatidylethanolamines	0	
+LPE P-20:5	LPE P-20:5	Lysophosphatidylethanolamines	0	
+LPE P-22:0	LPE P-22:0	Lysophosphatidylethanolamines	0	
+LPE P-22:1	LPE P-22:1	Lysophosphatidylethanolamines	0	
+LPE P-22:4	LPE P-22:4	Lysophosphatidylethanolamines	0	
+LPE P-22:5	LPE P-22:5	Lysophosphatidylethanolamines	0	
+LPE P-22:6	LPE P-22:6	Lysophosphatidylethanolamines	0	
+LPG 14:0	LPG 14:0	Lysophosphatidylglycerols	0	
+LPG 14:1	LPG 14:1	Lysophosphatidylglycerols	0	
+LPG 16:0	LPG 16:0	Lysophosphatidylglycerols	0	
+LPG 16:1	LPG 16:1	Lysophosphatidylglycerols	0	
+LPG 17:0	LPG 17:0	Lysophosphatidylglycerols	0	
+LPG 17:1	LPG 17:1	Lysophosphatidylglycerols	0	
+LPG 18:0	LPG 18:0	Lysophosphatidylglycerols	0	
+LPG 18:1	LPG 18:1	Lysophosphatidylglycerols	0	
+LPG 18:2	LPG 18:2	Lysophosphatidylglycerols	0	
+LPG 20:1	LPG 20:1	Lysophosphatidylglycerols	0	
+LPI 14:0	LPI 14:0	Lysophosphatidylinositols	0	
+LPI 14:1	LPI 14:1	Lysophosphatidylinositols	0	
+LPI 16:0	LPI 16:0	Lysophosphatidylinositols	0	
+LPI 16:1	LPI 16:1	Lysophosphatidylinositols	0	
+LPI 17:0	LPI 17:0	Lysophosphatidylinositols	0	
+LPI 17:1	LPI 17:1	Lysophosphatidylinositols	0	
+LPI 18:0	LPI 18:0	Lysophosphatidylinositols	0	
+LPI 18:1	LPI 18:1	Lysophosphatidylinositols	0	
+LPI 18:2	LPI 18:2	Lysophosphatidylinositols	0	
+LPI 18:3	LPI 18:3	Lysophosphatidylinositols	0	
+LPI 19:0	LPI 19:0	Lysophosphatidylinositols	0	
+LPI 20:1	LPI 20:1	Lysophosphatidylinositols	0	
+LPI 20:4	LPI 20:4	Lysophosphatidylinositols	0	
+LPI 22:0	LPI 22:0	Lysophosphatidylinositols	0	
+LPI 22:1	LPI 22:1	Lysophosphatidylinositols	0	
+LPS 16:0	LPS 16:0	Lysophosphatidylserines	0	
+LPS 16:1	LPS 16:1	Lysophosphatidylserines	0	
+LPS 18:0	LPS 18:0	Lysophosphatidylserines	0	
+LPS 18:1	LPS 18:1	Lysophosphatidylserines	0	
+LPS 18:2	LPS 18:2	Lysophosphatidylserines	0	
+LPS 18:3	LPS 18:3	Lysophosphatidylserines	0	
+LPS 20:0	LPS 20:0	Lysophosphatidylserines	0	
+LPS 20:1	LPS 20:1	Lysophosphatidylserines	0	
+LPS 20:4	LPS 20:4	Lysophosphatidylserines	0	
+LPS 20:5	LPS 20:5	Lysophosphatidylserines	0	
+LPS 22:0	LPS 22:0	Lysophosphatidylserines	0	
+LPS 22:6	LPS 22:6	Lysophosphatidylserines	0	
+MG 16:1	MG 16:1	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 18:1	MG 18:1	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 18:2	MG 18:2	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 18:3	MG 18:3	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 20:1	MG 20:1	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 20:3	MG 20:3	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 20:4	MG 20:4	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 20:5	MG 20:5	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 22:1	MG 22:1	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 22:2	MG 22:2	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 22:4	MG 22:4	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+MG 22:6	MG 22:6	Monoglycerides	1	IMMUNOMET_ONEIL_FAS
+PA 14:0_14:1	PA 14:0_14:1	Phosphatidic acids	0	
+PA 16:0_18:1	PA 16:0_18:1	Phosphatidic acids	0	
+PA 16:0_18:2	PA 16:0_18:2	Phosphatidic acids	0	
+PA 16:0_18:3	PA 16:0_18:3	Phosphatidic acids	0	
+PA 16:0_19:2	PA 16:0_19:2	Phosphatidic acids	0	
+PA 16:1_18:1	PA 16:1_18:1	Phosphatidic acids	0	
+PA 16:1_18:2	PA 16:1_18:2	Phosphatidic acids	0	
+PA 16:1_22:0	PA 16:1_22:0	Phosphatidic acids	0	
+PA 16:2_18:1	PA 16:2_18:1	Phosphatidic acids	0	
+PA 17:0_18:1	PA 17:0_18:1	Phosphatidic acids	0	
+PA 17:0_18:2	PA 17:0_18:2	Phosphatidic acids	0	
+PA 17:0_18:3	PA 17:0_18:3	Phosphatidic acids	0	
+PA 17:1_18:1	PA 17:1_18:1	Phosphatidic acids	0	
+PA 17:1_18:2	PA 17:1_18:2	Phosphatidic acids	0	
+PA 17:2_18:1	PA 17:2_18:1	Phosphatidic acids	0	
+PA 18:0_18:1	PA 18:0_18:1	Phosphatidic acids	0	
+PA 18:0_18:2	PA 18:0_18:2	Phosphatidic acids	0	
+PA 18:0_18:3	PA 18:0_18:3	Phosphatidic acids	0	
+PA 18:1_18:1	PA 18:1_18:1	Phosphatidic acids	0	
+PA 18:1_18:2	PA 18:1_18:2	Phosphatidic acids	0	
+PA 18:1_18:3	PA 18:1_18:3	Phosphatidic acids	0	
+PA 18:1_18:4	PA 18:1_18:4	Phosphatidic acids	0	
+PA 18:1_20:0	PA 18:1_20:0	Phosphatidic acids	0	
+PA 18:1_20:1	PA 18:1_20:1	Phosphatidic acids	0	
+PA 18:1_20:2	PA 18:1_20:2	Phosphatidic acids	0	
+PA 18:1_20:3	PA 18:1_20:3	Phosphatidic acids	0	
+PA 18:1_22:0	PA 18:1_22:0	Phosphatidic acids	0	
+PA 18:1_22:1	PA 18:1_22:1	Phosphatidic acids	0	
+PA 18:1_22:2	PA 18:1_22:2	Phosphatidic acids	0	
+PA 18:1_22:3	PA 18:1_22:3	Phosphatidic acids	0	
+PA 18:2_18:2	PA 18:2_18:2	Phosphatidic acids	0	
+PA 18:2_18:3	PA 18:2_18:3	Phosphatidic acids	0	
+PA 18:2_20:0	PA 18:2_20:0	Phosphatidic acids	0	
+PA 18:2_20:1	PA 18:2_20:1	Phosphatidic acids	0	
+PA 18:2_20:2	PA 18:2_20:2	Phosphatidic acids	0	
+PA 18:2_22:0	PA 18:2_22:0	Phosphatidic acids	0	
+PA 18:2_22:1	PA 18:2_22:1	Phosphatidic acids	0	
+PA 18:2_22:3	PA 18:2_22:3	Phosphatidic acids	0	
+PA 18:2_22:4	PA 18:2_22:4	Phosphatidic acids	0	
+PA 18:3_18:3	PA 18:3_18:3	Phosphatidic acids	0	
+PA 20:0_20:4	PA 20:0_20:4	Phosphatidic acids	0	
+PC 24:0	PC 24:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 26:0	PC 26:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 28:1	PC 28:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 30:0	PC 30:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 32:0	PC 32:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 32:1	PC 32:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 32:2	PC 32:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 32:3	PC 32:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 34:1	PC 34:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 34:2	PC 34:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 34:3	PC 34:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 34:4	PC 34:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:0	PC 36:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:1	PC 36:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:2	PC 36:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:3	PC 36:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:4	PC 36:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:5	PC 36:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 36:6	PC 36:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 38:0	PC 38:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 38:3	PC 38:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 38:4	PC 38:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 38:5	PC 38:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 38:6	PC 38:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:1	PC 40:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:2	PC 40:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:3	PC 40:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:4	PC 40:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:5	PC 40:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 40:6	PC 40:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:0	PC 42:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:1	PC 42:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:2	PC 42:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:4	PC 42:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:5	PC 42:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC 42:6	PC 42:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-28:0	PC O-28:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-28:1	PC O-28:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-30:0	PC O-30:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-30:1	PC O-30:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-30:2	PC O-30:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-32:1	PC O-32:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-32:2	PC O-32:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-34:0	PC O-34:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-34:1	PC O-34:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-34:2	PC O-34:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-34:3	PC O-34:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:0	PC O-36:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:1	PC O-36:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:2	PC O-36:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:3	PC O-36:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:4	PC O-36:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-36:5	PC O-36:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:0	PC O-38:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:1	PC O-38:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:2	PC O-38:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:3	PC O-38:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:4	PC O-38:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:5	PC O-38:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-38:6	PC O-38:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:1	PC O-40:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:2	PC O-40:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:3	PC O-40:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:4	PC O-40:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:5	PC O-40:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-40:6	PC O-40:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:0	PC O-42:0	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:1	PC O-42:1	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:2	PC O-42:2	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:3	PC O-42:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:4	PC O-42:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-42:5	PC O-42:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-44:3	PC O-44:3	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-44:4	PC O-44:4	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-44:5	PC O-44:5	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PC O-44:6	PC O-44:6	Phosphatidylcholines	1	IMMUNOMET_ONEIL_FAS
+PE 20:0	PE 20:0	Phosphatidylethanolamines	0	
+PE 28:0	PE 28:0	Phosphatidylethanolamines	0	
+PE 28:1	PE 28:1	Phosphatidylethanolamines	0	
+PE 30:0	PE 30:0	Phosphatidylethanolamines	0	
+PE 30:1	PE 30:1	Phosphatidylethanolamines	0	
+PE 31:0	PE 31:0	Phosphatidylethanolamines	0	
+PE 32:0	PE 32:0	Phosphatidylethanolamines	0	
+PE 32:1	PE 32:1	Phosphatidylethanolamines	0	
+PE 32:2	PE 32:2	Phosphatidylethanolamines	0	
+PE 33:0	PE 33:0	Phosphatidylethanolamines	0	
+PE 33:1	PE 33:1	Phosphatidylethanolamines	0	
+PE 33:2	PE 33:2	Phosphatidylethanolamines	0	
+PE 34:0	PE 34:0	Phosphatidylethanolamines	0	
+PE 34:1	PE 34:1	Phosphatidylethanolamines	0	
+PE 34:2	PE 34:2	Phosphatidylethanolamines	0	
+PE 34:3	PE 34:3	Phosphatidylethanolamines	0	
+PE 34:4	PE 34:4	Phosphatidylethanolamines	0	
+PE 35:1	PE 35:1	Phosphatidylethanolamines	0	
+PE 35:2	PE 35:2	Phosphatidylethanolamines	0	
+PE 35:3	PE 35:3	Phosphatidylethanolamines	0	
+PE 36:0	PE 36:0	Phosphatidylethanolamines	0	
+PE 36:1	PE 36:1	Phosphatidylethanolamines	0	
+PE 36:2	PE 36:2	Phosphatidylethanolamines	0	
+PE 36:3	PE 36:3	Phosphatidylethanolamines	0	
+PE 36:4	PE 36:4	Phosphatidylethanolamines	0	
+PE 36:5	PE 36:5	Phosphatidylethanolamines	0	
+PE 36:6	PE 36:6	Phosphatidylethanolamines	0	
+PE 38:0	PE 38:0	Phosphatidylethanolamines	0	
+PE 38:1	PE 38:1	Phosphatidylethanolamines	0	
+PE 38:2	PE 38:2	Phosphatidylethanolamines	0	
+PE 38:3	PE 38:3	Phosphatidylethanolamines	0	
+PE 38:4	PE 38:4	Phosphatidylethanolamines	0	
+PE 38:5	PE 38:5	Phosphatidylethanolamines	0	
+PE 38:6	PE 38:6	Phosphatidylethanolamines	0	
+PE 38:7	PE 38:7	Phosphatidylethanolamines	0	
+PE 40:1	PE 40:1	Phosphatidylethanolamines	0	
+PE 40:3	PE 40:3	Phosphatidylethanolamines	0	
+PE 40:4	PE 40:4	Phosphatidylethanolamines	0	
+PE 40:5	PE 40:5	Phosphatidylethanolamines	0	
+PE 40:6	PE 40:6	Phosphatidylethanolamines	0	
+PE 40:7	PE 40:7	Phosphatidylethanolamines	0	
+PE 40:8	PE 40:8	Phosphatidylethanolamines	0	
+PE 42:7	PE 42:7	Phosphatidylethanolamines	0	
+PE 42:8	PE 42:8	Phosphatidylethanolamines	0	
+PE 44:11	PE 44:11	Phosphatidylethanolamines	0	
+PE 44:12	PE 44:12	Phosphatidylethanolamines	0	
+PE 44:6	PE 44:6	Phosphatidylethanolamines	0	
+PE 44:7	PE 44:7	Phosphatidylethanolamines	0	
+PE P-16:0/14:0	PE P-16:0/14:0	Phosphatidylethanolamines	0	
+PE P-16:0/15:0	PE P-16:0/15:0	Phosphatidylethanolamines	0	
+PE P-16:0/16:0	PE P-16:0/16:0	Phosphatidylethanolamines	0	
+PE P-16:0/16:1	PE P-16:0/16:1	Phosphatidylethanolamines	0	
+PE P-16:0/18:1	PE P-16:0/18:1	Phosphatidylethanolamines	0	
+PE P-16:0/18:2	PE P-16:0/18:2	Phosphatidylethanolamines	0	
+PE P-16:0/18:3	PE P-16:0/18:3	Phosphatidylethanolamines	0	
+PE P-16:0/20:3	PE P-16:0/20:3	Phosphatidylethanolamines	0	
+PE P-16:0/20:4	PE P-16:0/20:4	Phosphatidylethanolamines	0	
+PE P-16:0/20:5	PE P-16:0/20:5	Phosphatidylethanolamines	0	
+PE P-16:0/22:4	PE P-16:0/22:4	Phosphatidylethanolamines	0	
+PE P-16:0/22:5	PE P-16:0/22:5	Phosphatidylethanolamines	0	
+PE P-16:0/22:6	PE P-16:0/22:6	Phosphatidylethanolamines	0	
+PE P-18:0/14:0	PE P-18:0/14:0	Phosphatidylethanolamines	0	
+PE P-18:0/16:0	PE P-18:0/16:0	Phosphatidylethanolamines	0	
+PE P-18:0/16:1	PE P-18:0/16:1	Phosphatidylethanolamines	0	
+PE P-18:0/17:1	PE P-18:0/17:1	Phosphatidylethanolamines	0	
+PE P-18:0/18:0	PE P-18:0/18:0	Phosphatidylethanolamines	0	
+PE P-18:0/18:1	PE P-18:0/18:1	Phosphatidylethanolamines	0	
+PE P-18:0/18:2	PE P-18:0/18:2	Phosphatidylethanolamines	0	
+PE P-18:0/18:3	PE P-18:0/18:3	Phosphatidylethanolamines	0	
+PE P-18:0/19:1	PE P-18:0/19:1	Phosphatidylethanolamines	0	
+PE P-18:0/20:1	PE P-18:0/20:1	Phosphatidylethanolamines	0	
+PE P-18:0/20:2	PE P-18:0/20:2	Phosphatidylethanolamines	0	
+PE P-18:0/20:3	PE P-18:0/20:3	Phosphatidylethanolamines	0	
+PE P-18:0/20:4	PE P-18:0/20:4	Phosphatidylethanolamines	0	
+PE P-18:0/20:5	PE P-18:0/20:5	Phosphatidylethanolamines	0	
+PE P-18:0/22:1	PE P-18:0/22:1	Phosphatidylethanolamines	0	
+PE P-18:0/22:2	PE P-18:0/22:2	Phosphatidylethanolamines	0	
+PE P-18:0/22:3	PE P-18:0/22:3	Phosphatidylethanolamines	0	
+PE P-18:0/22:4	PE P-18:0/22:4	Phosphatidylethanolamines	0	
+PE P-18:0/22:5	PE P-18:0/22:5	Phosphatidylethanolamines	0	
+PE P-18:0/22:6	PE P-18:0/22:6	Phosphatidylethanolamines	0	
+PE P-18:1/18:1	PE P-18:1/18:1	Phosphatidylethanolamines	0	
+PE P-18:1/18:2	PE P-18:1/18:2	Phosphatidylethanolamines	0	
+PE P-18:1/20:4	PE P-18:1/20:4	Phosphatidylethanolamines	0	
+PE P-18:1/20:5	PE P-18:1/20:5	Phosphatidylethanolamines	0	
+PE P-18:1/22:6	PE P-18:1/22:6	Phosphatidylethanolamines	0	
+PE P-20:0/14:0	PE P-20:0/14:0	Phosphatidylethanolamines	0	
+PE P-20:0/16:0	PE P-20:0/16:0	Phosphatidylethanolamines	0	
+PE P-20:0/16:1	PE P-20:0/16:1	Phosphatidylethanolamines	0	
+PE P-20:0/17:1	PE P-20:0/17:1	Phosphatidylethanolamines	0	
+PE P-20:0/18:1	PE P-20:0/18:1	Phosphatidylethanolamines	0	
+PE P-20:0/18:2	PE P-20:0/18:2	Phosphatidylethanolamines	0	
+PE P-20:0/20:0	PE P-20:0/20:0	Phosphatidylethanolamines	0	
+PE P-20:0/20:4	PE P-20:0/20:4	Phosphatidylethanolamines	0	
+PE P-20:0/20:5	PE P-20:0/20:5	Phosphatidylethanolamines	0	
+PG 14:0_16:0	PG 14:0_16:0	Phosphatidylglycerols	0	
+PG 15:0_18:1	PG 15:0_18:1	Phosphatidylglycerols	0	
+PG 16:0_16:0	PG 16:0_16:0	Phosphatidylglycerols	0	
+PG 16:0_16:1	PG 16:0_16:1	Phosphatidylglycerols	0	
+PG 16:0_18:1	PG 16:0_18:1	Phosphatidylglycerols	0	
+PG 16:0_18:2	PG 16:0_18:2	Phosphatidylglycerols	0	
+PG 16:0_18:3	PG 16:0_18:3	Phosphatidylglycerols	0	
+PG 16:0_19:1	PG 16:0_19:1	Phosphatidylglycerols	0	
+PG 16:0_20:3	PG 16:0_20:3	Phosphatidylglycerols	0	
+PG 16:0_20:4	PG 16:0_20:4	Phosphatidylglycerols	0	
+PG 16:0_20:5	PG 16:0_20:5	Phosphatidylglycerols	0	
+PG 16:0_22:1	PG 16:0_22:1	Phosphatidylglycerols	0	
+PG 16:0_22:2	PG 16:0_22:2	Phosphatidylglycerols	0	
+PG 16:1_16:1	PG 16:1_16:1	Phosphatidylglycerols	0	
+PG 16:1_18:0	PG 16:1_18:0	Phosphatidylglycerols	0	
+PG 16:1_18:1	PG 16:1_18:1	Phosphatidylglycerols	0	
+PG 16:1_18:2	PG 16:1_18:2	Phosphatidylglycerols	0	
+PG 16:1_20:4	PG 16:1_20:4	Phosphatidylglycerols	0	
+PG 16:1_22:1	PG 16:1_22:1	Phosphatidylglycerols	0	
+PG 16:2_18:1	PG 16:2_18:1	Phosphatidylglycerols	0	
+PG 16:2_18:2	PG 16:2_18:2	Phosphatidylglycerols	0	
+PG 16:3_18:1	PG 16:3_18:1	Phosphatidylglycerols	0	
+PG 17:0_18:1	PG 17:0_18:1	Phosphatidylglycerols	0	
+PG 17:0_18:2	PG 17:0_18:2	Phosphatidylglycerols	0	
+PG 17:1_18:1	PG 17:1_18:1	Phosphatidylglycerols	0	
+PG 18:0_18:1	PG 18:0_18:1	Phosphatidylglycerols	0	
+PG 18:0_18:2	PG 18:0_18:2	Phosphatidylglycerols	0	
+PG 18:0_18:3	PG 18:0_18:3	Phosphatidylglycerols	0	
+PG 18:0_22:1	PG 18:0_22:1	Phosphatidylglycerols	0	
+PG 18:1_18:1	PG 18:1_18:1	Phosphatidylglycerols	0	
+PG 18:1_18:2	PG 18:1_18:2	Phosphatidylglycerols	0	
+PG 18:1_18:3	PG 18:1_18:3	Phosphatidylglycerols	0	
+PG 18:1_20:0	PG 18:1_20:0	Phosphatidylglycerols	0	
+PG 18:1_20:1	PG 18:1_20:1	Phosphatidylglycerols	0	
+PG 18:1_20:2	PG 18:1_20:2	Phosphatidylglycerols	0	
+PG 18:1_20:3	PG 18:1_20:3	Phosphatidylglycerols	0	
+PG 18:1_20:4	PG 18:1_20:4	Phosphatidylglycerols	0	
+PG 18:1_20:5	PG 18:1_20:5	Phosphatidylglycerols	0	
+PG 18:1_22:0	PG 18:1_22:0	Phosphatidylglycerols	0	
+PG 18:1_22:1	PG 18:1_22:1	Phosphatidylglycerols	0	
+PG 18:1_22:2	PG 18:1_22:2	Phosphatidylglycerols	0	
+PG 18:1_22:3	PG 18:1_22:3	Phosphatidylglycerols	0	
+PG 18:1_22:4	PG 18:1_22:4	Phosphatidylglycerols	0	
+PG 18:1_22:5	PG 18:1_22:5	Phosphatidylglycerols	0	
+PG 18:2_18:2	PG 18:2_18:2	Phosphatidylglycerols	0	
+PG 18:2_18:3	PG 18:2_18:3	Phosphatidylglycerols	0	
+PG 18:2_18:4	PG 18:2_18:4	Phosphatidylglycerols	0	
+PG 18:2_20:0	PG 18:2_20:0	Phosphatidylglycerols	0	
+PG 18:2_20:2	PG 18:2_20:2	Phosphatidylglycerols	0	
+PG 18:2_20:3	PG 18:2_20:3	Phosphatidylglycerols	0	
+PG 18:2_20:4	PG 18:2_20:4	Phosphatidylglycerols	0	
+PG 18:2_20:5	PG 18:2_20:5	Phosphatidylglycerols	0	
+PG 18:2_22:0	PG 18:2_22:0	Phosphatidylglycerols	0	
+PG 18:2_22:1	PG 18:2_22:1	Phosphatidylglycerols	0	
+PG 18:2_22:3	PG 18:2_22:3	Phosphatidylglycerols	0	
+PG 18:2_22:4	PG 18:2_22:4	Phosphatidylglycerols	0	
+PG 20:3_20:4	PG 20:3_20:4	Phosphatidylglycerols	0	
+PG 20:4_20:4	PG 20:4_20:4	Phosphatidylglycerols	0	
+PG 20:4_22:1	PG 20:4_22:1	Phosphatidylglycerols	0	
+PG 20:4_22:3	PG 20:4_22:3	Phosphatidylglycerols	0	
+PG 20:4_22:4	PG 20:4_22:4	Phosphatidylglycerols	0	
+PG 22:4_22:6	PG 22:4_22:6	Phosphatidylglycerols	0	
+PG 22:5_22:6	PG 22:5_22:6	Phosphatidylglycerols	0	
+PG 22:6_22:6	PG 22:6_22:6	Phosphatidylglycerols	0	
+PI 14:0_18:1	PI 14:0_18:1	Phosphatidylinositols	0	
+PI 14:0_18:2	PI 14:0_18:2	Phosphatidylinositols	0	
+PI 15:0_16:0	PI 15:0_16:0	Phosphatidylinositols	0	
+PI 15:1_16:0	PI 15:1_16:0	Phosphatidylinositols	0	
+PI 16:0_16:0	PI 16:0_16:0	Phosphatidylinositols	0	
+PI 16:0_17:0	PI 16:0_17:0	Phosphatidylinositols	0	
+PI 16:0_17:1	PI 16:0_17:1	Phosphatidylinositols	0	
+PI 16:0_17:2	PI 16:0_17:2	Phosphatidylinositols	0	
+PI 16:0_18:1	PI 16:0_18:1	Phosphatidylinositols	0	
+PI 16:0_18:2	PI 16:0_18:2	Phosphatidylinositols	0	
+PI 16:0_18:3	PI 16:0_18:3	Phosphatidylinositols	0	
+PI 16:0_20:0	PI 16:0_20:0	Phosphatidylinositols	0	
+PI 16:0_20:3	PI 16:0_20:3	Phosphatidylinositols	0	
+PI 16:0_20:4	PI 16:0_20:4	Phosphatidylinositols	0	
+PI 16:0_22:1	PI 16:0_22:1	Phosphatidylinositols	0	
+PI 16:1_18:0	PI 16:1_18:0	Phosphatidylinositols	0	
+PI 16:1_18:1	PI 16:1_18:1	Phosphatidylinositols	0	
+PI 16:1_18:2	PI 16:1_18:2	Phosphatidylinositols	0	
+PI 17:0_18:1	PI 17:0_18:1	Phosphatidylinositols	0	
+PI 17:1_18:1	PI 17:1_18:1	Phosphatidylinositols	0	
+PI 17:1_18:2	PI 17:1_18:2	Phosphatidylinositols	0	
+PI 18:0_18:0	PI 18:0_18:0	Phosphatidylinositols	0	
+PI 18:0_18:1	PI 18:0_18:1	Phosphatidylinositols	0	
+PI 18:0_18:2	PI 18:0_18:2	Phosphatidylinositols	0	
+PI 18:0_18:3	PI 18:0_18:3	Phosphatidylinositols	0	
+PI 18:0_20:0	PI 18:0_20:0	Phosphatidylinositols	0	
+PI 18:0_20:3	PI 18:0_20:3	Phosphatidylinositols	0	
+PI 18:0_20:4	PI 18:0_20:4	Phosphatidylinositols	0	
+PI 18:0_22:0	PI 18:0_22:0	Phosphatidylinositols	0	
+PI 18:1_18:1	PI 18:1_18:1	Phosphatidylinositols	0	
+PI 18:1_18:2	PI 18:1_18:2	Phosphatidylinositols	0	
+PI 18:1_18:3	PI 18:1_18:3	Phosphatidylinositols	0	
+PI 18:1_20:0	PI 18:1_20:0	Phosphatidylinositols	0	
+PI 18:1_20:1	PI 18:1_20:1	Phosphatidylinositols	0	
+PI 18:1_20:2	PI 18:1_20:2	Phosphatidylinositols	0	
+PI 18:1_20:3	PI 18:1_20:3	Phosphatidylinositols	0	
+PI 18:1_20:4	PI 18:1_20:4	Phosphatidylinositols	0	
+PI 18:1_20:5	PI 18:1_20:5	Phosphatidylinositols	0	
+PI 18:1_22:0	PI 18:1_22:0	Phosphatidylinositols	0	
+PI 18:1_22:1	PI 18:1_22:1	Phosphatidylinositols	0	
+PI 18:1_22:2	PI 18:1_22:2	Phosphatidylinositols	0	
+PI 18:1_22:3	PI 18:1_22:3	Phosphatidylinositols	0	
+PI 18:1_22:4	PI 18:1_22:4	Phosphatidylinositols	0	
+PI 18:1_22:5	PI 18:1_22:5	Phosphatidylinositols	0	
+PI 18:1_22:6	PI 18:1_22:6	Phosphatidylinositols	0	
+PI 18:2_18:3	PI 18:2_18:3	Phosphatidylinositols	0	
+PI 18:2_20:0	PI 18:2_20:0	Phosphatidylinositols	0	
+PI 18:2_20:1	PI 18:2_20:1	Phosphatidylinositols	0	
+PI 18:2_20:4	PI 18:2_20:4	Phosphatidylinositols	0	
+PI 18:2_20:5	PI 18:2_20:5	Phosphatidylinositols	0	
+PI 18:2_22:0	PI 18:2_22:0	Phosphatidylinositols	0	
+PI 18:2_22:1	PI 18:2_22:1	Phosphatidylinositols	0	
+PI 18:2_22:6	PI 18:2_22:6	Phosphatidylinositols	0	
+PS 30:0	PS 30:0	Phosphatidylserines	0	
+PS 32:0	PS 32:0	Phosphatidylserines	0	
+PS 34:1	PS 34:1	Phosphatidylserines	0	
+PS 34:2	PS 34:2	Phosphatidylserines	0	
+PS 36:1	PS 36:1	Phosphatidylserines	0	
+PS 36:2	PS 36:2	Phosphatidylserines	0	
+PS 36:3	PS 36:3	Phosphatidylserines	0	
+PS 36:4	PS 36:4	Phosphatidylserines	0	
+PS 36:5	PS 36:5	Phosphatidylserines	0	
+PS 38:4	PS 38:4	Phosphatidylserines	0	
+PS 38:5	PS 38:5	Phosphatidylserines	0	
+PS 38:6	PS 38:6	Phosphatidylserines	0	
+PS 38:7	PS 38:7	Phosphatidylserines	0	
+PS 40:4	PS 40:4	Phosphatidylserines	0	
+PS 40:5	PS 40:5	Phosphatidylserines	0	
+PS 40:6	PS 40:6	Phosphatidylserines	0	
+PS 40:7	PS 40:7	Phosphatidylserines	0	
+PS 40:8	PS 40:8	Phosphatidylserines	0	
+SPB d14:0	SPB d14:0	Sphinganines and sphingosines	0	
+SPB d14:1	SPB d14:1	Sphinganines and sphingosines	0	
+SPB d16:0	SPB d16:0	Sphinganines and sphingosines	0	
+SPB d16:1	SPB d16:1	Sphinganines and sphingosines	0	
+SPB d17:0	SPB d17:0	Sphinganines and sphingosines	0	
+SPB d17:1	SPB d17:1	Sphinganines and sphingosines	0	
+SPB d18:0	SPB d18:0	Sphinganines and sphingosines	0	
+SPB d18:1	SPB d18:1	Sphinganines and sphingosines	0	
+SPBP d14:0	SPBP d14:0	Sphinganine and sphingosine phosphates	0	
+SPBP d14:1	SPBP d14:1	Sphinganine and sphingosine phosphates	0	
+SPBP d16:0	SPBP d16:0	Sphinganine and sphingosine phosphates	0	
+SPBP d16:1	SPBP d16:1	Sphinganine and sphingosine phosphates	0	
+SPBP d17:0	SPBP d17:0	Sphinganine and sphingosine phosphates	0	
+SPBP d17:1	SPBP d17:1	Sphinganine and sphingosine phosphates	0	
+SPBP d18:0	SPBP d18:0	Sphinganine and sphingosine phosphates	0	
+SPBP d18:1	SPBP d18:1	Sphinganine and sphingosine phosphates	0	
+SM 33:1	SM 33:1	Sphingomyelins	0	
+SM 34:1	SM 34:1	Sphingomyelins	0	
+SM 34:2	SM 34:2	Sphingomyelins	0	
+SM 35:1	SM 35:1	Sphingomyelins	0	
+SM 36:1	SM 36:1	Sphingomyelins	0	
+SM 36:2	SM 36:2	Sphingomyelins	0	
+SM 38:3	SM 38:3	Sphingomyelins	0	
+SM 41:1	SM 41:1	Sphingomyelins	0	
+SM 41:2	SM 41:2	Sphingomyelins	0	
+SM 42:1	SM 42:1	Sphingomyelins	0	
+SM 42:2	SM 42:2	Sphingomyelins	0	
+SM 43:1	SM 43:1	Sphingomyelins	0	
+SM 44:1	SM 44:1	Sphingomyelins	0	
+SM 44:2	SM 44:2	Sphingomyelins	0	
+TG 14:0_32:2	TG 14:0_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_34:1	TG 16:0_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_32:0	TG 16:1_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_34:3	TG 17:1_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_34:0	TG 14:0_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_34:2	TG 16:0_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_32:1	TG 16:1_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_36:3	TG 17:1_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_34:1	TG 14:0_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_34:3	TG 16:0_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_32:2	TG 16:1_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_36:4	TG 17:1_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_34:2	TG 14:0_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_34:4	TG 16:0_34:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_33:1	TG 16:1_33:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_36:5	TG 17:1_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_34:3	TG 14:0_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_35:1	TG 16:0_35:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_34:0	TG 16:1_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_38:5	TG 17:1_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_35:1	TG 14:0_35:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_35:2	TG 16:0_35:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_34:1	TG 16:1_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_38:6	TG 17:1_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_35:2	TG 14:0_35:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_35:3	TG 16:0_35:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_34:2	TG 16:1_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_38:7	TG 17:1_38:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_36:1	TG 14:0_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_36:2	TG 16:0_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_34:3	TG 16:1_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_34:2	TG 17:2_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_36:2	TG 14:0_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_36:3	TG 16:0_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_36:1	TG 16:1_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_34:3	TG 17:2_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_36:3	TG 14:0_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_36:4	TG 16:0_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_36:2	TG 16:1_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_36:2	TG 17:2_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_36:4	TG 14:0_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_36:5	TG 16:0_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_36:3	TG 16:1_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_36:3	TG 17:2_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_38:4	TG 14:0_38:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_36:6	TG 16:0_36:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_36:4	TG 16:1_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_36:4	TG 17:2_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_38:5	TG 14:0_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_37:3	TG 16:0_37:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_36:5	TG 16:1_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_38:5	TG 17:2_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_39:3	TG 14:0_39:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:1	TG 16:0_38:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_38:3	TG 16:1_38:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_38:6	TG 17:2_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 14:0_40:5	TG 14:0_40:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:2	TG 16:0_38:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_38:4	TG 16:1_38:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:2_38:7	TG 17:2_38:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_28:1	TG 16:0_28:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:3	TG 16:0_38:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_38:5	TG 16:1_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_30:0	TG 18:0_30:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_28:2	TG 16:0_28:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:4	TG 16:0_38:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_32:1	TG 17:0_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_30:1	TG 18:0_30:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_30:2	TG 16:0_30:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:5	TG 16:0_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_34:1	TG 17:0_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_32:0	TG 18:0_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_32:0	TG 16:0_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:6	TG 16:0_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_34:3	TG 17:0_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_34:2	TG 18:0_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_32:1	TG 16:0_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_38:7	TG 16:0_38:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_36:3	TG 17:0_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_34:3	TG 18:0_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_32:2	TG 16:0_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_40:6	TG 16:0_40:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_36:4	TG 17:0_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_36:1	TG 18:0_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_32:3	TG 16:0_32:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_40:7	TG 16:0_40:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_32:1	TG 17:1_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_36:2	TG 18:0_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_33:1	TG 16:0_33:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_40:8	TG 16:0_40:8	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_34:1	TG 17:1_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_36:3	TG 18:0_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_33:2	TG 16:0_33:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_28:0	TG 16:1_28:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:1_34:2	TG 17:1_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_30:0	TG 20:4_30:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:0_34:0	TG 16:0_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 16:1_30:1	TG 16:1_30:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_36:3	TG 18:3_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_32:0	TG 20:4_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_36:4	TG 18:0_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_30:1	TG 18:2_30:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_36:4	TG 18:3_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_32:1	TG 20:4_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_36:5	TG 18:0_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_31:0	TG 18:2_31:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_38:5	TG 18:3_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_32:2	TG 20:4_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_38:6	TG 18:0_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_32:0	TG 18:2_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_38:6	TG 18:3_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_33:2	TG 20:4_33:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_38:7	TG 18:0_38:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_32:1	TG 18:2_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:0_32:3	TG 20:0_32:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_34:0	TG 20:4_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_26:0	TG 18:1_26:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_32:2	TG 18:2_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:0_32:4	TG 20:0_32:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_34:1	TG 20:4_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_28:1	TG 18:1_28:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_33:0	TG 18:2_33:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:0_34:1	TG 20:0_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_34:2	TG 20:4_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_30:0	TG 18:1_30:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_33:1	TG 18:2_33:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_26:1	TG 20:1_26:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_34:3	TG 20:4_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_30:1	TG 18:1_30:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_33:2	TG 18:2_33:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_30:1	TG 20:1_30:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_35:3	TG 20:4_35:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_30:2	TG 18:1_30:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_34:1	TG 18:2_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_31:0	TG 20:1_31:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_36:2	TG 20:4_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_31:0	TG 18:1_31:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_34:2	TG 18:2_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_32:0	TG 20:1_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_36:3	TG 20:4_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_32:0	TG 18:1_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_34:3	TG 18:2_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_32:1	TG 20:1_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_36:4	TG 20:4_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_32:1	TG 18:1_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_34:4	TG 18:2_34:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_32:2	TG 20:1_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:4_36:5	TG 20:4_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_32:2	TG 18:1_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_35:1	TG 18:2_35:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_32:3	TG 20:1_32:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:5_34:0	TG 20:5_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_32:3	TG 18:1_32:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_35:2	TG 18:2_35:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_34:0	TG 20:1_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:5_34:1	TG 20:5_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_33:0	TG 18:1_33:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_35:3	TG 18:2_35:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_34:1	TG 20:1_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:5_34:2	TG 20:5_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_33:1	TG 18:1_33:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:0	TG 18:2_36:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_34:2	TG 20:1_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:5_36:2	TG 20:5_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_33:2	TG 18:1_33:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:1	TG 18:2_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:1_34:3	TG 20:1_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:5_36:3	TG 20:5_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_33:3	TG 18:1_33:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:2	TG 18:2_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_32:0	TG 20:2_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:0_32:4	TG 22:0_32:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_34:1	TG 18:1_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:3	TG 18:2_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_32:1	TG 20:2_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:1_32:5	TG 22:1_32:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_34:2	TG 18:1_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:4	TG 18:2_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_34:1	TG 20:2_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:2_32:4	TG 22:2_32:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_34:3	TG 18:1_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_36:5	TG 18:2_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_34:2	TG 20:2_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:3_30:2	TG 22:3_30:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_34:4	TG 18:1_34:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_38:4	TG 18:2_38:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_34:3	TG 20:2_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:4_32:0	TG 22:4_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_35:2	TG 18:1_35:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_38:5	TG 18:2_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_34:4	TG 20:2_34:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:4_32:2	TG 22:4_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_35:3	TG 18:1_35:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_38:6	TG 18:2_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:2_36:5	TG 20:2_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:4_34:2	TG 22:4_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:0	TG 18:1_36:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_30:0	TG 18:3_30:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_32:0	TG 20:3_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:5_32:0	TG 22:5_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:1	TG 18:1_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_32:0	TG 18:3_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_32:1	TG 20:3_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:5_32:1	TG 22:5_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:2	TG 18:1_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_32:1	TG 18:3_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_32:2	TG 20:3_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:5_34:1	TG 22:5_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:3	TG 18:1_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_33:2	TG 18:3_33:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_34:0	TG 20:3_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:5_34:2	TG 22:5_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:4	TG 18:1_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_34:0	TG 18:3_34:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_34:1	TG 20:3_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:5_34:3	TG 22:5_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:5	TG 18:1_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_34:1	TG 18:3_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_34:2	TG 20:3_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:6_32:0	TG 22:6_32:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_36:6	TG 18:1_36:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_34:2	TG 18:3_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_34:3	TG 20:3_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:6_32:1	TG 22:6_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_38:5	TG 18:1_38:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_34:3	TG 18:3_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_36:3	TG 20:3_36:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:6_34:1	TG 22:6_34:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_38:6	TG 18:1_38:6	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_35:2	TG 18:3_35:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_36:4	TG 20:3_36:4	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:6_34:2	TG 22:6_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:1_38:7	TG 18:1_38:7	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_36:1	TG 18:3_36:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 20:3_36:5	TG 20:3_36:5	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 22:6_34:3	TG 22:6_34:3	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_28:0	TG 18:2_28:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:3_36:2	TG 18:3_36:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_32:1	TG 18:0_32:1	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:2_30:0	TG 18:2_30:0	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 17:0_34:2	TG 17:0_34:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+TG 18:0_32:2	TG 18:0_32:2	Triglycerides	1	IMMUNOMET_ONEIL_FAS
+Hex3Cer d18:1/16:0	Hex3Cer d18:1/16:0	Trihexosylceramides	0	
+Hex3Cer d18:1/18:0	Hex3Cer d18:1/18:0	Trihexosylceramides	0	
+Hex3Cer d18:1/20:0	Hex3Cer d18:1/20:0	Trihexosylceramides	0	
+Hex3Cer d18:1/22:0	Hex3Cer d18:1/22:0	Trihexosylceramides	0	
+Hex3Cer d18:1/24:1	Hex3Cer d18:1/24:1	Trihexosylceramides	0	
+Hex3Cer d18:1/26:1	Hex3Cer d18:1/26:1	Trihexosylceramides	0	

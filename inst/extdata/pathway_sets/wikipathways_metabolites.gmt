@@ -1,0 +1,145 @@
+WIKIPATHWAYS_10Q11_21Q11_23_COPY_NUMBER_VARIATION_SYNDROME	WP5352	Choline	Serotonin	a-Ketoglutaric acid
+WIKIPATHWAYS_10Q22Q23_COPY_NUMBER_VARIATION	WP5402	Glu	Met	a-Ketoglutaric acid
+WIKIPATHWAYS_15Q25_COPY_NUMBER_VARIATION	WP5408	Adenosine	Cytidine	Thymidine	Uridine	cAMP
+WIKIPATHWAYS_16P11_2_PROXIMAL_DELETION_SYNDROME	WP4949	Cer d18:1/16:0	Cer d18:1/18:0	Cer d18:1/20:0	Choline	DG 16:0_16:0	FA 16:0	LPA 16:0	LPA 18:1	LPC 16:0	Quinolinic acid
+WIKIPATHWAYS_17P13_3_YWHAE_COPY_NUMBER_VARIATION	WP5376	DOPA	Dopamine	Norepinephrine
+WIKIPATHWAYS_22Q11_2_COPY_NUMBER_VARIATION_SYNDROME	WP4657	DOPAC	Dopamine	Homovanillic acid	Norepinephrine	Orn	a-Ketoglutaric acid
+WIKIPATHWAYS_2Q37_COPY_NUMBER_VARIATION_SYNDROME	WP5224	2-OH-Glutaric acid	Ala	Kynurenic acid	Pyruvic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_7Q11_23_COPY_NUMBER_VARIATION_SYNDROME	WP4932	AHCys	Dopamine	GABA	Norepinephrine	Serotonin
+WIKIPATHWAYS_ACETYLCHOLINE_SYNTHESIS	WP528	Choline	FA 2:0	PC 32:0	PC 34:4	PE 36:0	Pyruvic acid
+WIKIPATHWAYS_ADHD_AND_AUTISM_ASD_PATHWAYS	WP5420	3-OH-Anthranilic acid	3-OH-Kynurenine	5-HIAA	5-OH-Trp	AHCys	Adenine	Adenosine	Ala	Anthranilic acid	Arg	Asp	Betaine	Cit	Creatine	Cys	DMG	DOPA	DOPAC	Deoxyguanosine	Dopamine	Epinephrine	FA 20:4n-6 (AA)	Folic acid (B9)	Fumaric acid	GABA	Gln	Glu	Gly	Guanidinoacetic acid	Guanine	Guanosine	HCys	His	Histamine	Homovanillic acid	Hypotaurine	Hypoxanthine	Inosine	Kynurenic acid	Kynurenine	MG 20:4	Melatonin	Norepinephrine	Orn	PE 36:0	PEA	PMP	Phe	Picolinic acid	Quinolinic acid	Riboflavin (B2)	Sarcosine	Serotonin	Suc	Taurine	Thr	Trp	Tyr	Tyramine	Uric acid	Vanillylmandelic acid	Xanthine	Xanthurenic acid	a-Ketoglutaric acid	cAMP
+WIKIPATHWAYS_AEROBIC_GLYCOLYSIS	WP4629	Glucose	Lac	Pyruvic acid
+WIKIPATHWAYS_AEROBIC_GLYCOLYSIS_AUGMENTED	WP4628	Creatine	Glucose	Lac	Pyruvic acid	Ser
+WIKIPATHWAYS_ALANINE_AND_ASPARTATE_METABOLISM	WP106	Ala	Arginino-Suc	Asn	Asp	C2	Carnosine	Citric acid	Fumaric acid	Malic acid	Oxaloacetic acid	Pyruvic acid	Suc	a-Ketoglutaric acid	beta-Ala
+WIKIPATHWAYS_AMINO_ACID_CONJUGATION	WP715	Gln	Gly	Taurine
+WIKIPATHWAYS_AMINO_ACID_CONJUGATION_OF_BENZOIC_ACID	WP521	2-Met-HipAcid	Benzoic acid	Gly	HipAcid
+WIKIPATHWAYS_AMINO_ACID_METABOLISM	WP3925	2-OH-Isobutyric acid	3-IAA	3-Met-2-oxovaleric acid	3-OH-Butyric acid	4-Met-2-oxovaleric acid	5-HIAA	5-OH-Trp	Ala	Arg	Arginino-Suc	Asn	Asp	Carbamoyl-PO4	Cit	Citric acid	Cys	Dopamine	Epinephrine	Fumaric acid	Gln	Glu	Glucose	Gly	Guanidinoacetic acid	HCys	His	Histamine	Ile	Indoleacetaldehyde	Isocitric acid	Lac	Leu	Malic acid	Met	Norepinephrine	Orn	Oxaloacetic acid	Phe	Pro	Putrescine	Pyruvic acid	Ser	Serotonin	Spermidine	Spermine	Suc	Thr	Trp	Tryptamine	Tyr	Urea	Val	a-Ketoglutaric acid	a-Ketoisovaleric acid	t4-OH-Pro
+WIKIPATHWAYS_AMINO_ACID_METABOLISM_IN_TRIPLE_NEGATIVE_BREAST_CANCER_CELLS	WP5213	Citric acid	Gln	Glu	Malic acid	Oxaloacetic acid	Pyruvic acid	Ser	a-Ketoglutaric acid
+WIKIPATHWAYS_AMINO_ACID_METABOLISM_PATHWAY_EXCERPT_HISTIDINE_CATABOLISM_EXTENSION	WP4661	Ala	Citric acid	Fumaric acid	Glu	His	Isocitric acid	Malic acid	Oxaloacetic acid	Pyruvic acid	Suc	a-Ketoglutaric acid
+WIKIPATHWAYS_AMINO_ACID_TRANSPORT_DEFECTS_IEMS	WP5029	Asp	Cys	Glu	Gly	Ser
+WIKIPATHWAYS_BIOCHEMICAL_PATHWAYS_PART_I	WP3604	2-OH-Butyric acid	2-OH-Glutaric acid	3-IAA	3-Met-2-oxovaleric acid	3-OH-Anthranilic acid	3-OH-Isobutyric acid	4-Met-2-oxovaleric acid	4-OH-Phenylpyruvic acid	5-Amino-4-oxovaleric acid	5-HIAA	5-OH-Trp	AHCys	Adenine	Adenosine	Ala	Anthranilic acid	Arg	Arginino-Suc	Asn	Asp	Betaine	CA	CDCA	Carbamoyl-PO4	Choline	Cit	Citric acid	Cortisol	Cortisone	Creatine	Cys	Cystine	Cytidine	Cytosine	DHEAS	DMG	DOPA	Deoxycytidine	Deoxyguanosine	Dopamine	Epinephrine	FA 3:0	Fructose	Fumaric acid	GABA	GCA	Gln	Glu	Glucose	Glutaric acid	Gly	Glyceric acid	Glycolic acid	Glyoxylic acid	Guanidinoacetic acid	Guanine	Guanosine	HCys	HSer	His	Histamine	Hypotaurine	Hypoxanthine	Ile	Indoleacetaldehyde	Indolepyruvic acid	Inosine	Isocitric acid	Kynurenic acid	Kynurenine	Lac	Leu	Lys	Malic acid	Malonic acid	Mannose	Met	Met-SO	Mevalonic acid	N6-Ac-Lys	Norepinephrine	Orn	Orotic acid	Oxalic acid	Oxaloacetic acid	Pantothenic acid (B5)	Phe	Phenylpyruvic acid	Picolinic acid	Pro	Putrescine	Pyruvic acid	Quinolinic acid	Ribose	Sarcosine	Ser	Serotonin	Spermidine	Spermine	Suc	TCA	TCDCA	Taurine	Thr	Thymidine	Thymine	Trp	Tryptamine	Tyr	Uracil	Urea	Uric acid	Uridine	Val	Vanillylmandelic acid	Xanthine	Xanthurenic acid	a-Ketoglutaric acid	a-Ketoisovaleric acid	alpha-AAA	beta-Ala	t4-OH-Pro
+WIKIPATHWAYS_BIOGENIC_AMINE_SYNTHESIS	WP550	5-OH-Trp	Choline	DOPA	Dopamine	Epinephrine	GABA	Glu	His	Histamine	Melatonin	Norepinephrine	Phe	Serotonin	Trp	Tyr
+WIKIPATHWAYS_BIOMARKERS_FOR_PYRIMIDINE_METABOLISM_DISORDERS	WP4584	Creatine	Cys	Cytidine	Cytosine	Orotic acid	Thymidine	Thymine	Uracil	Uridine	beta-Ala
+WIKIPATHWAYS_BIOMARKERS_FOR_UREA_CYCLE_DISORDERS	WP4583	Arg	Arginino-Suc	Asp	Carbamoyl-PO4	Cit	Creatine	Fumaric acid	Gln	Glu	Guanidinoacetic acid	HCit	Met	N-Ac-Glu	Orn	Orotic acid	Thr	Tyr	Urea	beta-Ala
+WIKIPATHWAYS_BIOSYNTHESIS_AND_REGENERATION_OF_TETRAHYDROBIOPTERIN_AND_CATABOLISM_OF_PHENYLALANINE	WP4156	5-HIAA	5-OH-Trp	DOPA	Dopamine	Epinephrine	Homovanillic acid	Melatonin	Norepinephrine	Phe	Serotonin	Trp	Tyr	Vanillylmandelic acid
+WIKIPATHWAYS_BIOTIN_METABOLISM_INCLUDING_IMDS	WP5031	Biotin (B7)	Oxaloacetic acid	Pyruvic acid
+WIKIPATHWAYS_CANCER_PATHWAYS	WP5434	Cortisol	Cortisone	DG 16:0_16:0	Fumaric acid	LPA 18:2	Malic acid	cAMP
+WIKIPATHWAYS_CANNABINOID_RECEPTOR_SIGNALING	WP3869	FA 20:4n-6 (AA)	GABA	Glu	MG 20:4	PE 36:0	cAMP
+WIKIPATHWAYS_CARNOSINE_METABOLISM_OF_GLIAL_CELLS	WP5313	Carnosine	His	beta-Ala
+WIKIPATHWAYS_CEREBRAL_ORGANIC_ACIDURIAS_INCLUDING_DISEASES	WP4519	2-OH-Glutaric acid	3-OH-Glutaric acid	Asp	C5-DC (C6-OH)	Glutaric acid	N-Ac-Asp	Trp	a-Ketoglutaric acid	alpha-AAA
+WIKIPATHWAYS_CHOLESTEROL_METABOLISM_WITH_BLOCH_AND_KANDUTSCH_RUSSELL_PATHWAYS	WP4718	FA 16:1	FA 18:1	Mevalonic acid
+WIKIPATHWAYS_CREATINE_PATHWAY	WP5190	AHCys	Arg	Creatine	Creatinine	Gly	Guanidinoacetic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_CYSTEINE_AND_METHIONINE_CATABOLISM	WP4504	AHCys	Adenosine	Betaine	Cys	DMG	Glu	Gly	HCys	Hypotaurine	Met	Pyruvic acid	Ser	Taurine	a-Ketoglutaric acid
+WIKIPATHWAYS_CYTOSINE_METHYLATION	WP3585	Cytosine	Isocitric acid	a-Ketoglutaric acid
+WIKIPATHWAYS_DIET_DEPENDENT_TRIMETHYLAMINE_TRIMETHYLAMINE_N_OXIDE_METABOLISM	WP5219	Betaine	C0	Choline	DMG	FA 2:0	TMAO
+WIKIPATHWAYS_DISORDERS_OF_BILE_ACID_SYNTHESIS_AND_BILIARY_TRANSPORT	WP5176	CA	CDCA	GCA	GCDCA	TCDCA	Taurine
+WIKIPATHWAYS_DISORDERS_OF_FOLATE_METABOLISM_AND_TRANSPORT	WP4259	AHCys	Folic acid (B9)	Glu	Gly	HCys	Met	Ser
+WIKIPATHWAYS_DISORDERS_OF_FRUCTOSE_METABOLISM	WP5178	Fructose	Glyceric acid	Pyruvic acid
+WIKIPATHWAYS_DOPAMINE_METABOLISM	WP2436	AHCys	DOPA	DOPAC	Dopamine	Homovanillic acid	Tyr
+WIKIPATHWAYS_DRUG_INDUCTION_OF_BILE_ACID_PATHWAY	WP2289	Bilirubin	Cortisol	DCA	GCA	IsoUDCA	TCA
+WIKIPATHWAYS_EFFECT_OF_OMEGA_3_PUFA_ON_HUNTINGTON_S_DISEASE_PATHWAYS	WP5470	FA 20:5n-3 (EPA)	FA 22:6n-3 (DHA)	GABA	Gln
+WIKIPATHWAYS_ENDOTHELIN_PATHWAYS	WP2197	Arg	Cit	DG 14:0_14:0	FA 20:4n-6 (AA)	cAMP	cGMP
+WIKIPATHWAYS_ETHANOL_EFFECTS_ON_HISTONE_MODIFICATIONS	WP3996	AHCys	FA 2:0	Folic acid (B9)	Gly	HCys	Met	Ser
+WIKIPATHWAYS_FARNESYL_TO_COQ10_METABOLISM	WP5274	4-OH-Benzoic acid	4-OH-Phenylpyruvic acid	OH-Phenyl-Lac	t-p-Coumaric acid
+WIKIPATHWAYS_FATTY_ACID_BIOSYNTHESIS	WP357	Citric acid	FA 16:0	Oxaloacetic acid	Pyruvic acid
+WIKIPATHWAYS_FERROPTOSIS	WP4313	FA 20:4n-6 (AA)	Gln	Met	Mevalonic acid	PE 38:4
+WIKIPATHWAYS_FLAVAN_3_OL_METABOLIC_PATHWAY	WP4238	2-Met-HipAcid	3-(3-OH-Phenyl)propanoic acid	3-OH-HipAcid	4-OH-Benzoic acid	4-OH-HipAcid	Benzoic acid	DOPAC	HPHPA	HipAcid	Homovanillic acid	Phenylacetic acid	Vanillic acid
+WIKIPATHWAYS_FLUOROACETIC_ACID_TOXICITY	WP4966	Citric acid	FA 2:0	Isocitric acid
+WIKIPATHWAYS_FOLATE_ALCOHOL_AND_CANCER_PATHWAY_HYPOTHESES	WP1589	AHCys	Cys	FA 2:0	Folic acid (B9)	HCys	Met
+WIKIPATHWAYS_FOLATE_METABOLISM	WP176	AHCys	Arg	Cys	Folic acid (B9)	Glucose	Gly	HCys	Met	Nitro-Tyr	Riboflavin (B2)	Ser
+WIKIPATHWAYS_GABA_METABOLISM_AKA_GHB	WP4157	2-OH-Glutaric acid	GABA	Glu	Glycolic acid	N-Ac-Putrescine	Putrescine	Suc	Uracil	a-Ketoglutaric acid	beta-Ala
+WIKIPATHWAYS_GABA_RECEPTOR_SIGNALING	WP4159	GABA	Glu	Suc
+WIKIPATHWAYS_GLUCOSE_HOMEOSTASIS	WP661	2-Met-HipAcid	3-OH-Butyric acid	Arg	Cit	GCA	GCDCA	Glucose	HipAcid	His	Hypoxanthine	Ile	Lac	Lys	Malic acid	Met	Orn	Phe	Pyruvic acid	TCDCA	Tyr	Val
+WIKIPATHWAYS_GLUTATHIONE_METABOLISM	WP100	5-Oxo-Pro	Cys	Glu	Gly
+WIKIPATHWAYS_GLYCEROPHOSPHOLIPID_BIOSYNTHETIC_PATHWAY	WP2533	AHCys	Choline	PS 32:0	Ser
+WIKIPATHWAYS_GLYCINE_METABOLISM	WP1495	Creatine	Gly	Glyoxylic acid	Oxalic acid	Pyruvic acid	Ser
+WIKIPATHWAYS_GLYCINE_METABOLISM_INCLUDING_IMDS	WP5028	Gly	PMP	Ser
+WIKIPATHWAYS_GLYCOLYSIS_AND_GLUCONEOGENESIS	WP534	Asp	Glucose	Lac	Malic acid	Oxaloacetic acid	Pyruvic acid
+WIKIPATHWAYS_GLYOXYLATE_METABOLISM	WP5166	Ala	Gly	Glyceric acid	Glycolic acid	Glyoxylic acid	Oxalic acid	Pyruvic acid	Ser	t4-OH-Pro
+WIKIPATHWAYS_GPCRS_CLASS_A_RHODOPSIN_LIKE	WP455	Dopamine	Histamine	Melatonin	Serotonin
+WIKIPATHWAYS_GPR143_IN_MELANOCYTES_AND_RETINAL_PIGMENT_EPITHELIUM_CELLS	WP4941	DOPA	Dopamine	Tyr	cAMP
+WIKIPATHWAYS_HEREDITARY_LEIOMYOMATOSIS_AND_RENAL_CELL_CARCINOMA_PATHWAY	WP4206	Citric acid	Fumaric acid	Isocitric acid	Malic acid	Oxaloacetic acid	Pyruvic acid	Suc	a-Ketoglutaric acid
+WIKIPATHWAYS_HIF1A_AND_PPARG_IN_CARDIAC_HYPERTROPTHY	WP2456	DG 16:0_16:0	Glucose	Lac	Pyruvic acid
+WIKIPATHWAYS_IDO_METABOLIC_PATHWAY	WP5414	3-OH-Anthranilic acid	3-OH-Kynurenine	Anthranilic acid	Kynurenic acid	Kynurenine	Picolinic acid	Quinolinic acid	Trp
+WIKIPATHWAYS_KENNEDY_PATHWAY_FROM_SPHINGOLIPIDS	WP3933	AHCys	Choline	DG 16:0_16:0	PS 32:0	Ser
+WIKIPATHWAYS_KETOGENESIS_AND_KETOLYSIS	WP4742	3-OH-Butyric acid	Oxaloacetic acid	Pyruvic acid
+WIKIPATHWAYS_KREBS_CYCLE_DISORDERS	WP4236	Ala	C3	Fumaric acid	Malic acid	Methylmalonic acid	Oxaloacetic acid	Pyruvic acid	Suc	a-Ketoglutaric acid
+WIKIPATHWAYS_KYNURENINE_PATHWAY_AND_LINKS_TO_CELL_SENESCENCE	WP5044	3-OH-Anthranilic acid	3-OH-Kynurenine	Anthranilic acid	Kynurenic acid	Melatonin	Picolinic acid	Quinolinic acid	Xanthurenic acid
+WIKIPATHWAYS_LEUCINE_ISOLEUCINE_AND_VALINE_METABOLISM	WP4686	3-HMGA	3-Met-2-oxovaleric acid	3-Met-glutaric acid	3-OH-Butyric acid	3-OH-Isobutyric acid	4-Met-2-oxovaleric acid	BAIBA	Biotin (B7)	C3	C5:1	Ethylmalonic acid	FA 4:0-3M	Ile	Leu	Malonic acid	Methylmalonic acid	Val	a-Ketoisovaleric acid	beta-Ala
+WIKIPATHWAYS_LINOLEIC_ACID_METABOLISM_AFFECTED_BY_SARS_COV_2	WP4853	FA 16:0	FA 18:0	FA 18:1	FA 18:2	FA 20:3n-6	FA 20:4n-6 (AA)	LPC 18:2
+WIKIPATHWAYS_LIPID_METABOLISM_PATHWAY	WP3965	DG 16:0_16:0	FA 16:0	FA 2:0	Pyruvic acid
+WIKIPATHWAYS_MAJOR_RECEPTORS_TARGETED_BY_EPINEPHRINE_AND_NOREPINEPHRINE	WP4589	DG 16:0_16:0	Epinephrine	Ser	Thr	cAMP
+WIKIPATHWAYS_MALATE_ASPARTATE_SHUTTLE	WP4315	Glu	Malic acid	Oxaloacetic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_MECP2_AND_ASSOCIATED_RETT_SYNDROME	WP3584	Dopamine	GABA	Gly	Melatonin	N-Met-Asp	Norepinephrine	Serotonin
+WIKIPATHWAYS_MELATONIN_METABOLISM_AND_EFFECTS	WP3298	5-HIAA	Melatonin	Norepinephrine	Serotonin	cAMP
+WIKIPATHWAYS_METABOLIC_EPILEPTIC_DISORDERS	WP5355	AHCys	Ala	Arginino-Suc	Asp	Biotin (B7)	Carbamoyl-PO4	Cit	Citric acid	Creatine	Cys	Fumaric acid	Gln	Glu	Glucose	Gly	Guanidinoacetic acid	HCys	Hypoxanthine	Lac	Lys	Malic acid	Orn	Oxaloacetic acid	Pyruvic acid	Ser	Urea	Uric acid	a-Ketoglutaric acid	alpha-AAA
+WIKIPATHWAYS_METABOLIC_PATHWAYS_OF_FIBROBLASTS	WP5312	Gln	Glu	Glucose	Gly	Lac	Pro	Pyruvic acid	Ser	a-Ketoglutaric acid
+WIKIPATHWAYS_METABOLIC_REPROGRAMMING_IN_COLON_CANCER	WP4290	Asn	Citric acid	Fumaric acid	Gly	Isocitric acid	Lac	Malic acid	Oxaloacetic acid	Pyruvic acid	Ser	a-Ketoglutaric acid
+WIKIPATHWAYS_METABOLIC_REPROGRAMMING_IN_PANCREATIC_CANCER	WP5220	Oxaloacetic acid	Pyruvic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_METABOLISM_OF_ALPHA_LINOLENIC_ACID	WP4586	FA 18:2	FA 20:3n-6	FA 20:4n-6 (AA)
+WIKIPATHWAYS_METABOLISM_OVERVIEW	WP3602	3-OH-Butyric acid	Arg	Arginino-Suc	Asp	C16	Carbamoyl-PO4	Cit	Citric acid	FA 16:0	Fumaric acid	Gln	Glu	Glucose	Glyoxylic acid	Isocitric acid	LPA 18:2	Malic acid	Orn	Oxaloacetic acid	Pyruvic acid	Suc	Urea	a-Ketoglutaric acid
+WIKIPATHWAYS_METHIONINE_DE_NOVO_AND_SALVAGE_PATHWAY	WP3580	AHCys	Adenine	Adenosine	Betaine	Choline	DMG	Glu	HCys	Met	Met-SO	Orn	Putrescine	Pyruvic acid	Spermidine	Spermine	a-Ketoglutaric acid
+WIKIPATHWAYS_METHIONINE_METABOLISM_LEADING_TO_SULFUR_AMINO_ACIDS_AND_RELATED_DISORDERS	WP4292	AHCys	Adenosine	Betaine	Gly	HCys	Hypotaurine	Met	Sarcosine	Taurine
+WIKIPATHWAYS_MITOCHONDRIAL_BETA_OXIDATION	WP5241	FA 12:0	FA 14:0	FA 16:0	FA 16:1	FA 18:0	FA 18:1	FA 18:2	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:6n-3 (DHA)
+WIKIPATHWAYS_MODIFIED_NUCLEOSIDES_DERIVED_FROM_TRNA_AS_URINARY_CANCER_MARKERS	WP4485	Adenosine	Cytidine	Guanosine	Inosine	N-Ac-Cytidine	Uridine
+WIKIPATHWAYS_MONOAMINE_GPCRS	WP58	Dopamine	Epinephrine	Histamine	Norepinephrine	Serotonin
+WIKIPATHWAYS_MONOAMINE_TRANSPORT	WP727	Dopamine	Epinephrine	GABA	Norepinephrine	Serotonin	Trp
+WIKIPATHWAYS_MRNA_PROTEIN_AND_METABOLITE_INDUCATION_PATHWAY_BY_CYCLOSPORIN_A	WP3953	Ala	Asn	Cys	Gln	Ile	Leu	Thr	Trp	Tyr	Val
+WIKIPATHWAYS_MTHFR_DEFICIENCY	WP4288	AHCys	Betaine	Cer d18:1/25:0	Choline	DG 16:0_16:0	DMG	HCys	Met
+WIKIPATHWAYS_NAD_BIOSYNTHESIS_II_FROM_TRYPTOPHAN	WP2485	3-OH-Anthranilic acid	Ala	Gln	Glu	Kynurenine	Quinolinic acid	Trp
+WIKIPATHWAYS_NAD_BIOSYNTHETIC_PATHWAYS	WP3645	3-OH-Anthranilic acid	Kynurenine	Nicotinamide (B3)	Nicotinic acid (B3)	Quinolinic acid	Trp
+WIKIPATHWAYS_NAD_METABOLISM	WP3644	Lac	Nicotinamide (B3)	Nicotinic acid (B3)	Pyruvic acid	Trp
+WIKIPATHWAYS_NAD_METABOLISM_IN_ONCOGENE_INDUCED_SENESCENCE_AND_MITOCHONDRIAL_DYSFUNCTION_ASSOCIATED_SENESCENCE	WP5046	Malic acid	Nicotinamide (B3)	Pyruvic acid
+WIKIPATHWAYS_NEURODEGENERATION_WITH_BRAIN_IRON_ACCUMULATION_NBIA_SUBTYPES_PATHWAY	WP4577	Cer d18:1/25:0	Cys	Pantothenic acid (B5)	Ser
+WIKIPATHWAYS_NEUROINFLAMMATION_AND_GLUTAMATERGIC_SIGNALING	WP5083	Asp	Gly	Pyruvic acid	Ser	a-Ketoglutaric acid	cAMP
+WIKIPATHWAYS_NEUROTRANSMITTER_DISORDERS	WP4220	5-HIAA	5-OH-Trp	DOPA	DOPAC	Dopamine	Epinephrine	Homovanillic acid	Melatonin	Norepinephrine	Serotonin	Trp	Tyr	Vanillactic acid	Vanillylmandelic acid
+WIKIPATHWAYS_NICOTINE_EFFECT_ON_DOPAMINERGIC_NEURONS	WP1602	DOPA	Dopamine	Nicotine	Tyr	cAMP
+WIKIPATHWAYS_NITRIC_OXIDE_METABOLISM_IN_CYSTIC_FIBROSIS	WP4947	ADMA	Arg	SDMA
+WIKIPATHWAYS_NO_CGMP_PKG_MEDIATED_NEUROPROTECTION	WP4008	Arg	Cit	Glu	cAMP	cGMP
+WIKIPATHWAYS_OMEGA_3_OMEGA_6_FATTY_ACID_SYNTHESIS	WP4723	FA 18:2	FA 20:2	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:5n-3 (DPA)	FA 22:6n-3 (DHA)
+WIKIPATHWAYS_OMEGA_6_FATTY_ACIDS_IN_SENESCENCE	WP5424	FA 18:2	FA 20:2	FA 20:3n-6	FA 20:4n-6 (AA)	FA 22:5n-3 (DPA)	cAMP
+WIKIPATHWAYS_OMEGA_9_FATTY_ACID_SYNTHESIS	WP4724	FA 12:0	FA 14:0	FA 16:0	FA 16:1	FA 18:0	FA 18:1	FA 20:0	FA 20:3n-9	FA 22:0	FA 24:0
+WIKIPATHWAYS_ONE_CARBON_METABOLISM	WP241	AHCys	Betaine	Choline	Folic acid (B9)	Gly	HCys	Met	Riboflavin (B2)	Ser
+WIKIPATHWAYS_OREXIN_RECEPTOR_PATHWAY	WP5094	Cortisol	Epinephrine	FA 20:4n-6 (AA)	Glu	Glucose	LPA 18:2	MG 20:4	cAMP
+WIKIPATHWAYS_OXYSTEROLS_DERIVED_FROM_CHOLESTEROL	WP4545	CA	CDCA	Histamine
+WIKIPATHWAYS_PARKINSON_S_DISEASE_PATHWAY	WP2371	DOPA	Dopamine	Tyr
+WIKIPATHWAYS_PGK1_PKM2_KHKC_KHKA_ACTING_AS_PROTEIN_KINASES	WP5433	Fructose	Glucose	Lac	Pyruvic acid
+WIKIPATHWAYS_PHOSPHATIDYLCHOLINE_CATABOLISM	WP4195	Betaine	Choline	FA 18:0	FA 20:4n-6 (AA)	PC 38:4
+WIKIPATHWAYS_PHOSPHODIESTERASES_IN_NEURONAL_FUNCTION	WP4222	Dopamine	Glu	cAMP	cGMP
+WIKIPATHWAYS_PROLINE_AND_HYDROXYPROLINE_PATHWAYS	WP5026	Arg	Arginino-Suc	Cit	Glu	Orn	Pro
+WIKIPATHWAYS_PROSTAGLANDIN_SYNTHESIS_AND_REGULATION	WP98	Cortisol	Cortisone	FA 20:4n-6 (AA)
+WIKIPATHWAYS_PROXIMAL_TUBULE_TRANSPORT	WP4917	Gly	Oxalic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_PURINE_METABOLISM	WP4792	Adenine	Adenosine	Deoxyguanosine	Guanine	Guanosine	Hypoxanthine	Inosine	Uric acid	Xanthine
+WIKIPATHWAYS_PURINE_METABOLISM_AND_RELATED_DISORDERS	WP4224	Adenine	Adenosine	Asp	Deoxyguanosine	Fumaric acid	Gln	Glu	Guanine	Guanosine	Hypoxanthine	Inosine	Met	Uric acid	Xanthine
+WIKIPATHWAYS_PYRIMIDINE_METABOLISM	WP4022	Carbamoyl-PO4	Cytidine	Deoxycytidine	Gln	Orotic acid	Thymidine	Thymine	Uracil	Uridine	beta-Ala
+WIKIPATHWAYS_PYRIMIDINE_METABOLISM_AND_RELATED_DISEASES	WP4225	Asp	Carbamoyl-PO4	Cit	Cytidine	Gln	Glu	Orn	Orotic acid	Thymidine	Thymine	Uracil	Uridine	Val	beta-Ala
+WIKIPATHWAYS_RAS_AND_BRADYKININ_PATHWAYS_IN_COVID_19	WP4969	Arg	FA 20:4n-6 (AA)	cGMP
+WIKIPATHWAYS_REGUCALCIN_IN_PROXIMAL_TUBULE_EPITHELIAL_KIDNEY_CELLS	WP4838	Arg	DG 16:0_16:0	cAMP
+WIKIPATHWAYS_ROLE_OF_CARNOSINE_IN_MUSCLE_CONTRACTION	WP4486	Anserine	Carnosine	GABA	His	Histamine	beta-Ala
+WIKIPATHWAYS_SCFA_AND_SKELETAL_MUSCLE_SUBSTRATE_METABOLISM	WP4030	FA 2:0	FA 3:0	FA 4:0
+WIKIPATHWAYS_SELENIUM_MICRONUTRIENT_NETWORK	WP15	3-OH-Kynurenine	Cys	FA 18:2	FA 20:3n-6	FA 20:4n-6 (AA)	FA 20:5n-3 (EPA)	FA 22:6n-3 (DHA)	Folic acid (B9)	Glucose	HCys	Hypoxanthine	Kynurenine	Met	Met-SO	Nicotinamide (B3)	Nicotinic acid (B3)	Nitro-Tyr	PMP	Quinolinic acid	Riboflavin (B2)	Ser	Trp	Uric acid	Xanthine
+WIKIPATHWAYS_SERINE_METABOLISM	WP4688	Cer d18:1/25:0	Glu	Gly	Pyruvic acid	Ser	a-Ketoglutaric acid
+WIKIPATHWAYS_SMITH_MAGENIS_AND_POTOCKI_LUPSKI_SYNDROME_COPY_NUMBER_VARIATION	WP5381	Cortisol	Gly	Melatonin	Ser	Thymine	Uracil
+WIKIPATHWAYS_SPHINGOLIPID_METABOLISM_INTEGRATED_PATHWAY	WP4726	Cer d18:0/18:0	Cer d18:0/20:0	Cer d18:0/22:0	Cer d18:0/24:0	Cer d18:1/16:0	Cer d18:1/18:0	Cer d18:1/20:0	Cer d18:1/22:0	Cer d18:1/24:0	Cer d18:1/25:0	Cer d18:1/26:0	Ser
+WIKIPATHWAYS_SPHINGOLIPID_METABOLISM_IN_SENESCENCE	WP5121	Cer d18:1/25:0	DG 16:0_16:0	Ser
+WIKIPATHWAYS_SPINA_BIFIDA	WP5150	AHCys	Folic acid (B9)	HCys	Met
+WIKIPATHWAYS_SUDDEN_INFANT_DEATH_SYNDROME_SIDS_SUSCEPTIBILITY_PATHWAYS	WP706	5-HIAA	5-OH-Trp	Choline	DOPA	Dopamine	GABA	Nicotine	Phe	Serotonin	Trp	Tyr
+WIKIPATHWAYS_SYNAPTIC_VESICLE_PATHWAY	WP2267	Dopamine	Gln	Serotonin
+WIKIPATHWAYS_TCA_CYCLE_AKA_KREBS_OR_CITRIC_ACID_CYCLE	WP78	Citric acid	Fumaric acid	Isocitric acid	Malic acid	Oxaloacetic acid	Suc	a-Ketoglutaric acid
+WIKIPATHWAYS_TCA_CYCLE_IN_SENESCENCE	WP5050	Fumaric acid	Malic acid	Oxaloacetic acid	Pyruvic acid	a-Ketoglutaric acid
+WIKIPATHWAYS_THERMOGENESIS	WP4321	C0	DG 16:0_16:0	MG 20:4	Nicotine	Norepinephrine	cAMP	cGMP
+WIKIPATHWAYS_THIAMINE_METABOLIC_PATHWAYS	WP4297	Isocitric acid	Oxaloacetic acid	Pyruvic acid	Ser	Suc	a-Ketoglutaric acid
+WIKIPATHWAYS_THYROID_HORMONES_PRODUCTION_AND_PERIPHERAL_DOWNSTREAM_SIGNALING_EFFECTS	WP4746	DG 16:0_16:0	Norepinephrine	cAMP	cGMP
+WIKIPATHWAYS_THYROXINE_THYROID_HORMONE_PRODUCTION	WP1981	DG 16:0_16:0	Tyr	cAMP
+WIKIPATHWAYS_TRANS_SULFURATION_ONE_CARBON_METABOLISM_AND_RELATED_PATHWAYS	WP2525	5-Oxo-Pro	AHCys	Betaine	Choline	Cys	DMG	Folic acid (B9)	Gly	HCys	Hypotaurine	Met	Orn	Putrescine	Sarcosine	Ser	Spermidine	Spermine	TCA	TCDCA	Taurine
+WIKIPATHWAYS_TRANS_SULFURATION_PATHWAY	WP2333	AHCys	Cys	Glu	HCys	Met	Pyruvic acid	Taurine
+WIKIPATHWAYS_TRYPTOPHAN_CATABOLISM_LEADING_TO_NAD_PRODUCTION	WP4210	3-IAA	3-OH-Anthranilic acid	3-OH-Kynurenine	Ala	Anthranilic acid	Kynurenic acid	Kynurenine	Nicotinamide (B3)	Nicotinuric acid	Quinolinic acid	Serotonin	Trp	Xanthurenic acid
+WIKIPATHWAYS_TRYPTOPHAN_METABOLISM	WP465	3-IAA	3-IPA	3-OH-Anthranilic acid	3-OH-Kynurenine	5-OH-Trp	Anthranilic acid	CA	FA 4:0	IAG	Indole-3-acetamide	Indole-3-ethanol	Indole-Lac	Indoleacetaldehyde	Indoleacrylic acid	Indolepyruvic acid	Kynurenic acid	Melatonin	Picolinic acid	Quinaldic acid	Serotonin	Trp	Tryptamine	Tyramine	Xanthurenic acid
+WIKIPATHWAYS_TYROSINE_METABOLISM_AND_RELATED_DISORDERS	WP4506	4-OH-Phenylacetic acid	4-OH-Phenylpyruvic acid	5-Amino-4-oxovaleric acid	Fumaric acid	OH-Phenyl-Lac	Phe	Tyr
+WIKIPATHWAYS_T_CELL_MODULATION_IN_PANCREATIC_CANCER	WP5078	Adenine	Adenosine	Orn	Trp	Urea
+WIKIPATHWAYS_UREA_CYCLE_AND_ASSOCIATED_PATHWAYS	WP4595	Ala	Arg	Arginino-Suc	Asp	Carbamoyl-PO4	Cit	Fumaric acid	Gln	Glu	Lac	Malic acid	N-Ac-Glu	Orn	Orotic acid	Oxaloacetic acid	Pro	Pyruvic acid	Uracil	Urea	Uridine	a-Ketoglutaric acid
+WIKIPATHWAYS_UREA_CYCLE_AND_METABOLISM_OF_AMINO_GROUPS	WP497	Ac-Orn	Arg	Arginino-Suc	Asp	Carbamoyl-PO4	Cit	Creatine	Creatinine	Fumaric acid	Glu	Guanidinoacetic acid	N-Ac-Glu	Orn	Pro	Putrescine	Sarcosine	Spermidine	Spermine	Urea
+WIKIPATHWAYS_UREA_CYCLE_AND_RELATED_DISEASES	WP4571	Arg	Arginino-Suc	Asp	Carbamoyl-PO4	Cit	Fumaric acid	Gln	Glu	N-Ac-Glu	Orn	Urea
+WIKIPATHWAYS_VITAMIN_B12_DISORDERS	WP4271	AHCys	HCys	Methylmalonic acid
+WIKIPATHWAYS_VITAMIN_B12_METABOLISM	WP1533	AHCys	Creatinine	Cys	Glucose	HCys	Met	Methylmalonic acid	Nitro-Tyr	Riboflavin (B2)	Ser
+WIKIPATHWAYS_VITAMIN_B6_DEPENDENT_AND_RESPONSIVE_DISORDERS	WP4228	Glu	Lys	PMP	Pro	Pyridoxine (B6)	alpha-AAA

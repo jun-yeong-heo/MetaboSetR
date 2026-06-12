@@ -1,0 +1,62 @@
+Package: MetaboSetR
+Type: Package
+Title: Biocrates Q1000 Metabolomics Preprocessing and Pathway-Set Enrichment
+Version: 0.1.0
+Author: Jun-Yeong Heo <fleatinum@gmail.com>
+Maintainer: Jun-Yeong Heo <fleatinum@gmail.com>
+Description: Preprocesses Biocrates MxP Quant 1000 WebIDQ exports and
+    performs metabolite-level feature statistics, curated pathway-set GSEA,
+    and pathway-set over-representation analysis (ORA) against curated
+    immunometabolism sets plus external metabolite-level sets (Reactome,
+    WikiPathways, SMPDB via RaMP-DB; LION lipid ontology; Plant/Microbe
+    origin and disease-association sets), with KEGG/HMDB/PubChem/ChEBI/
+    RefMet/LIPID MAPS/LION id annotations for KEGG-map overlays. See
+    DESIGN.md for the full design.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: false
+Roxygen: list(markdown = TRUE)
+Depends:
+    R (>= 4.3)
+Imports:
+    methods,
+    stats,
+    utils,
+    readxl,
+    tidyxl,
+    vegan,
+    ggplot2,
+    fgsea,
+    limma
+Suggests:
+    testthat (>= 3.0.0),
+    devtools,
+    roxygen2,
+    usethis,
+    openxlsx,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+RoxygenNote: 7.3.3
+Collate:
+    'ConcentrationData.R'
+    'ThresholdData.R'
+    'QCData.R'
+    'PreprocessedData.R'
+    'annotate.R'
+    'data.R'
+    'filter-metabolites.R'
+    'filter-samples.R'
+    'pathway-sets.R'
+    'preprocess.R'
+    'transform.R'
+    'qc-diagnostics.R'
+    'read-status-color.R'
+    'read-thresholds.R'
+    'read-webidq.R'
+    'stats-feature.R'
+    'stats-gsea.R'
+    'stats-ora.R'
+    'status-helpers.R'
+    'utils.R'

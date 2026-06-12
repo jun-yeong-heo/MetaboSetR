@@ -1,0 +1,1235 @@
+short_name	fullname	analyte_class	ramp_id	kegg_id	hmdb_id	pubchem_id	chebi_id	refmet_id	lipidmaps_id	match_basis
+Nicotine	Nicotine	Alkaloids	RAMP_C_000158862	C00745	HMDB0001001	942	CHEBI:17688	RM0136404		exact:fullname
+Trigonelline	Trigonelline	Alkaloids	RAMP_C_000000683	C01004	HMDB0000875	5570	CHEBI:18123	RM0136017		exact:fullname
+TMAO	Trimethylamine N-oxide	Amine oxides	RAMP_C_000000723	C01104	HMDB0000925	1145	CHEBI:15724	RM0156066		exact:fullname
+Ala	Alanine	Amino acids	RAMP_C_000000104	C00041	HMDB0000161	5950	CHEBI:16977	RM0135898		exact:fullname
+Arg	Arginine	Amino acids	RAMP_C_000042003	C00062	HMDB0000517	6322	CHEBI:16467	RM0135963		exact:fullname
+Asn	Asparagine	Amino acids	RAMP_C_000218742	C00152	HMDB0000168	6267	CHEBI:17196	RM0135724		exact:fullname
+Asp	Aspartic acid	Amino acids	RAMP_C_000218398	C00049	HMDB0000191	5960	CHEBI:17053	RM0135905		exact:fullname
+Cys	Cysteine	Amino acids	RAMP_C_000218469	C00097	HMDB0000574	5862	CHEBI:17561	RM0129784		exact:fullname
+Gln	Glutamine	Amino acids	RAMP_C_000218784	C00064	HMDB0000641	5961	CHEBI:18050	RM0012560		exact:fullname
+Glu	Glutamic acid	Amino acids	RAMP_C_000218397	C00025	HMDB0000148	33032	CHEBI:16015	RM0135893		exact:fullname
+Gly	Glycine	Amino acids	RAMP_C_000000078	C00037	HMDB0000123	750	CHEBI:15428	RM0135888		exact:fullname
+His	Histidine	Amino acids	RAMP_C_000218426	C00135	HMDB0000177	6274	CHEBI:15971	RM0129894		exact:fullname
+Ile	Isoleucine	Amino acids	RAMP_C_000218741	C00407	HMDB0000172	6306	CHEBI:17191	RM0134975	LMFA01100047	exact:fullname
+Leu	Leucine	Amino acids	RAMP_C_000000532	C00123	HMDB0000687	6106	CHEBI:15603	RM0136379		exact:fullname
+Lys	Lysine	Amino acids	RAMP_C_000000117	C00047	HMDB0000182	5962	CHEBI:18019	RM0135903		exact:fullname
+Met	Methionine	Amino acids	RAMP_C_000218711	C00073	HMDB0000696	6137	CHEBI:16643	RM0161726		exact:fullname
+Phe	Phenylalanine	Amino acids	RAMP_C_000218749	C00079	HMDB0000159	6140	CHEBI:17295	RM0135897		exact:fullname
+Pro	Proline	Amino acids	RAMP_C_000218861	C00148	HMDB0000162	145742	CHEBI:17203	RM0135899		exact:fullname
+Ser	Serine	Amino acids	RAMP_C_000218440	C00065	HMDB0000187	617	CHEBI:17115	RM0032433	LMFA01100045	exact:fullname
+Thr	Threonine	Amino acids	RAMP_C_000218724	C00188	HMDB0000167	6288	CHEBI:16857	RM0135900		exact:fullname
+Trp	Tryptophan	Amino acids	RAMP_C_000218721	C00078	HMDB0000929	6305	CHEBI:16828	RM0136024		exact:fullname
+Tyr	Tyrosine	Amino acids	RAMP_C_000218778	C00082	HMDB0000158	6057	CHEBI:17895	RM0135896		exact:fullname
+Val	Valine	Amino acids	RAMP_C_000218704	C00183	HMDB0000883	6287	CHEBI:16414	RM0136018		exact:fullname
+1-Met-His	1-Methylhistidine	Amino acid-related	RAMP_C_000000001	C01152	HMDB0000001	64969	CHEBI:27596	RM0135956		exact:fullname
+3-Met-2-oxovaleric acid	3-Methyl-2-oxovaleric acid	Amino acid-related	RAMP_C_000000367	C00671	HMDB0000491	47	CHEBI:15614	RM0118344	LMFA01020275	exact:fullname
+3-Met-His	3-Methylhistidine	Amino acid-related	RAMP_C_000000001	C01152	HMDB0000001	64969	CHEBI:27596	RM0135956		exact:fullname
+3-OH-Anthranilic acid	3-Hydroxyanthranilic acid	Amino acid-related	RAMP_C_000220389	C00632	HMDB0001476	86	CHEBI:15793	RM0136103		exact:fullname
+3-OH-Kynurenine	3-Hydroxykynurenine	Amino acid-related	RAMP_C_000000572	C02794	HMDB0000732	89	CHEBI:1547			exact:fullname
+4-Guanidinobutanoic acid	4-Guanidinobutanoic acid	Amino acid-related	RAMP_C_000275073	C01035	HMDB0003464	500	CHEBI:15728	RM0128522		exact:fullname
+4-Met-2-oxovaleric acid	2-Oxoisocaproic acid	Amino acid-related	RAMP_C_000218182	C00233	HMDB0000695	70	CHEBI:17865	RM0135977		exact:fullname
+5-Amino-4-oxovaleric acid	5-Amino-4-oxovaleric acid	Amino acid-related	RAMP_C_000220903	C00430	HMDB0001149	137	CHEBI:12109	RM0140164	LMFA01100055	exact:fullname
+5-AVA	5-Aminovaleric acid	Amino acid-related	RAMP_C_000001823	C00431	HMDB0003355	138	CHEBI:15887	RM0139552	LMFA01100040	exact:fullname
+5-OH-Trp	5-Hydroxytryptophan	Amino acid-related	RAMP_C_000218770	C00643	HMDB0000472	439280	CHEBI:17780	RM0131839		exact:fullname
+5-Oxo-Pro	5-Oxoproline	Amino acid-related	RAMP_C_000263954	C01879	HMDB0000267	7405	CHEBI:16924	RM0135924		exact:fullname
+AABA	alpha-Aminobutyric acid	Amino acid-related	RAMP_C_000000501	C02261	HMDB0000650	439691	CHEBI:28797	RM0134974	LMFA01100043	exact:fullname
+Ac-Orn	Acetylornithine	Amino acid-related	RAMP_C_000001824	C00437	HMDB0003357	439232	CHEBI:16543	RM0136214		norm:fullname
+ADMA	Asymmetric dimethylarginine	Amino acid-related	RAMP_C_000218780	C03626	HMDB0001539	123831	CHEBI:17929	RM0131870		exact:fullname
+Agmatine	Agmatine	Amino acid-related	RAMP_C_000001088	C00179	HMDB0001432	199	CHEBI:17431	RM0136100		exact:fullname
+a-Ketoisovaleric acid	alpha-Ketoisovaleric acid	Amino acid-related	RAMP_C_000000012	C00141	HMDB0000019	49	CHEBI:11851	RM0153610	LMFA01020274	exact:fullname
+alpha-AAA	alpha-Aminoadipic acid	Amino acid-related	RAMP_C_000218812	C00956	HMDB0000510	469	CHEBI:37023	RM0049220	LMFA01170098	exact:fullname
+Anserine	Anserine	Amino acid-related	RAMP_C_000000125	C01262	HMDB0000194	112072	CHEBI:18323	RM0135907		exact:fullname
+Anthranilic acid	Anthranilic acid	Amino acid-related	RAMP_C_000219500	C00108	HMDB0001123	227	CHEBI:16567	RM0013238		exact:fullname
+Arginino-Suc	Argininosuccinic acid	Amino acid-related	RAMP_C_000218664	C03406	HMDB0000052	16950	CHEBI:15682	RM0135871		exact:fullname
+BABA	beta-Aminobutyric acid	Amino acid-related	RAMP_C_000012640		HMDB0031654	10932	CHEBI:37081	RM0153094		exact:fullname
+BAIBA	3-Aminoisobutyric acid	Amino acid-related	RAMP_C_000001957	C05145	HMDB0000485	64956	CHEBI:27389	RM0153208	LMFA01100054	exact:fullname
+Betaine	Betaine	Amino acid-related	RAMP_C_000000030	C00719	HMDB0000043	247	CHEBI:17750	RM0135869		exact:fullname
+c4-OH-Pro	cis-4-Hydroxyproline	Amino acid-related	RAMP_C_000262491	C01015	HMDB0240251	440015	CHEBI:28397	RM0021808		exact:fullname
+Carbamoyl-PO4	Carbamoylphosphate	Amino acid-related	RAMP_C_000218766	C00169	HMDB0001096	278	CHEBI:17672	RM0136057		exact:fullname
+Carnosine	Carnosine	Amino acid-related	RAMP_C_000218666	C00386	HMDB0000033	439224	CHEBI:15727	RM0135868		exact:fullname
+Cinnamoyl-Gly	Cinnamoylglycine	Amino acid-related	RAMP_C_000007152		HMDB0011621	709625	CHEBI:68616	RM0041850		exact:fullname
+Cit	Citrulline	Amino acid-related	RAMP_C_000218703	C00327	HMDB0000904	9750	CHEBI:16349	RM0136022		exact:fullname
+Creatine	Creatine	Amino acid-related	RAMP_C_000000046	C00300	HMDB0000064	586	CHEBI:16919	RM0135876		exact:fullname
+Creatinine	Creatinine	Amino acid-related	RAMP_C_000000431	C00791	HMDB0000562	588	CHEBI:16737	RM0028430		exact:fullname
+Cystine	Cystine	Amino acid-related	RAMP_C_000000123	C00491	HMDB0000192	67678	CHEBI:16283	RM0135906		exact:fullname
+DMG	Dimethylglycine	Amino acid-related	RAMP_C_000000062	C01026	HMDB0000092	673	CHEBI:17724	RM0135883		exact:fullname
+DOPA	Dihydroxyphenylalanine	Amino acid-related	RAMP_C_000218668	C00355	HMDB0000181	6047	CHEBI:15765	RM0138924		exact:fullname
+Furoyl-Gly	Furoylglycine	Amino acid-related	RAMP_C_000000329		HMDB0000439	21863	CHEBI:82912	RM0157457		exact:fullname
+Guanidinoacetic acid	Guanidinoacetic acid	Amino acid-related	RAMP_C_000219492	C00581	HMDB0000128	763	CHEBI:16344	RM0040234		exact:fullname
+HArg	Homoarginine	Amino acid-related	RAMP_C_000000519	C01924	HMDB0000670	9085	CHEBI:27747	RM0135972		exact:fullname
+HCit	Homocitrulline	Amino acid-related	RAMP_C_000220360	C02427	HMDB0000679	65072	CHEBI:17443	RM0138931		exact:fullname
+HCys	Homocysteine	Amino acid-related	RAMP_C_000218762	C00155	HMDB0000165	778	CHEBI:17230	RM0136837		exact:fullname
+HSer	Homoserine	Amino acid-related	RAMP_C_000262508	C00263	HMDB0000719	12647	CHEBI:15699	RM0135982		exact:fullname
+Hypotaurine	Hypotaurine	Amino acid-related	RAMP_C_000000756	C00519	HMDB0000965	107812	CHEBI:16668	RM0136027		exact:fullname
+Imidazolepropionic acid	Imidazolepropionic acid	Amino acid-related	RAMP_C_000265528	C20522	HMDB0002271	70630	CHEBI:72991	RM0030004		exact:fullname
+Kynurenine	Kynurenine	Amino acid-related	RAMP_C_000000530	C00328	HMDB0000183	161166	CHEBI:16946	RM0132226		exact:fullname
+Met-SO	Methionine sulfoxide	Amino acid-related	RAMP_C_000001320	C02989	HMDB0002005	158980	CHEBI:17016	RM0050489		exact:fullname
+N2-Ac-Lys	N2-Acetyllysine	Amino acid-related	RAMP_C_000264712	C12989	HMDB0000446	92907	CHEBI:35704	RM0132215		exact:fullname
+N6-Ac-Lys	N6-Acetyllysine	Amino acid-related	RAMP_C_000262648	C02727	HMDB0000206	92832	CHEBI:17752	RM0135910		exact:fullname
+N-Ac-Ala	N-Acetylalanine	Amino acid-related	RAMP_C_000000602		HMDB0000766	88064	CHEBI:40992	RM0135990		exact:fullname
+N-Ac-Arg	N-Acetylarginine	Amino acid-related	RAMP_C_000002115		HMDB0004620	67427	CHEBI:40521	RM0132228		norm:fullname
+N-Ac-Asn	N-Acetylasparagine	Amino acid-related	RAMP_C_000002584		HMDB0006028	99715	CHEBI:139582	RM0136298		exact:fullname
+N-Ac-Asp	N-Acetylaspartic acid	Amino acid-related	RAMP_C_000218122	C01042	HMDB0000812	65065	CHEBI:16953	RM0136005		exact:fullname
+N-Ac-Gln	N-Acetylglutamine	Amino acid-related	RAMP_C_000002585		HMDB0006029	182230	CHEBI:21553	RM0138125		exact:fullname
+N-Ac-Glu	N-Acetylglutamic acid	Amino acid-related	RAMP_C_000000871	C00624	HMDB0001138	185	CHEBI:17533	RM0136738		exact:fullname
+N-Ac-Gly	N-Acetylglycine	Amino acid-related	RAMP_C_000000403		HMDB0000532	10972	CHEBI:40410	RM0135964		exact:fullname
+N-Ac-His	N-Acetylhistidine	Amino acid-related	RAMP_C_000013030	C02997	HMDB0032055	75619	CHEBI:16437	RM0132177		exact:fullname
+N-Ac-Ile	N-Acetylisoleucine	Amino acid-related	RAMP_C_000041344		HMDB0061684	7036275	CHEBI:21555	RM0132242		exact:fullname
+N-Ac-Leu	N-Acetylleucine	Amino acid-related	RAMP_C_000263626	C02710	HMDB0011756	70912	CHEBI:17786	RM0136362		exact:fullname
+N-Ac-Met	N-Acetylmethionine	Amino acid-related	RAMP_C_000266914	C02712	HMDB0011745	448580	CHEBI:21557	RM0161627		exact:fullname
+N-Ac-Phe	N-Acetylphenylalanine	Amino acid-related	RAMP_C_000000386	C03519	HMDB0000512	74839	CHEBI:16259	RM0138929		exact:fullname
+N-Ac-Pro	N-Acetylproline	Amino acid-related	RAMP_C_000073888		HMDB0094701	66141	CHEBI:21560	RM0189202		exact:fullname
+N-Ac-Ser	N-Acetylserine	Amino acid-related	RAMP_C_000001711		HMDB0002931	65249	CHEBI:45441	RM0128505		exact:fullname
+N-Ac-Trp	N-Acetyltryptophan	Amino acid-related	RAMP_C_000168845	C03137	HMDB0255052	2002	CHEBI:16734	RM0132212		exact:fullname
+N-Ac-Tyr	N-Acetyltyrosine	Amino acid-related	RAMP_C_000000674	C01657	HMDB0000866	68310	CHEBI:21563	RM0136012		exact:fullname
+N-Ac-Val	N-Acetylvaline	Amino acid-related	RAMP_C_000007265		HMDB0011757	66789	CHEBI:21565	RM0013320		exact:fullname
+Nitro-Tyr	Nitrotyrosine	Amino acid-related	RAMP_C_000001250		HMDB0001904	65124	CHEBI:44454	RM0161660		exact:fullname
+N-Met-Asp	N-Methylaspartic acid	Amino acid-related	RAMP_C_000001590	C12269	HMDB0002393	22880	CHEBI:31882	RM0136188		exact:fullname
+N-Nitroso-Pro	N-Nitrosoproline	Amino acid-related	RAMP_C_000022382	C19485	HMDB0041946	24141	CHEBI:82515	RM0159663		exact:fullname
+Orn	Ornithine	Amino acid-related	RAMP_C_000218554	C00077	HMDB0000214	6262	CHEBI:15729	RM0135912		exact:fullname
+PAG	Phenylacetylglycine	Amino acid-related	RAMP_C_000000643	C05598	HMDB0000821	68144	CHEBI:27480	RM0012731		exact:fullname
+PheAlaBetaine	Phenylalanine betaine	Amino acid-related	RAMP_C_000156775		HMDB0240552	25837691	CHEBI:125805	RM0132192		exact:fullname
+Phenylacetylglutamine	Phenylacetylglutamine	Amino acid-related	RAMP_C_000218777	C04148	HMDB0006344	92258	CHEBI:17884	RM0056200		exact:fullname
+ProBetaine	Proline betaine	Amino acid-related	RAMP_C_000156702	C10172	HMDB0004827	115244	CHEBI:35280	RM0012987		exact:fullname
+Sarcosine	Sarcosine	Amino acid-related	RAMP_C_000218658	C00213	HMDB0000271	1088	CHEBI:15611	RM0135925		exact:fullname
+SDMA	Symmetric dimethylarginine	Amino acid-related	RAMP_C_000001813		HMDB0003334	169148	CHEBI:25682	RM0012924		exact:fullname
+t4-OH-Pro	trans-4-Hydroxyproline	Amino acid-related	RAMP_C_000000565	C01157	HMDB0000725	5810	CHEBI:18095	RM0028010		exact:fullname
+Taurine	Taurine	Amino acid-related	RAMP_C_000218584	C00245	HMDB0000251	1123	CHEBI:15891	RM0118223		exact:fullname
+TrpBetaine	Tryptophan betaine	Amino acid-related	RAMP_C_000040990	C09213	HMDB0061115	442106	CHEBI:5832	RM0108718		exact:fullname
+Tryptamine	Tryptamine	Amino acid-related	RAMP_C_000262759	C00398	HMDB0000303	1150	CHEBI:16765	RM0049799		exact:fullname
+Tyramine	Tyramine	Amino acid-related	RAMP_C_000000209	C00483	HMDB0000306	5610	CHEBI:15760	RM0135807		exact:fullname
+12-KetoDCA	12-Ketodeoxycholic acid	Bile acids	RAMP_C_000000230		HMDB0000328	3080612	CHEBI:139134	RM0010209	LMST04010155	exact:fullname
+3-EpiDCA	3-Epideoxycholic acid	Bile acids	RAMP_C_000267468		HMDB0000438	160530	CHEBI:87733	RM0126049	LMST04010042	exact:fullname
+7-KetoDCA	7-Ketodeoxycholic acid	Bile acids	RAMP_C_000000284	C04643	HMDB0000391	188292	CHEBI:11893	RM0135822	LMST04010184	exact:fullname
+CA	Cholic acid	Bile acids	RAMP_C_000218390	C00695	HMDB0000505	160636	CHEBI:16359	RM0135798	LMST04010001	exact:fullname
+CDCA	Chenodeoxycholic acid	Bile acids	RAMP_C_000000390	C02528	HMDB0000518	10133	CHEBI:16755	RM0135803	LMST04010032	exact:fullname
+DCA	Deoxycholic acid	Bile acids	RAMP_C_000263082	C04483	HMDB0000626	222528	CHEBI:23614	RM0126048	LMST04010040	exact:fullname
+GCA	Glycocholic acid	Bile acids	RAMP_C_000000089	C01921	HMDB0000138	10140	CHEBI:17687	RM0135849	LMST05030001	exact:fullname
+GCDCA	Glycochenodeoxycholic acid	Bile acids	RAMP_C_000002951	C05462	HMDB0000637	12544	CHEBI:36252	RM0135850	LMST05030008	exact:fullname
+GDCA	Glycodeoxycholic acid	Bile acids	RAMP_C_000000484	C05464	HMDB0000631	3035026	CHEBI:27471	RM0125880	LMST05030006	exact:fullname
+GLCA	Glycolithocholic acid	Bile acids	RAMP_C_000261925	C15557	HMDB0000698	115245	CHEBI:37998	RM0135851	LMST05030009	exact:fullname
+GLCAS	Glycolithocholic acid sulfate	Bile acids	RAMP_C_000261925	C15557	HMDB0000698	115245	CHEBI:37998	RM0135851	LMST05030009	exact:fullname
+GUDCA	Glycoursodeoxycholic acid	Bile acids	RAMP_C_000000550		HMDB0000708	12310288	CHEBI:89929	RM0126064	LMST05030016	exact:fullname
+IsoLCA	Isolithocholic acid	Bile acids	RAMP_C_000000559	C17658	HMDB0000717	164853	CHEBI:81253	RM0128365	LMST04010004	exact:fullname
+IsoUDCA	Isoursodeoxycholic acid	Bile acids	RAMP_C_000000531	C17662	HMDB0000686	127601	CHEBI:43419	RM0135805	LMST04010035	exact:fullname
+LCA	Lithocholic acid	Bile acids	RAMP_C_000000277	C03990	HMDB0000381	9903	CHEBI:16325	RM0022359	LMST04010003	exact:fullname
+NorDCA	Nordeoxycholic acid	Bile acids	RAMP_C_000217816		HMDB0304947	314374				exact:fullname
+TCA	Taurocholic acid	Bile acids	RAMP_C_000171306	C05122	HMDB0000036	5247	CHEBI:28865	RM0033602	LMST05040001	exact:fullname
+TCDCA	Taurochenodeoxycholic acid	Bile acids	RAMP_C_000219362	C05465	HMDB0000951	387316	CHEBI:9407	RM0128369	LMST05040005	exact:fullname
+TDCA	Taurodeoxycholic acid	Bile acids	RAMP_C_000267477	C05463	HMDB0000896	2733768	CHEBI:9410	RM0135855	LMST05040013	exact:fullname
+THDCA	Taurohyodeoxycholic acid	Bile acids								unmatched
+TLCA	Taurolithocholic acid	Bile acids	RAMP_C_000218140	C02592	HMDB0000722	439763	CHEBI:17179	RM0011885	LMST05040003	exact:fullname
+TMCA	Tauromuricholic acids	Bile acids								unmatched
+TUDCA	Tauroursodeoxycholic acid	Bile acids	RAMP_C_000000682	C16868	HMDB0000874	9848818	CHEBI:80774	RM0135856	LMST05040015	exact:fullname
+UDCA	Ursodeoxycholic acid	Bile acids	RAMP_C_000000740	C07880	HMDB0000946	31401	CHEBI:9907	RM0160855	LMST04010033	exact:fullname
+beta-Ala	beta-Alanine	Biogenic amines	RAMP_C_000218729	C00099	HMDB0000056	239	CHEBI:16958	RM0021629		exact:fullname
+GABA	gamma-Aminobutyric acid	Biogenic amines	RAMP_C_000219510	C00334	HMDB0000112	119	CHEBI:16865	RM0153263	LMFA01100023	exact:fullname
+Dopamine	Dopamine	Biogenic amines	RAMP_C_000218860	C03758	HMDB0000073	681	CHEBI:4698	RM0135878		exact:fullname
+Histamine	Histamine	Biogenic amines	RAMP_C_000000678	C00388	HMDB0000870	774	CHEBI:18295	RM0042526		exact:fullname
+PEA	Phenylethylamine	Biogenic amines	RAMP_C_000007754	C05332	HMDB0012275	1001	CHEBI:18397	RM0049697		exact:fullname
+Putrescine	Putrescine	Biogenic amines	RAMP_C_000001073	C00134	HMDB0001414	1045	CHEBI:17148	RM0139715		exact:fullname
+Serotonin	Serotonin	Biogenic amines	RAMP_C_000000177	C00780	HMDB0000259	5202	CHEBI:28790	RM0050344		exact:fullname
+Spermidine	Spermidine	Biogenic amines	RAMP_C_000000954	C00315	HMDB0001257	1102	CHEBI:16610	RM0041813		exact:fullname
+Spermine	Spermine	Biogenic amines	RAMP_C_000218544	C00750	HMDB0001256	1103	CHEBI:15746	RM0033343		exact:fullname
+Urea	Urea	Biogenic amines	RAMP_C_000000199	C00086	HMDB0000294	1176	CHEBI:16199	RM0117395		exact:fullname
+2-OH-Butyric acid	2-Hydroxybutyric acid	Carboxylic acids	RAMP_C_000000004	C05984	HMDB0000008	11266	CHEBI:1148	RM0153654	LMFA01050004	exact:fullname
+3-OH-Butyric acid	3-Hydroxybutyric acid	Carboxylic acids	RAMP_C_000218499	C01089	HMDB0000011	441	CHEBI:10983	RM0152271	LMFA01050005	exact:fullname
+Glycolic acid	Glycolic acid	Carboxylic acids	RAMP_C_000000073	C00160	HMDB0000115	757	CHEBI:17497	RM0136958	LMFA01050148	exact:fullname
+Glyoxylic acid	Glyoxylic acid	Carboxylic acids	RAMP_C_000218495	C00048	HMDB0000119	760	CHEBI:16891	RM0040233		exact:fullname
+HipAcid	Hippuric acid	Carboxylic acids	RAMP_C_000000556	C01586	HMDB0000714	464	CHEBI:18089	RM0135980		exact:fullname
+Lac	Lactic acid	Carboxylic acids	RAMP_C_000218078	C00186	HMDB0000190	107689	CHEBI:422	RM0135904		exact:fullname
+Mevalonic acid	Mevalonic acid	Carboxylic acids	RAMP_C_000218492	C00418	HMDB0000227	449	CHEBI:17710	RM0153668	LMFA01050352	exact:fullname
+Pyruvic acid	Pyruvic acid	Carboxylic acids	RAMP_C_000218028	C00022	HMDB0000243	1060	CHEBI:15361	RM0134967	LMFA01060077	exact:fullname
+3,4-DiOH-Benzaldehyde	3,4-Dihydroxybenzaldehyde	Catechols	RAMP_C_000039987	C16700	HMDB0059965	8768	CHEBI:50205	RM0187313		exact:fullname
+Epinephrine	Epinephrine	Catechols	RAMP_C_000000048	C00788	HMDB0000068	5816	CHEBI:28918	RM0046981		exact:fullname
+Norepinephrine	Norepinephrine	Catechols	RAMP_C_000219112	C00547	HMDB0000216	951	CHEBI:18357	RM0135913		exact:fullname
+p-Cresol glucuronide	p-Cresol glucuronide	Cresols	RAMP_C_000007206		HMDB0011686	154035	CHEBI:87986	RM0013100		exact:fullname
+p-Cresol-SO4	p-Cresol sulfate	Cresols	RAMP_C_000007164		HMDB0011635	4615423	CHEBI:82914	RM0159957		exact:fullname
+2-OH-Glutaric acid	2-Hydroxyglutaric acid	Dicarboxylic acids	RAMP_C_000219574	C01087	HMDB0000606	439391	CHEBI:15801	RM0152558		exact:fullname
+3-HMGA	3-Hydroxymethylglutaric acid	Dicarboxylic acids	RAMP_C_000262211	C03761	HMDB0000355	1662	CHEBI:16831	RM0155771	LMFA01170091	exact:fullname
+3-Met-adipic acid	3-Methyladipic acid	Dicarboxylic acids	RAMP_C_000000424		HMDB0000555	12292	CHEBI:68503	RM0153105	LMFA01170095	exact:fullname
+3-Met-glutaric acid	3-Methylglutaric acid	Dicarboxylic acids	RAMP_C_000000590		HMDB0000752	12284	CHEBI:68566	RM0153032	LMFA01170117	exact:fullname
+3-OH-Glutaric acid	3-Hydroxyglutaric acid	Dicarboxylic acids	RAMP_C_000000320		HMDB0000428	181976	CHEBI:39980	RM0139418		exact:fullname
+3-OH-Sebacic acid	3-Hydroxysebacic acid	Dicarboxylic acids	RAMP_C_000000249		HMDB0000350	3017884	CHEBI:89182	RM0140670	LMFA01170092	exact:fullname
+Adipic acid	Adipic acid	Dicarboxylic acids	RAMP_C_000000336	C06104	HMDB0000448	196	CHEBI:17128	RM0149937	LMFA01170048	exact:fullname
+a-Ketoglutaric acid	alpha-Ketoglutaric acid	Dicarboxylic acids	RAMP_C_000274401	C00026	HMDB0000208	51	CHEBI:16810	RM0135911		exact:fullname
+Citramalic acid	Citramalic acid	Dicarboxylic acids	RAMP_C_000263246	C00815	HMDB0000426	1081	CHEBI:13997	RM0042389		exact:fullname
+DiCA 12:0	Dodecanedioic acid	Dicarboxylic acids	RAMP_C_000220887	C02678	HMDB0000623	12736	CHEBI:4676	RM0153694	LMFA01170009	exact:fullname
+DiCA 14:0	Tetradecanedioic acid	Dicarboxylic acids	RAMP_C_000266202		HMDB0000872	13185	CHEBI:76281	RM0153229	LMFA01170018	exact:fullname
+E-3-Met-glutaconic acid	E-3-Methylglutaconic acid	Dicarboxylic acids	RAMP_C_000000393		HMDB0000522	1551553	CHEBI:37245	RM0139460	LMFA01170068	norm:fullname
+Ethylmalonic acid	Ethylmalonic acid	Dicarboxylic acids	RAMP_C_000000476		HMDB0000622	11756	CHEBI:741548	RM0153926	LMFA01170105	exact:fullname
+Fumaric acid	Fumaric acid	Dicarboxylic acids	RAMP_C_000218394	C00122	HMDB0000134	444972	CHEBI:18012	RM0135891		exact:fullname
+Glutaric acid	Glutaric acid	Dicarboxylic acids	RAMP_C_000000510	C00489	HMDB0000661	743	CHEBI:17859	RM0155778	LMFA01170046	exact:fullname
+Itaconic acid	Itaconic acid	Dicarboxylic acids	RAMP_C_000218143	C00490	HMDB0002092	811	CHEBI:17240	RM0152814	LMFA01170063	exact:fullname
+Maleic acid	Maleic acid	Dicarboxylic acids	RAMP_C_000262406	C01384	HMDB0000176	444266	CHEBI:18300	RM0153373		exact:fullname
+Malic acid	Malic acid	Dicarboxylic acids	RAMP_C_000218036	C00149	HMDB0000156	525	CHEBI:6650	RM0135894		exact:fullname
+Malonic acid	Malonic acid	Dicarboxylic acids	RAMP_C_000220789	C00383	HMDB0000691	867	CHEBI:15792	RM0153291	LMFA01170041	exact:fullname
+Methylmalonic acid	Methylmalonic acid	Dicarboxylic acids	RAMP_C_000220800	C02170	HMDB0000202	487	CHEBI:17453	RM0152460	LMFA01170118	exact:fullname
+Oxalic acid	Oxalic acid	Dicarboxylic acids	RAMP_C_000001542	C00209	HMDB0002329	971	CHEBI:16995	RM0149940	LMFA01170031	exact:fullname
+Oxaloacetic acid	Oxaloacetic acid	Dicarboxylic acids	RAMP_C_000262942	C00036	HMDB0000223	970	CHEBI:16452	RM0134987	LMFA01170061	exact:fullname
+Suberic acid	Suberic acid	Dicarboxylic acids	RAMP_C_000000697	C08278	HMDB0000837	10457	CHEBI:9300	RM0134985	LMFA01170001	exact:fullname
+Suc	Succinic acid	Dicarboxylic acids	RAMP_C_000218399	C00042	HMDB0000254	1110	CHEBI:15741	RM0134982	LMFA01170043	exact:fullname
+Z-3-Met-glutaconic acid	Z-3-Methylglutaconic acid	Dicarboxylic acids								unmatched
+FA 2:0	Acetic acid	Fatty acids	RAMP_C_000218400	C00033	HMDB0000042	175	CHEBI:15366	RM0153572	LMFA01010002	exact:fullname
+FA 3:0	Propanoic acid	Fatty acids	RAMP_C_000220356	C00163	HMDB0000237	1032	CHEBI:17272	RM0153498	LMFA01010003	exact:fullname
+FA 3:0-2M	Isobutyric acid	Fatty acids	RAMP_C_000001224	C02632	HMDB0001873	6590	CHEBI:16135	RM0152031	LMFA01020071	exact:fullname
+FA 4:0	Butyric acid	Fatty acids	RAMP_C_000000028	C00246	HMDB0000039	264	CHEBI:17968	RM0153517	LMFA01010004	exact:fullname
+FA 4:0-2M	2-Methylbutyric acid	Fatty acids	RAMP_C_000267278	C18319	HMDB0002176	8314	CHEBI:37070	RM0140019	LMFA01020072	exact:fullname
+FA 4:0-3M	Isovaleric acid	Fatty acids	RAMP_C_000267279	C08262	HMDB0000718	10430	CHEBI:28484	RM0153214	LMFA01020181	exact:fullname
+FA 5:0	Valeric acid	Fatty acids	RAMP_C_000218411	C00803	HMDB0000892	7991	CHEBI:17418	RM0139464	LMFA01010005	exact:fullname
+FA 5:0-3M	3-Methylvaleric acid	Fatty acids	RAMP_C_000270988		HMDB0033774	7755	CHEBI:166883	RM0153602	LMFA01020075	exact:fullname
+FA 5:0-4M	Isocaproic acid	Fatty acids	RAMP_C_000000534		HMDB0000689	12587	CHEBI:74903	RM0140652	LMFA01020076	exact:fullname
+FA 6:0	Caproic acid	Fatty acids	RAMP_C_000000405	C01585	HMDB0000535	8892	CHEBI:17120	RM0137067	LMFA01010006	exact:fullname
+FA 7:0	Heptanoic acid	Fatty acids	RAMP_C_000217257	C17714	HMDB0000666	8094	CHEBI:32362	RM0134955	LMFA01010007	exact:fullname
+FA 8:0	Caprylic acid	Fatty acids	RAMP_C_000217324	C06423	HMDB0000482	379	CHEBI:25646	RM0134956	LMFA01010008	exact:fullname
+FA 9:0	Nonanoic acid	Fatty acids	RAMP_C_000268761	C01601	HMDB0000847	8158	CHEBI:29019	RM0153439	LMFA01010009	exact:fullname
+FA 10:0	Capric acid	Fatty acids	RAMP_C_000218305	C01571	HMDB0000511	2969	CHEBI:27689	RM0153468	LMFA01010010	exact:fullname
+FA 11:0	Undecanoic acid	Fatty acids	RAMP_C_000266909	C17715	HMDB0000947	8180	CHEBI:32368	RM0149927	LMFA01010011	exact:fullname
+FA 12:0	Lauric acid	Fatty acids	RAMP_C_000264780	C02679	HMDB0000638	3893	CHEBI:18262	RM0149943	LMFA01010012	exact:fullname
+FA 14:0	Myristic acid	Fatty acids	RAMP_C_000264781	C06424	HMDB0000806	11005	CHEBI:28875	RM0153483	LMFA01010014	exact:fullname
+FA 14:1n-5	Myristoleic acid	Fatty acids	RAMP_C_000001316	C08322	HMDB0002000	5281119	CHEBI:27781	RM0153354	LMFA01030051	exact:fullname
+FA 15:0	Pentadecanoic acid	Fatty acids	RAMP_C_000000647	C16537	HMDB0000826	13849	CHEBI:42504	RM0153573	LMFA01010015	exact:fullname
+FA 16:0	Palmitic acid	Fatty acids	RAMP_C_000219234	C00249	HMDB0000220	985	CHEBI:7896	RM0153571	LMFA01010001	exact:fullname
+FA 16:1	Palmitoleic acid	Fatty acids	RAMP_C_000001779	C08362	HMDB0003229	4668	CHEBI:28716	RM0153304	LMFA01030056	exact:fullname
+FA 18:0	Stearic acid	Fatty acids	RAMP_C_000000648	C01530	HMDB0000827	5281	CHEBI:25629	RM0153574	LMFA01010018	exact:fullname
+FA 18:1	Oleic acid	Fatty acids	RAMP_C_000218407	C00712	HMDB0000207	445639	CHEBI:16196	RM0140004	LMFA01030002	exact:fullname
+FA 18:2	Linoleic acid	Fatty acids	RAMP_C_000263195	C01595	HMDB0000673	5280450	CHEBI:17351	RM0149976	LMFA01030120	exact:fullname
+FA 18:3	Octadecatrienoic acid	Fatty acids	RAMP_C_000169583		HMDB0255900	186112				exact:fullname
+FA 20:0	Arachidic acid	Fatty acids	RAMP_C_000001471	C06425	HMDB0002212	10467	CHEBI:28822	RM0137828	LMFA01010020	exact:fullname
+FA 20:1n-9	Gondoic acid	Fatty acids	RAMP_C_000001484	C16526	HMDB0002231	5282768	CHEBI:32425	RM0153087	LMFA01030085	exact:fullname
+FA 20:2	Eicosadienoic acid	Fatty acids	RAMP_C_000002354	C16525	HMDB0005060	6439848	CHEBI:73731	RM0149923	LMFA01031043	exact:fullname
+FA 20:3n-6	Dihomo-gamma-linolenic acid (omega6)	Fatty acids	RAMP_C_000266357	C03242	HMDB0002925	5280581	CHEBI:53486	RM0153916	LMFA01030158	norm:fullname_noparen
+FA 20:3n-9	Mead acid	Fatty acids	RAMP_C_000266355		HMDB0010378	4028	CHEBI:72865	RM0139545	LMFA01030157	exact:fullname
+FA 20:4n-6 (AA)	Arachidonic acid (AA; omega6)	Fatty acids	RAMP_C_000000804	C00219	HMDB0001043	444899	CHEBI:15843	RM0153612	LMFA01030001	norm:fullname_noparen
+FA 20:5n-3 (EPA)	Eicosapentaenoic acid (EPA; omega3)	Fatty acids	RAMP_C_000001315	C06428	HMDB0001999	446284	CHEBI:28364	RM0153919	LMFA01030759	norm:fullname_noparen
+FA 22:0	Behenic acid	Fatty acids	RAMP_C_000217151	C08281	HMDB0000944	8215	CHEBI:23858	RM0153577	LMFA01010022	exact:fullname
+FA 22:4n-6	Docosatetraenoic acid (omega6)	Fatty acids								unmatched
+FA 22:5n-3 (DPA)	Docosapentaenoic acid (DPA, omega3)	Fatty acids	RAMP_C_000219179	C16513	HMDB0006528	5497182	CHEBI:53488	RM0153164	LMFA04000044	norm:fullname_noparen
+FA 22:6n-3 (DHA)	Docosahexaenoic acid (DHA; omega3)	Fatty acids	RAMP_C_000001447	C06429	HMDB0002183	445580	CHEBI:28125	RM0153631	LMFA01030185	norm:fullname_noparen
+FA 24:0	Lignoceric acid	Fatty acids	RAMP_C_000001318	C08320	HMDB0002003	11197	CHEBI:28866	RM0153579	LMFA01010024	exact:fullname
+FA 24:1n-9	Nervonic acid	Fatty acids	RAMP_C_000216834	C08323	HMDB0002368	5281120	CHEBI:32392	RM0153255	LMFA01030092	exact:fullname
+FA 24:4n-6	Tetracosatetraenoic acid (omega6)	Fatty acids	RAMP_C_000002740	C16171	HMDB0006516	53477846				norm:fullname_noparen
+Cortisol	Cortisol	Hormones and related	RAMP_C_000000045	C00735	HMDB0000063	5754	CHEBI:9901	RM0135767	LMST02030001	exact:fullname
+Cortisone	Cortisone	Hormones and related	RAMP_C_000001680	C00762	HMDB0002802	222786	CHEBI:16962	RM0128363	LMST02030090	exact:fullname
+DHEAS	Dehydroepiandrosterone sulfate	Hormones and related	RAMP_C_000269812	C04555	HMDB0001032	12594	CHEBI:16814	RM0028118	LMST05020001	exact:fullname
+T3	3,3',5-Triiodothyronine (T3)	Hormones and related	RAMP_C_000161086		HMDB0245997	67020329				norm:fullname_noparen
+T4	Thyroxine (T4)	Hormones and related								unmatched
+3-IAA	3-Indoleacetic acid	Indoles and derivatives	RAMP_C_000000127	C00954	HMDB0000197	801	CHEBI:16411	RM0135909		exact:fullname
+3-IPA	3-Indolepropionic acid	Indoles and derivatives	RAMP_C_000269741		HMDB0002302	3744	CHEBI:43580	RM0004886		exact:fullname
+5-HIAA	5-Hydroxyindoleacetic acid	Indoles and derivatives	RAMP_C_000000599	C05635	HMDB0000763	1826	CHEBI:27823	RM0135989		exact:fullname
+IAG	Indolylacryloylglycine	Indoles and derivatives	RAMP_C_000002574		HMDB0006005	5370648	CHEBI:145761			exact:fullname
+Indole-3-acetamide	Indole-3-acetamide	Indoles and derivatives	RAMP_C_000010807	C02693	HMDB0029739	397	CHEBI:16031	RM0042324		exact:fullname
+Indole-3-carboxylic acid	Indole-3-carboxylic acid	Indoles and derivatives	RAMP_C_000264858	C19837	HMDB0003320	69867	CHEBI:24809	RM0040827		exact:fullname
+Indole-3-ethanol	Indole-3-ethanol	Indoles and derivatives	RAMP_C_000001860	C00955	HMDB0003447	10685	CHEBI:17890	RM0161098		exact:fullname
+Indole-3-methanol	Indole-3-methanol	Indoles and derivatives	RAMP_C_000002520		HMDB0005785	3712	CHEBI:24814	RM0040859		exact:fullname
+Indoleacetaldehyde	Indoleacetaldehyde	Indoles and derivatives	RAMP_C_000000909	C00637	HMDB0001190	800	CHEBI:18086	RM0040742		exact:fullname
+Indoleacrylic acid	Indoleacrylic acid	Indoles and derivatives	RAMP_C_000000574	C21283	HMDB0000734	5375048	CHEBI:90333	RM0135983		exact:fullname
+Indolealdehyde	Indolealdehyde	Indoles and derivatives								unmatched
+Indole-Lac	Indolelactic acid	Indoles and derivatives	RAMP_C_000000520	C02043	HMDB0000671	92904	CHEBI:17282	RM0044363		exact:fullname
+Indolepyruvic acid	Indolepyruvic acid	Indoles and derivatives	RAMP_C_000262180	C00331	HMDB0060484	803	CHEBI:17640	RM0028186		exact:fullname
+Indoxyl glucuronide	Indoxyl glucuronide	Indoles and derivatives	RAMP_C_000006276		HMDB0010319	2733785	CHEBI:145223	RM0155959		exact:fullname
+Ind-SO4	Indoxyl sulfate	Indoles and derivatives	RAMP_C_000000528		HMDB0000682	10258	CHEBI:43355	RM0135976		exact:fullname
+Melatonin	Melatonin	Indoles and derivatives	RAMP_C_000001056	C01598	HMDB0001389	896	CHEBI:16796	RM0028432		exact:fullname
+Met-IAA	Methylindole-3-acetic acid	Indoles and derivatives								unmatched
+Met-IPA	Methylindole-3-propionic acid	Indoles and derivatives								unmatched
+Adenine	Adenine	Nucleobases	RAMP_C_000000024	C00147	HMDB0000034	190	CHEBI:16708	RM0049281		exact:fullname
+Cytosine	Cytosine	Nucleobases	RAMP_C_000000483	C00380	HMDB0000630	597	CHEBI:16040	RM0050550		exact:fullname
+Guanine	Guanine	Nucleobases	RAMP_C_000000086	C00242	HMDB0000132	764	CHEBI:16235	RM0018303		exact:fullname
+Thymine	Thymine	Nucleobases	RAMP_C_000000178	C00178	HMDB0000262	1135	CHEBI:17821	RM0040235		exact:fullname
+Uracil	Uracil	Nucleobases	RAMP_C_000000203	C00106	HMDB0000300	1174	CHEBI:17568	RM0135934		exact:fullname
+Adenosine	Adenosine	Nucleobase-related	RAMP_C_000000034	C00212	HMDB0000050	60961	CHEBI:16335	RM0135870		exact:fullname
+AHCys	S-Adenosylhomocysteine	Nucleobase-related	RAMP_C_000218715	C00021	HMDB0000939	439155	CHEBI:16680	RM0136025		exact:fullname
+Cytidine	Cytidine	Nucleobase-related	RAMP_C_000000061	C00475	HMDB0000089	6175	CHEBI:17562	RM0138922		exact:fullname
+Deoxycytidine	Deoxycytidine	Nucleobase-related	RAMP_C_000000008	C00881	HMDB0000014	13711	CHEBI:15698	RM0040741		exact:fullname
+Deoxyguanosine	Deoxyguanosine	Nucleobase-related	RAMP_C_000000058	C00330	HMDB0000085	187790	CHEBI:17172	RM0042978		exact:fullname
+Guanosine	Guanosine	Nucleobase-related	RAMP_C_000000087	C00387	HMDB0000133	6802	CHEBI:16750	RM0156423		exact:fullname
+Hypoxanthine	Hypoxanthine	Nucleobase-related	RAMP_C_000000101	C00262	HMDB0000157	790	CHEBI:17368	RM0135895		exact:fullname
+Inosine	Inosine	Nucleobase-related	RAMP_C_000000126	C00294	HMDB0000195	6021	CHEBI:17596	RM0135908		exact:fullname
+N-Ac-Cytidine	N4-Acetylcytidine	Nucleobase-related	RAMP_C_000002562		HMDB0005923	107461	CHEBI:70989	RM0136296		exact:fullname
+Orotic acid	Orotic acid	Nucleobase-related	RAMP_C_000000150	C00295	HMDB0000226	967	CHEBI:16742	RM0033030		exact:fullname
+Thymidine	Thymidine	Nucleobase-related	RAMP_C_000000186	C00214	HMDB0000273	5789	CHEBI:17748	RM0135927		exact:fullname
+Uric acid	Uric acid	Nucleobase-related	RAMP_C_000000194	C00366	HMDB0000289	1175	CHEBI:17775	RM0160856		exact:fullname
+Uridine	Uridine	Nucleobase-related	RAMP_C_000000201	C00299	HMDB0000296	6029	CHEBI:16704	RM0135933		exact:fullname
+Xanthine	Xanthine	Nucleobase-related	RAMP_C_000000197	C00385	HMDB0000292	1188	CHEBI:17712	RM0135930		exact:fullname
+cAMP	Adenosine monophosphate, cyclic (cAMP)	Nucleotides	RAMP_C_000218758	C00575	HMDB0000058	6076	CHEBI:17489	RM0135874		exact:shortname
+cGMP	Guanosine monophosphate, cyclic (cGMP)	Nucleotides	RAMP_C_000000995	C00942	HMDB0001314	24316	CHEBI:16356	RM0159092		exact:shortname
+2,5-Furandicarboxylic acid	Furan-2,5-dicarboxylic acid	Organic acids	RAMP_C_000002156	C20450	HMDB0000578	76720	CHEBI:83389	RM0002727		exact:fullname
+2-Met-HipAcid	2-Methylhippuric acid	Organic acids	RAMP_C_000000556	C01586	HMDB0000714	464	CHEBI:18089	RM0135980		exact:fullname
+2-OH-2-Met-butyric acid	2-Hydroxy-2-methylbutyric acid	Organic acids	RAMP_C_000001310		HMDB0001987	95433	CHEBI:68454	RM0153672	LMFA01050389	exact:fullname
+2-OH-Isobutyric acid	2-Hydroxyisobutyric acid	Organic acids	RAMP_C_000000569		HMDB0000729	11671	CHEBI:19641	RM0139716	LMFA01050417	exact:fullname
+3-Guanidinopropionic acid	3-Guanidinopropionic acid	Organic acids	RAMP_C_000008190	C03065	HMDB0013222	67701	CHEBI:15968	RM0020462		exact:fullname
+3-OH-HipAcid	3-Hydroxyhippuric acid	Organic acids	RAMP_C_000002611		HMDB0006116	450268	CHEBI:70824	RM0136303		exact:fullname
+3-OH-Isobutyric acid	3-Hydroxyisobutyric acid	Organic acids	RAMP_C_000000016	C01188	HMDB0000023	440873	CHEBI:37373	RM0139461		exact:fullname
+4-OH-HipAcid	4-Hydroxyhippuric acid	Organic acids	RAMP_C_000008486		HMDB0013678	151012	CHEBI:71018	RM0136393		exact:fullname
+4-Quinolinecarboxylic acid	4-Quinolinecarboxylic acid	Organic acids	RAMP_C_000262749	C06414	HMDB0257047	10243	CHEBI:18311	RM0042347		exact:fullname
+Abscisic acid	Abscisic acid	Organic acids	RAMP_C_000251892	C11060	HMDB0036093	643732	CHEBI:2365	RM0136744	LMPR0103050008	exact:fullname
+Argininic acid	Argininic acid	Organic acids	RAMP_C_000001757		HMDB0003148	160437	CHEBI:90000	RM0136208		exact:fullname
+Bilirubin	Bilirubin	Organic acids	RAMP_C_000000038	C00486	HMDB0000054	5280352	CHEBI:16990	RM0135872		exact:fullname
+Biliverdin	Biliverdin	Organic acids	RAMP_C_000000781	C00500	HMDB0001008	5280353	CHEBI:17033	RM0136810		exact:fullname
+CMPF	3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid	Organic acids	RAMP_C_000040987		HMDB0061112	123979	CHEBI:41254	RM0134984	LMFA01150004	exact:fullname
+Glyceric acid	Glyceric acid	Organic acids	RAMP_C_000218080	C00258	HMDB0000139	439194	CHEBI:16659	RM0135902		exact:fullname
+Nicotinuric acid	Nicotinuric acid	Organic acids	RAMP_C_000001794	C05380	HMDB0003269	68499	CHEBI:7563	RM0162074		exact:fullname
+2-OH-Benzoic acid	2-Hydroxybenzoic acid	Phenolic acids	RAMP_C_000001242	C00805	HMDB0001895	338	CHEBI:16914	RM0136132		exact:fullname
+2-OH-Phenylacetic acid	2-Hydroxyphenylacetic acid	Phenolic acids	RAMP_C_000264868	C05852	HMDB0000669	11970	CHEBI:28478	RM0133220		exact:fullname
+3-(3-OH-Phenyl)propanoic acid	3-(3-Hydroxyphenyl)propanoic acid	Phenolic acids	RAMP_C_000264309	C11457	HMDB0000375	91	CHEBI:1427	RM0135946		exact:fullname
+3,5-DiOH-Benzoic acid	3,5-Dihydroxybenzoic acid	Phenolic acids	RAMP_C_000008485		HMDB0013677	7424	CHEBI:39912	RM0136392		exact:fullname
+3-OH-Phenylacetic acid	3-Hydroxyphenylacetic acid	Phenolic acids	RAMP_C_000000330	C05593	HMDB0000440	5055	CHEBI:17445	RM0019907		exact:fullname
+3-OH-Phenylpyruvic acid	3-Hydroxyphenylpyruvic acid	Phenolic acids	RAMP_C_000271023		HMDB0011663	5318321	CHEBI:167869			exact:fullname
+4-OH-Benzoic acid	4-Hydroxybenzoic acid	Phenolic acids	RAMP_C_000000376	C00156	HMDB0000500	135	CHEBI:17879	RM0135960		exact:fullname
+4-OH-Phenylacetic acid	4-Hydroxyphenylacetic acid	Phenolic acids	RAMP_C_000040342	C13636	HMDB0060390	96009	CHEBI:31128	RM0016691		exact:fullname
+4-OH-Phenylpyruvic acid	4-Hydroxyphenylpyruvic acid	Phenolic acids	RAMP_C_000000549	C01179	HMDB0000707	979	CHEBI:15999	RM0020531		exact:fullname
+Benzoic acid	Benzoic acid	Phenolic acids	RAMP_C_000001222	C00180	HMDB0001870	242	CHEBI:16150	RM0134993		exact:fullname
+Desamino-Tyr	Desaminotyrosine	Phenolic acids	RAMP_C_000264115	C01744	HMDB0002199	10394	CHEBI:16331	RM0004770		exact:fullname
+DOPAC	3,4-Dihydroxyphenylacetic acid	Phenolic acids	RAMP_C_000001011	C01161	HMDB0001336	547	CHEBI:17612	RM0136062		exact:fullname
+Homovanillic acid	Homovanillic acid	Phenolic acids	RAMP_C_000000074	C05582	HMDB0000118	1738	CHEBI:545959	RM0042979		exact:fullname
+HPHPA	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	Phenolic acids	RAMP_C_000001643		HMDB0002643	102959	CHEBI:86369	RM0161370		exact:fullname
+OH-Phenyl-Lac	Hydroxyphenyllactic acid	Phenolic acids	RAMP_C_000219718	C03672	HMDB0000755	9378	CHEBI:10980	RM0044554		exact:fullname
+Phenylacetic acid	Phenylacetic acid	Phenolic acids	RAMP_C_000000134	C07086	HMDB0000209	999	CHEBI:18401	RM0029184		exact:fullname
+Phenyl-Lac	Phenyllactic acid	Phenolic acids	RAMP_C_000000432	C05607	HMDB0000475	444718	CHEBI:11009	RM0012471		exact:fullname
+Phenylpyruvic acid	Phenylpyruvic acid	Phenolic acids	RAMP_C_000216964	C00166	HMDB0000205	997	CHEBI:18005	RM0040766		exact:fullname
+t-p-Coumaric acid	trans-p-Coumaric acid	Phenolic acids	RAMP_C_000261846	C00811	HMDB0002035	637542	CHEBI:12876	RM0049546		exact:fullname
+Vanillactic acid	Vanillactic acid	Phenolic acids	RAMP_C_000000716		HMDB0000913	160637	CHEBI:88526	RM0161369		exact:fullname
+Vanillic acid	Vanillic acid	Phenolic acids	RAMP_C_000262375	C06672	HMDB0000484	8468	CHEBI:16632	RM0040767		exact:fullname
+Vanillylmandelic acid	Vanillylmandelic acid	Phenolic acids	RAMP_C_000217410	C05584	HMDB0000291	1245	CHEBI:20106	RM0002833		exact:fullname
+4-EPS	4-Ethylphenyl sulfate	Phenoxy compounds	RAMP_C_000041858		HMDB0062551	20822574	CHEBI:82932	RM0138695		exact:fullname
+Phenylglucuronide	Phenylglucuronide	Phenoxy compounds	RAMP_C_000039837		HMDB0059806	119239				exact:fullname
+Cadaverine	Cadaverine	Polyamines	RAMP_C_000263953	C01672	HMDB0002322	273	CHEBI:18127	RM0150157		exact:fullname
+N1,N8-Di-Ac-Spermidine	N1,N8-Diacetylspermidine	Polyamines	RAMP_C_000022383		HMDB0041947	389613	CHEBI:139328	RM0020382		exact:fullname
+N1,N12-Di-Ac-Spermine	N1,N12-Diacetylspermine	Polyamines	RAMP_C_000041925	C03413	HMDB0002172	132680	CHEBI:28101	RM0040292		exact:fullname
+N1-Ac-Spermidine	N1-Acetylspermidine	Polyamines	RAMP_C_000262968	C00612	HMDB0001276	496	CHEBI:17927	RM0053025		exact:fullname
+N1-Ac-Spermine	N1-Acetylspermine	Polyamines	RAMP_C_000041921	C02567	HMDB0001186	916	CHEBI:17312	RM0136069		exact:fullname
+N8-Ac-Spermidine	N8-Acetylspermidine	Polyamines	RAMP_C_000001451	C01029	HMDB0002189	123689	CHEBI:27911	RM0136169		exact:fullname
+N-Ac-Putrescine	N-Acetylputrescine	Polyamines	RAMP_C_000001365	C02714	HMDB0002064	122356	CHEBI:17768	RM0136156		exact:fullname
+Isonicotinic acid	Isonicotinic acid	Pyridinecarboxylic acids	RAMP_C_000040594	C07446	HMDB0060665	5922	CHEBI:6032	RM0156680		exact:fullname
+Kynurenic acid	Kynurenic acid	Pyridinecarboxylic acids	RAMP_C_000219506	C01717	HMDB0000715	3845	CHEBI:18344	RM0032431		exact:fullname
+Picolinic acid	Picolinic acid	Pyridinecarboxylic acids	RAMP_C_000001492	C10164	HMDB0002243	1018	CHEBI:28747	RM0136177		exact:fullname
+Quinaldic acid	Quinaldic acid	Pyridinecarboxylic acids	RAMP_C_000220387	C06325	HMDB0000842	7124	CHEBI:18386	RM0162650		exact:fullname
+Quinolinic acid	Quinolinic acid	Pyridinecarboxylic acids	RAMP_C_000000155	C03722	HMDB0000232	1066	CHEBI:16675	RM0135916		exact:fullname
+Xanthurenic acid	Xanthurenic acid	Pyridinecarboxylic acids	RAMP_C_000000688	C02470	HMDB0000881	5699	CHEBI:10072	RM0032268		exact:fullname
+3-Deoxyglucosone	3-Deoxyglucosone	Sugars	RAMP_C_000160957		HMDB0245856	114839	CHEBI:60777	RM0155881		exact:fullname
+Fructose	Fructose	Sugars	RAMP_C_000000509	C02336	HMDB0000660	439709	CHEBI:28645			exact:fullname
+Glucose	Glucose	Sugars	RAMP_C_000000077	C00031	HMDB0000122	5793	CHEBI:4167	RM0135901		exact:fullname
+Mannose	Mannose	Sugars	RAMP_C_000000110	C00159	HMDB0000169	18950	CHEBI:4208	RM0135630		exact:fullname
+NeuAc	Acetylneuraminic acid	Sugars	RAMP_C_000264346	C19910	HMDB0000230	445063	CHEBI:45744	RM0135920		exact:fullname
+Ribose	Ribose	Sugars	RAMP_C_000000190	C00121	HMDB0000283	5779	CHEBI:47013	RM0006551		exact:fullname
+Threonic acid	Threonic acid	Sugars	RAMP_C_000268373	C01620	HMDB0000943	151152	CHEBI:15908	RM0049431		exact:fullname
+AconAcid	Aconitic acid	Tricarboxylic acids	RAMP_C_000162862		HMDB0247961	309	CHEBI:22211			exact:fullname
+Citric acid	Citric acid	Tricarboxylic acids	RAMP_C_000218121	C00158	HMDB0000094	311	CHEBI:16947	RM0135884		exact:fullname
+Isocitric acid	Isocitric acid	Tricarboxylic acids	RAMP_C_000217206	C00311	HMDB0000193	1198	CHEBI:151	RM0050098		exact:fullname
+Biotin (B7)	Biotin (B7)	Vitamins and cofactors	RAMP_C_000261993	C00120	HMDB0000030	171548	CHEBI:15956	RM0028735		norm:fullname_noparen
+Choline	Choline	Vitamins and cofactors	RAMP_C_000000065	C00114	HMDB0000097	305	CHEBI:15354	RM0028739		exact:fullname
+Folic acid (B9)	Folic acid (B9)	Vitamins and cofactors	RAMP_C_000220612	C00504	HMDB0000121	6037	CHEBI:27470	RM0135886		norm:fullname_noparen
+Nicotinamide (B3)	Nicotinamide (B3)	Vitamins and cofactors	RAMP_C_000001067	C00153	HMDB0001406	936	CHEBI:17154	RM0156450		norm:fullname_noparen
+Nicotinic acid (B3)	Nicotinic acid (B3)	Vitamins and cofactors	RAMP_C_000218427	C00253	HMDB0001488	938	CHEBI:15940	RM0156700		norm:fullname_noparen
+Pantothenic acid (B5)	Pantothenic acid (B5)	Vitamins and cofactors	RAMP_C_000218339	C00864	HMDB0000210	6613	CHEBI:29032	RM0136730	LMFA08020419	norm:fullname_noparen
+PMP	Pyridoxamine 5'-phosphate	Vitamins and cofactors	RAMP_C_000220901	C00647	HMDB0001555	1053	CHEBI:18335	RM0136115		exact:fullname
+Pyridoxine (B6)	Pyridoxine (B6)	Vitamins and cofactors	RAMP_C_000000160	C00314	HMDB0000239	1054	CHEBI:16709	RM0156792		norm:fullname_noparen
+Riboflavin (B2)	Riboflavin (B2)	Vitamins and cofactors	RAMP_C_000000164	C00255	HMDB0000244	493570	CHEBI:17015	RM0135919		norm:fullname_noparen
+C0	Carnitine	Acylcarnitines	RAMP_C_000274496	C00318	HMDB0000062	85	CHEBI:3424	RM0008606		exact:fullname
+C2	Acetylcarnitine	Acylcarnitines	RAMP_C_000218051	C02571	HMDB0000201	1	CHEBI:15960		LMFA07070050	exact:fullname
+C3	Propionylcarnitine	Acylcarnitines	RAMP_C_000000645	C03017	HMDB0000824	107738	CHEBI:28867	RM0154041	LMFA07070005	exact:fullname
+C3-DC (C4-OH)	Malonylcarnitine (Hydroxybutyrylcarnitine)	Acylcarnitines	RAMP_C_000001386		HMDB0002095	22833583	CHEBI:85470	RM0154022	LMFA07070080	norm:fullname_noparen
+C3-OH	Hydroxypropionylcarnitine	Acylcarnitines	RAMP_C_000008147		HMDB0013125	53481613	CHEBI:165623	RM0154086	LMFA07070074	exact:fullname
+C3:1	Propenoylcarnitine	Acylcarnitines	RAMP_C_000008146		HMDB0013124	53481611	CHEBI:86076		LMFA07070104	exact:fullname
+C4	Butyrylcarnitine	Acylcarnitines	RAMP_C_000001326	C02862	HMDB0002013	213144	CHEBI:7676	RM0153847	LMFA07070003	exact:fullname
+C4:1	Butenylcarnitine	Acylcarnitines	RAMP_C_000008148		HMDB0013126	53481615	CHEBI:88785	RM0154020	LMFA07070053	exact:fullname
+C5	Valerylcarnitine	Acylcarnitines	RAMP_C_000008150		HMDB0013128	16226475	CHEBI:85095	RM0154185	LMFA07070111	exact:fullname
+C5-DC (C6-OH)	Glutarylcarnitine (Hydroxyhexanoylcarnitine)	Acylcarnitines	RAMP_C_000156987		HMDB0240779	71464488	CHEBI:73040		LMFA07070091	norm:fullname_noparen
+C5-M-DC	Methylglutarylcarnitine	Acylcarnitines	RAMP_C_000168495		HMDB0254648	129692017				exact:fullname
+C5-OH (C3-DC-M)	Hydroxyvalerylcarnitine (Methylmalonylcarnitine)	Acylcarnitines	RAMP_C_000008154		HMDB0013132	145453469				norm:fullname_noparen
+C5:1	Tiglylcarnitine	Acylcarnitines	RAMP_C_000001570		HMDB0002366	22833596	CHEBI:71179	RM0154204	LMFA07070108	exact:fullname
+C5:1-DC	Glutaconylcarnitine	Acylcarnitines	RAMP_C_000008151		HMDB0013129	53481620	CHEBI:174593	RM0154128	LMFA07070065	exact:fullname
+C10:1	Decenoylcarnitine	Acylcarnitines	RAMP_C_000165350		HMDB0250918	129628702				exact:fullname
+C10:2	Decadienoylcarnitine	Acylcarnitines								unmatched
+C12	Dodecanoylcarnitine	Acylcarnitines	RAMP_C_000001495		HMDB0002250	168381	CHEBI:77086	RM0154012	LMFA07070062	exact:fullname
+C12-DC	Dodecanedioylcarnitine	Acylcarnitines	RAMP_C_000008238		HMDB0013327	53481673	CHEBI:165603	RM0154031		exact:fullname
+C12:1	Dodecenoylcarnitine	Acylcarnitines	RAMP_C_000165929		HMDB0251567	129664620				exact:fullname
+C14	Tetradecanoylcarnitine	Acylcarnitines	RAMP_C_000002356		HMDB0005066	53477791	CHEBI:84634	RM0154013	LMFA07070107	exact:fullname
+C14:1	Tetradecenoylcarnitine	Acylcarnitines	RAMP_C_000172103		HMDB0258884	129631631				exact:fullname
+C14:1-OH	Hydroxytetradecenoylcarnitine	Acylcarnitines	RAMP_C_000167408		HMDB0253296	129849063				exact:fullname
+C14:2	Tetradecadienoylcarnitine	Acylcarnitines	RAMP_C_000172101		HMDB0258882	129691756				exact:fullname
+C14:2-OH	Hydroxytetradecadienoylcarnitine	Acylcarnitines								unmatched
+C16	Hexadecanoylcarnitine	Acylcarnitines	RAMP_C_000000146	C02990	HMDB0000222	11953816	CHEBI:17490	RM0153848	LMFA07070004	exact:fullname
+C16-OH	Hydroxyhexadecanoylcarnitine	Acylcarnitines								unmatched
+C16:1	Hexadecenoylcarnitine	Acylcarnitines	RAMP_C_000167260		HMDB0253127	129691705				exact:fullname
+C16:1-OH	Hydroxyhexadecenoylcarnitine	Acylcarnitines	RAMP_C_000167386		HMDB0253270	129892586				exact:fullname
+C6 (C4:1-DC)	Hexanoylcarnitine (Fumarylcarnitine)	Acylcarnitines	RAMP_C_000000594		HMDB0000705	3246938	CHEBI:70749	RM0153846	LMFA07070001	norm:fullname_noparen
+C6:1	Hexenoylcarnitine	Acylcarnitines	RAMP_C_000167287		HMDB0253155	129846791				exact:fullname
+C7-DC	Pimeloylcarnitine	Acylcarnitines	RAMP_C_000158353		HMDB0242187	71464499	CHEBI:73049			exact:fullname
+C8	Octanoylcarnitine	Acylcarnitines	RAMP_C_000000619	C02838	HMDB0000791	11953814	CHEBI:18102	RM0154093	LMFA07070002	exact:fullname
+C9	Nonanoylcarnitine	Acylcarnitines	RAMP_C_000008216		HMDB0013288	53481660	CHEBI:70997	RM0153881	LMFA07070082	exact:fullname
+C10	Decanoylcarnitine	Acylcarnitines	RAMP_C_000000502	C03299	HMDB0000651	10245190	CHEBI:28717	RM0153849	LMFA07070006	exact:fullname
+C16:2	Hexadecadienoylcarnitine	Acylcarnitines								unmatched
+C16:2-OH	Hydroxyhexadecadienoylcarnitine	Acylcarnitines								unmatched
+C18	Octadecanoylcarnitine	Acylcarnitines	RAMP_C_000000660		HMDB0000848	6426855	CHEBI:73074	RM0153850	LMFA07070008	exact:fullname
+C18:1	Octadecenoylcarnitine	Acylcarnitines	RAMP_C_000073882		HMDB0094687	87076413	CHEBI:91164			exact:fullname
+C18:1-OH	Hydroxyoctadecenoylcarnitine	Acylcarnitines	RAMP_C_000167396		HMDB0253282	129691895				exact:fullname
+C18:2	Octadecadienoylcarnitine	Acylcarnitines								unmatched
+Cer d16:1/18:0	Cer d16:1/18:0	Ceramides								unmatched
+Cer d16:1/20:0	Cer d16:1/20:0	Ceramides								unmatched
+Cer d16:1/22:0	Cer d16:1/22:0	Ceramides	RAMP_C_000156900		HMDB0240682	10627306		RM0028902	LMSP02010016	exact:fullname
+Cer d16:1/23:0	Cer d16:1/23:0	Ceramides	RAMP_C_000164438		HMDB0249814	11273482		RM0053907	LMSP02010017	norm:fullname
+Cer d16:1/24:0	Cer d16:1/24:0	Ceramides								unmatched
+Cer d18:1/14:0	Cer d18:1/14:0	Ceramides	RAMP_C_000007281	C00195	HMDB0011773	5282310	CHEBI:34863	RM0135483	LMSP02010001	norm:fullname
+Cer d18:1/16:0	Cer d18:1/16:0	Ceramides	RAMP_C_000164181		HMDB0000790	5283564	CHEBI:72959	RM0135485	LMSP02010004	norm:fullname
+Cer d18:1/18:0-OH	Cer d18:1/18:0-OH	Ceramides								unmatched
+Cer d18:1/18:0	Cer d18:1/18:0	Ceramides	RAMP_C_000002275		HMDB0000829	5283565	CHEBI:72961	RM0135486	LMSP02010006	exact:fullname
+Cer d18:1/18:1	Cer d18:1/18:1	Ceramides	RAMP_C_000002273		HMDB0004948	5283563	CHEBI:77996	RM0016373	LMSP02010003	exact:fullname
+Cer d18:1/20:0-OH	Cer d18:1/20:0-OH	Ceramides								unmatched
+Cer d18:1/20:0	Cer d18:1/20:0	Ceramides	RAMP_C_000002276		HMDB0004951	5283566	CHEBI:72962	RM0135487	LMSP02010007	norm:fullname
+Cer d18:1/22:0	Cer d18:1/22:0	Ceramides	RAMP_C_000002277		HMDB0004952	5283567	CHEBI:72966	RM0135488	LMSP02010008	exact:fullname
+Cer d18:1/23:0	Cer d18:1/23:0	Ceramides	RAMP_C_000000743		HMDB0000950	52931115	CHEBI:84372	RM0138865	LMSP02010021	norm:fullname
+Cer d18:1/24:0	Cer d18:1/24:0	Ceramides	RAMP_C_000002280		HMDB0000831	5283571	CHEBI:72965	RM0135489	LMSP02010012	exact:fullname
+Cer d18:1/24:1	Cer d18:1/24:1	Ceramides								unmatched
+Cer d18:1/25:0	Cer d18:1/25:0	Ceramides	RAMP_C_000002281		HMDB0004953	5283568	CHEBI:17761	RM0134169	LMSP02	exact:fullname
+Cer d18:1/26:0	Cer d18:1/26:0	Ceramides	RAMP_C_000002279		HMDB0004955	5283570	CHEBI:72968	RM0138864	LMSP02010011	norm:fullname
+Cer d18:1/26:1	Cer d18:1/26:1	Ceramides								unmatched
+Cer d18:2/14:0	Cer d18:2/14:0	Ceramides								unmatched
+Cer d18:2/16:0	Cer d18:2/16:0	Ceramides	RAMP_C_000156904		HMDB0240686	52931118	CHEBI:149633	RM0135501	LMSP02010024	exact:fullname
+Cer d18:2/18:0	Cer d18:2/18:0	Ceramides	RAMP_C_000156631		HMDB0240362	132282053	CHEBI:136461	RM0040717	LMSP02010170	norm:fullname
+Cer d18:2/18:1	Cer d18:2/18:1	Ceramides								unmatched
+Cer d18:2/20:0	Cer d18:2/20:0	Ceramides								unmatched
+Cer d18:2/22:0	Cer d18:2/22:0	Ceramides								unmatched
+Cer d18:2/23:0	Cer d18:2/23:0	Ceramides	RAMP_C_000168829		HMDB0255029	52931124	CHEBI:134552	RM0135505	LMSP02010030	norm:fullname
+Cer d18:2/24:0	Cer d18:2/24:0	Ceramides								unmatched
+Cer d18:2/24:1	Cer d18:2/24:1	Ceramides								unmatched
+CerP d18:1/16:0	CerP d18:1/16:0	Ceramides	RAMP_C_000006651		HMDB0010700	5283581	CHEBI:73145	RM0135534	LMSP02050002	norm:fullname
+CE 14:0	CE 14:0	Cholesteryl esters	RAMP_C_000002843		HMDB0006725	99486	CHEBI:84304	RM0135708	LMST01020004	exact:fullname
+CE 14:1	CE 14:1	Cholesteryl esters	RAMP_C_000006321		HMDB0010367	24779601	CHEBI:88758	RM0010652	LMST01020021	exact:fullname
+CE 15:0	CE 15:0	Cholesteryl esters	RAMP_C_000040075		HMDB0060057	24779606	CHEBI:84318	RM0162073	LMST01020027	exact:fullname
+CE 15:1	CE 15:1	Cholesteryl esters								unmatched
+CE 16:0	CE 16:0	Cholesteryl esters	RAMP_C_000000691	C11251	HMDB0000885	246520	CHEBI:3663	RM0135709	LMST01020005	exact:fullname
+CE 16:1	CE 16:1	Cholesteryl esters	RAMP_C_000000507		HMDB0000658	13828666	CHEBI:84323	RM0133236	LMST01020006	exact:fullname
+CE 17:0	CE 17:0	Cholesteryl esters	RAMP_C_000040077		HMDB0060059	14077841	CHEBI:84326	RM0003148	LMST01020026	exact:fullname
+CE 17:1	CE 17:1	Cholesteryl esters	RAMP_C_000041789		HMDB0060060	24779603	CHEBI:84329		LMST01020023	exact:fullname
+CE 18:0	CE 18:0	Cholesteryl esters	RAMP_C_000041795		HMDB0010368	118246	CHEBI:82750	RM0135710	LMST01020007	exact:fullname
+CE 18:1	CE 18:1	Cholesteryl esters	RAMP_C_000161204	C14641	HMDB0000918	78971	CHEBI:46898	RM0133238	LMST01020003	exact:fullname
+CE 18:2	CE 18:2	Cholesteryl esters	RAMP_C_000000467	C15441	HMDB0000610	227041	CHEBI:41509	RM0012678	LMST01020008	exact:fullname
+CE 18:3	CE 18:3	Cholesteryl esters	RAMP_C_000006324		HMDB0000604	6436907	CHEBI:84341	RM0010684	LMST01020009	exact:fullname
+CE 20:0	CE 20:0	Cholesteryl esters	RAMP_C_000002855		HMDB0006740	16061336	CHEBI:88763	RM0135711	LMST01020010	exact:fullname
+CE 20:1	CE 20:1	Cholesteryl esters	RAMP_C_000002377		HMDB0005193	16061337	CHEBI:88795		LMST01020011	exact:fullname
+CE 20:3	CE 20:3	Cholesteryl esters	RAMP_C_000002852		HMDB0006736	14274976	CHEBI:84346	RM0125977	LMST01020013	exact:fullname
+CE 20:4	CE 20:4	Cholesteryl esters	RAMP_C_000002844		HMDB0006726	3632206	CHEBI:82751		LMST01020014	exact:fullname
+CE 20:5	CE 20:5	Cholesteryl esters	RAMP_C_000002849		HMDB0006731	10372299	CHEBI:84969		LMST01020015	exact:fullname
+CE 22:0	CE 22:0	Cholesteryl esters	RAMP_C_000002845		HMDB0006727	131150	CHEBI:84352	RM0135712	LMGP01010488	exact:fullname
+CE 22:1	CE 22:1	Cholesteryl esters	RAMP_C_000041791		HMDB0010372	16219158	CHEBI:88753		LMST01020025	exact:fullname
+CE 22:2	CE 22:2	Cholesteryl esters	RAMP_C_000002853		HMDB0006737	16061340	CHEBI:88774		LMST01020017	exact:fullname
+CE 22:5	CE 22:5	Cholesteryl esters	RAMP_C_000006329		HMDB0010375	42608400	CHEBI:73910	RM0133244	LMST01020031	exact:fullname
+CE 22:6	CE 22:6	Cholesteryl esters	RAMP_C_000002850		HMDB0006733	14274978	CHEBI:74102		LMST01020019	exact:fullname
+DG 14:0_14:0	DG 14:0_14:0	Diglycerides	RAMP_C_000003008	C16667	HMDB0007008	10369168	CHEBI:80651	RM0133276	LMGL02010321	norm:fullname
+DG 14:0_18:1	DG 14:0_18:1	Diglycerides	RAMP_C_000003015		HMDB0007015	14275341	CHEBI:75465	RM0133278	LMGL02010384	norm:fullname
+DG 14:0_18:2	DG 14:0_18:2	Diglycerides	RAMP_C_000003016		HMDB0007016	14275352	CHEBI:84392	RM0133279	LMGL02010385	norm:fullname
+DG 14:0_20:0	DG 14:0_20:0	Diglycerides	RAMP_C_000003020		HMDB0007020	53477955	CHEBI:88798		LMGL02010388	norm:fullname
+DG 14:1_18:1	DG 14:1_18:1	Diglycerides	RAMP_C_000003043		HMDB0007043	53477978	CHEBI:88784			norm:fullname
+DG 14:1_20:2	DG 14:1_20:2	Diglycerides	RAMP_C_000003051		HMDB0007051	53477986	CHEBI:88723		LMGL02010414	norm:fullname
+DG 16:0_16:0	DG 16:0_16:0	Diglycerides	RAMP_C_000219428	C00165	HMDB0007098	99931	CHEBI:18035	RM0133285	LMGL0201	norm:fullname
+DG 16:0_16:1	DG 16:0_16:1	Diglycerides	RAMP_C_000003099		HMDB0007099	9543678	CHEBI:84394	RM0133286	LMGL02010010	norm:fullname
+DG 16:0_18:1	DG 16:0_18:1	Diglycerides	RAMP_C_000158340	C13861	HMDB0007102	5282283	CHEBI:75466	RM0133287	LMGL02010006	norm:fullname
+DG 16:0_18:2	DG 16:0_18:2	Diglycerides	RAMP_C_000165503		HMDB0007103	9543695	CHEBI:82927	RM0133288	LMGL02010027	norm:fullname
+DG 16:0_20:0	DG 16:0_20:0	Diglycerides	RAMP_C_000003107		HMDB0007107	9543710	CHEBI:88446		LMGL02010042	norm:fullname
+DG 16:0_20:3	DG 16:0_20:3	Diglycerides	RAMP_C_000003110		HMDB0007110	53478028	CHEBI:88472			norm:fullname
+DG 16:0_20:4	DG 16:0_20:4	Diglycerides	RAMP_C_000003112		HMDB0007112	9543736	CHEBI:77096	RM0133292	LMGL02010070	norm:fullname
+DG 16:1_18:0	DG 16:1_18:0	Diglycerides	RAMP_C_000003129		HMDB0007129	9543691	CHEBI:84418	RM0133298	LMGL02010023	norm:fullname
+DG 16:1_18:1	DG 16:1_18:1	Diglycerides	RAMP_C_000003130		HMDB0007130	53478037	CHEBI:88501			norm:fullname
+DG 16:1_18:2	DG 16:1_18:2	Diglycerides	RAMP_C_000003132		HMDB0007132	9543699	CHEBI:84419	RM0133299	LMGL02010031	norm:fullname
+DG 16:1_20:0	DG 16:1_20:0	Diglycerides	RAMP_C_000003136		HMDB0007136	9543714	CHEBI:88499		LMGL02010047	norm:fullname
+DG 17:0_18:1	DG 17:0_18:1	Diglycerides								unmatched
+DG 18:0_20:4	DG 18:0_20:4	Diglycerides	RAMP_C_000003170		HMDB0007170	6438587	CHEBI:75728	RM0133305	LMGL02010111	norm:fullname
+DG 18:1_18:1	DG 18:1_18:1	Diglycerides	RAMP_C_000003188		HMDB0007188	53478063	CHEBI:88366	RM0133314		norm:fullname
+DG 18:1_18:2	DG 18:1_18:2	Diglycerides	RAMP_C_000003190		HMDB0007190	53478065	CHEBI:88372			norm:fullname
+DG 18:1_18:3	DG 18:1_18:3	Diglycerides	RAMP_C_000003191		HMDB0007191	53478066	CHEBI:88371			norm:fullname
+DG 18:1_18:4	DG 18:1_18:4	Diglycerides	RAMP_C_000003193		HMDB0007193	53478068	CHEBI:88397			norm:fullname
+DG 18:1_20:0	DG 18:1_20:0	Diglycerides	RAMP_C_000003223		HMDB0007223	9543747	CHEBI:89224		LMGL02010081	norm:fullname
+DG 18:1_20:1	DG 18:1_20:1	Diglycerides	RAMP_C_000003195		HMDB0007195	53478070	CHEBI:88394			norm:fullname
+DG 18:1_20:2	DG 18:1_20:2	Diglycerides	RAMP_C_000003196		HMDB0007196	53478071	CHEBI:88400			norm:fullname
+DG 18:1_20:3	DG 18:1_20:3	Diglycerides	RAMP_C_000003197		HMDB0007197	53478072	CHEBI:88401			norm:fullname
+DG 18:1_20:4	DG 18:1_20:4	Diglycerides	RAMP_C_000003199		HMDB0007199	53478074	CHEBI:88399			norm:fullname
+DG 18:1_22:5	DG 18:1_22:5	Diglycerides	RAMP_C_000003206		HMDB0007206	53478081	CHEBI:88546			norm:fullname
+DG 18:1_22:6	DG 18:1_22:6	Diglycerides	RAMP_C_000003208		HMDB0007208	53478083	CHEBI:88551			norm:fullname
+DG 18:2_18:2	DG 18:2_18:2	Diglycerides	RAMP_C_000003248		HMDB0007248	9543729	CHEBI:77127	RM0133333	LMGL02010063	norm:fullname
+DG 18:2_18:3	DG 18:2_18:3	Diglycerides	RAMP_C_000003249		HMDB0007249	14275409	CHEBI:89210			norm:fullname
+DG 18:2_18:4	DG 18:2_18:4	Diglycerides	RAMP_C_000003335		HMDB0007335	53478164	CHEBI:178279		LMGL02010505	norm:fullname
+DG 18:2_20:0	DG 18:2_20:0	Diglycerides	RAMP_C_000003252		HMDB0007252	9543755	CHEBI:86985	RM0133334	LMGL02010089	norm:fullname
+DG 18:2_20:4	DG 18:2_20:4	Diglycerides	RAMP_C_000003257		HMDB0007257	9543796	CHEBI:89203		LMGL02010131	norm:fullname
+DG 18:3_18:3	DG 18:3_18:3	Diglycerides	RAMP_C_000003279		HMDB0007279	53478121	CHEBI:178275		LMGL02010482	norm:fullname
+DG 18:3_20:2	DG 18:3_20:2	Diglycerides	RAMP_C_000003283		HMDB0007283	53478125	CHEBI:89157		LMGL02010486	norm:fullname
+DG 21:0_22:6	DG 21:0_22:6	Diglycerides								unmatched
+DG 22:1_22:2	DG 22:1_22:2	Diglycerides	RAMP_C_000003639		HMDB0007639	9543948	CHEBI:185406		LMGL02010283	norm:fullname
+DG O-14:0_18:2	DG O-14:0_18:2	Diglycerides								unmatched
+DG O-16:0_18:1	DG O-16:0_18:1	Diglycerides	RAMP_C_000230011	C13862		5282284	CHEBI:77185	RM0134349	LMGL02020001	norm:fullname
+DG O-18:2_18:2	DG O-18:2_18:2	Diglycerides								unmatched
+Hex2Cer d18:1/14:0	Hex2Cer d18:1/14:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/16:0	Hex2Cer d18:1/16:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/18:0	Hex2Cer d18:1/18:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/20:0	Hex2Cer d18:1/20:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/22:0	Hex2Cer d18:1/22:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/24:0	Hex2Cer d18:1/24:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/24:1	Hex2Cer d18:1/24:1	Dihexosylceramides								unmatched
+Hex2Cer d18:1/26:0	Hex2Cer d18:1/26:0	Dihexosylceramides								unmatched
+Hex2Cer d18:1/26:1	Hex2Cer d18:1/26:1	Dihexosylceramides								unmatched
+Cer d18:0/18:0-OH	Cer d18:0/18:0-OH	Dihydroceramides								unmatched
+Cer d18:0/18:0	Cer d18:0/18:0	Dihydroceramides	RAMP_C_000007269		HMDB0011761	5283573	CHEBI:67033	RM0135507	LMSP02020008	norm:fullname
+Cer d18:0/20:0	Cer d18:0/20:0	Dihydroceramides	RAMP_C_000007272		HMDB0011764	5283574	CHEBI:67027	RM0135508	LMSP02020009	norm:fullname
+Cer d18:0/22:0	Cer d18:0/22:0	Dihydroceramides	RAMP_C_000007273		HMDB0011765	5283575	CHEBI:67021	RM0135509	LMSP02020010	norm:fullname
+Cer d18:0/24:0	Cer d18:0/24:0	Dihydroceramides	RAMP_C_000007276		HMDB0011768	5283577	CHEBI:52961	RM0160764	LMSP02020012	norm:fullname
+Cer d18:0/24:1	Cer d18:0/24:1	Dihydroceramides								unmatched
+Cer d18:0/26:1-OH	Cer d18:0/26:1-OH	Dihydroceramides								unmatched
+Cer d18:0/26:1	Cer d18:0/26:1	Dihydroceramides								unmatched
+Hex-Cer d16:1/20:0	Hex-Cer d16:1/20:0	Hexosylceramides								unmatched
+Hex-Cer d16:1/22:0	Hex-Cer d16:1/22:0	Hexosylceramides								unmatched
+Hex-Cer d16:1/24:0	Hex-Cer d16:1/24:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/14:0	Hex-Cer d18:1/14:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/16:0	Hex-Cer d18:1/16:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/18:0	Hex-Cer d18:1/18:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/18:1	Hex-Cer d18:1/18:1	Hexosylceramides								unmatched
+Hex-Cer d18:1/20:0	Hex-Cer d18:1/20:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/22:0	Hex-Cer d18:1/22:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/23:0	Hex-Cer d18:1/23:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/24:0	Hex-Cer d18:1/24:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/24:1	Hex-Cer d18:1/24:1	Hexosylceramides								unmatched
+Hex-Cer d18:1/26:0	Hex-Cer d18:1/26:0	Hexosylceramides								unmatched
+Hex-Cer d18:1/26:1	Hex-Cer d18:1/26:1	Hexosylceramides								unmatched
+Hex-Cer d18:2/16:0	Hex-Cer d18:2/16:0	Hexosylceramides								unmatched
+Hex-Cer d18:2/18:0	Hex-Cer d18:2/18:0	Hexosylceramides								unmatched
+Hex-Cer d18:2/20:0	Hex-Cer d18:2/20:0	Hexosylceramides								unmatched
+Hex-Cer d18:2/22:0	Hex-Cer d18:2/22:0	Hexosylceramides								unmatched
+Hex-Cer d18:2/23:0	Hex-Cer d18:2/23:0	Hexosylceramides								unmatched
+Hex-Cer d18:2/24:0	Hex-Cer d18:2/24:0	Hexosylceramides								unmatched
+LPA 14:0	LPA 14:0	Lysophosphatidic acids	RAMP_C_000041671		HMDB0062321	9547180	CHEBI:62833	RM0133357	LMGP10050007	exact:fullname
+LPA 14:1	LPA 14:1	Lysophosphatidic acids	RAMP_C_000041661		HMDB0062311	52929768	CHEBI:175027		LMGP10050038	exact:fullname
+LPA 15:0	LPA 15:0	Lysophosphatidic acids	RAMP_C_000041674		HMDB0062324	52929767	CHEBI:185478		LMGP10050037	exact:fullname
+LPA 16:0	LPA 16:0	Lysophosphatidic acids	RAMP_C_000003853	C04036	HMDB0000327	89566	CHEBI:15799		LMGP10050006	exact:fullname
+LPA 18:1	LPA 18:1	Lysophosphatidic acids	RAMP_C_000003855		HMDB0000443	5311263	CHEBI:62837	RM0007328	LMGP10050008	exact:fullname
+LPA 18:2	LPA 18:2	Lysophosphatidic acids	RAMP_C_000219537	C00416	HMDB0007852	53478601	CHEBI:16337	RM0133354	LMGP10050044	exact:fullname
+LPA 22:3	LPA 22:3	Lysophosphatidic acids								unmatched
+LPA 22:4	LPA 22:4	Lysophosphatidic acids	RAMP_C_000041660		HMDB0062310	52929754	CHEBI:185818		LMGP10050020	exact:fullname
+LPC 14:0	LPC 14:0	Lysophosphatidylcholines	RAMP_C_000006332		HMDB0010379	460604	CHEBI:64489	RM0134470	LMGP01050012	exact:fullname
+LPC 16:0	LPC 16:0	Lysophosphatidylcholines	RAMP_C_000351017		HMDB0010382	460602	CHEBI:28468	RM0134426	LMGP01050018	exact:fullname
+LPC 16:1	LPC 16:1	Lysophosphatidylcholines	RAMP_C_000006336		HMDB0010383	24779461	CHEBI:73851	RM0161551	LMGP01050022	exact:fullname
+LPC 17:0	LPC 17:0	Lysophosphatidylcholines	RAMP_C_000007610		HMDB0012108	24779463	CHEBI:74340	RM0048622	LMGP01050024	exact:fullname
+LPC 18:0	LPC 18:0	Lysophosphatidylcholines	RAMP_C_000171774		HMDB0010384	497299	CHEBI:73858	RM0048621	LMGP01050026	exact:fullname
+LPC 18:1	LPC 18:1	Lysophosphatidylcholines	RAMP_C_000001681		HMDB0002815	16081932	CHEBI:28610	RM0133380	LMGP01050032	exact:fullname
+LPC 18:2	LPC 18:2	Lysophosphatidylcholines	RAMP_C_000006339		HMDB0010386	11005824	CHEBI:28733	RM0133381	LMGP01050035	exact:fullname
+LPC 20:3	LPC 20:3	Lysophosphatidylcholines	RAMP_C_000006346		HMDB0010393	53480467	CHEBI:74343	RM0133384	LMGP01050139	exact:fullname
+LPC 20:4	LPC 20:4	Lysophosphatidylcholines	RAMP_C_000006348		HMDB0010395	24779476	CHEBI:74344	RM0048623	LMGP01050048	exact:fullname
+LPC 24:0	LPC 24:0	Lysophosphatidylcholines	RAMP_C_000006358		HMDB0010405	24779481	CHEBI:86260	RM0048625	LMGP01050057	exact:fullname
+LPC 26:0	LPC 26:0	Lysophosphatidylcholines	RAMP_C_000010299		HMDB0029205	131750810	CHEBI:184791		LMGP01050154	exact:fullname
+LPC 26:1	LPC 26:1	Lysophosphatidylcholines								unmatched
+LPE 12:0	LPE 12:0	Lysophosphatidylethanolamines								unmatched
+LPE 14:0	LPE 14:0	Lysophosphatidylethanolamines	RAMP_C_000007039		HMDB0011500	9547070	CHEBI:84299	RM0161505	LMGP02050003	exact:fullname
+LPE 14:1	LPE 14:1	Lysophosphatidylethanolamines	RAMP_C_000007010		HMDB0011471	53480920	CHEBI:145246	RM0133398	LMGP02050034	exact:fullname
+LPE 15:0	LPE 15:0	Lysophosphatidylethanolamines	RAMP_C_000007041		HMDB0011502	52925150	CHEBI:173130	RM0161506	LMGP02050031	exact:fullname
+LPE 16:0	LPE 16:0	Lysophosphatidylethanolamines	RAMP_C_000370082		HMDB0011503	9547069	CHEBI:73004	RM0134456	LMGP02050002	exact:fullname
+LPE 16:1	LPE 16:1	Lysophosphatidylethanolamines	RAMP_C_000007013		HMDB0011474	53480923	CHEBI:145248	RM0160986	LMGP02050037	exact:fullname
+LPE 17:0	LPE 17:0	Lysophosphatidylethanolamines	RAMP_C_000041351		HMDB0061691	52925149	CHEBI:84490	RM0163376	LMGP02050030	exact:fullname
+LPE 17:1	LPE 17:1	Lysophosphatidylethanolamines								unmatched
+LPE 18:0	LPE 18:0	Lysophosphatidylethanolamines	RAMP_C_000006711		HMDB0011129	53480667	CHEBI:133144	RM0163370	LMGP02050038	exact:fullname
+LPE 18:1	LPE 18:1	Lysophosphatidylethanolamines	RAMP_C_000007014		HMDB0011475	53480924	CHEBI:145254	RM0161074	LMGP02050039	exact:fullname
+LPE 18:2	LPE 18:2	Lysophosphatidylethanolamines	RAMP_C_000007046		HMDB0011507	52925130	CHEBI:83058	RM0133422	LMGP02050011	exact:fullname
+LPE 18:3	LPE 18:3	Lysophosphatidylethanolamines	RAMP_C_000007017		HMDB0011478	53480927	CHEBI:145258	RM0133403	LMGP02050042	exact:fullname
+LPE 19:0	LPE 19:0	Lysophosphatidylethanolamines								unmatched
+LPE 19:1	LPE 19:1	Lysophosphatidylethanolamines								unmatched
+LPE 19:2	LPE 19:2	Lysophosphatidylethanolamines								unmatched
+LPE 20:0	LPE 20:0	Lysophosphatidylethanolamines	RAMP_C_000007050		HMDB0011511	52925131	CHEBI:131690	RM0134458	LMGP02050012	exact:fullname
+LPE 20:1	LPE 20:1	Lysophosphatidylethanolamines	RAMP_C_000007021		HMDB0011482	53480931	CHEBI:138517		LMGP02050046	exact:fullname
+LPE 20:2	LPE 20:2	Lysophosphatidylethanolamines	RAMP_C_000007022		HMDB0011483	53480932	CHEBI:131692	RM0133405	LMGP02050047	exact:fullname
+LPE 20:3	LPE 20:3	Lysophosphatidylethanolamines	RAMP_C_000007023		HMDB0011484	53480933	CHEBI:183045		LMGP02050048	exact:fullname
+LPE 20:4	LPE 20:4	Lysophosphatidylethanolamines	RAMP_C_000007026		HMDB0011487	53480936	CHEBI:72741	RM0133409	LMGP02050051	exact:fullname
+LPE 20:5	LPE 20:5	Lysophosphatidylethanolamines	RAMP_C_000007028		HMDB0011489	53480938	CHEBI:145263	RM0133411	LMGP02050053	exact:fullname
+LPE 22:0	LPE 22:0	Lysophosphatidylethanolamines	RAMP_C_000007029		HMDB0011490	53480939	CHEBI:138520	RM0161592	LMGP02050054	exact:fullname
+LPE 22:1	LPE 22:1	Lysophosphatidylethanolamines	RAMP_C_000007030		HMDB0011491	53480940	CHEBI:138522		LMGP02050055	exact:fullname
+LPE 22:4	LPE 22:4	Lysophosphatidylethanolamines	RAMP_C_000007032		HMDB0011493	53480942	CHEBI:145268	RM0133414	LMGP02050057	exact:fullname
+LPE 22:5	LPE 22:5	Lysophosphatidylethanolamines	RAMP_C_000007033		HMDB0011494	53480943	CHEBI:138523		LMGP02050058	exact:fullname
+LPE 22:6	LPE 22:6	Lysophosphatidylethanolamines	RAMP_C_000007065		HMDB0011526	52925132	CHEBI:72747	RM0133437	LMGP02050013	exact:fullname
+LPE 24:0	LPE 24:0	Lysophosphatidylethanolamines	RAMP_C_000007036		HMDB0011497	53480946	CHEBI:185137		LMGP02050061	exact:fullname
+LPE P-14:0	LPE P-14:0	Lysophosphatidylethanolamines								unmatched
+LPE P-15:0	LPE P-15:0	Lysophosphatidylethanolamines								unmatched
+LPE P-16:0	LPE P-16:0	Lysophosphatidylethanolamines	RAMP_C_000006730		HMDB0011152	42607469	CHEBI:138421	RM0138795	LMGP02070001	norm:fullname
+LPE P-17:0	LPE P-17:0	Lysophosphatidylethanolamines								unmatched
+LPE P-18:0	LPE P-18:0	Lysophosphatidylethanolamines	RAMP_C_000156817		HMDB0240598	42607470	CHEBI:87823	RM0055324	LMGP02070002	norm:fullname
+LPE P-18:1	LPE P-18:1	Lysophosphatidylethanolamines								unmatched
+LPE P-18:2	LPE P-18:2	Lysophosphatidylethanolamines								unmatched
+LPE P-20:0	LPE P-20:0	Lysophosphatidylethanolamines								unmatched
+LPE P-20:1	LPE P-20:1	Lysophosphatidylethanolamines								unmatched
+LPE P-20:4	LPE P-20:4	Lysophosphatidylethanolamines								unmatched
+LPE P-20:5	LPE P-20:5	Lysophosphatidylethanolamines								unmatched
+LPE P-22:0	LPE P-22:0	Lysophosphatidylethanolamines								unmatched
+LPE P-22:1	LPE P-22:1	Lysophosphatidylethanolamines								unmatched
+LPE P-22:4	LPE P-22:4	Lysophosphatidylethanolamines								unmatched
+LPE P-22:5	LPE P-22:5	Lysophosphatidylethanolamines								unmatched
+LPE P-22:6	LPE P-22:6	Lysophosphatidylethanolamines								unmatched
+LPG 14:0	LPG 14:0	Lysophosphatidylglycerols								unmatched
+LPG 14:1	LPG 14:1	Lysophosphatidylglycerols								unmatched
+LPG 16:0	LPG 16:0	Lysophosphatidylglycerols	RAMP_C_000156820		HMDB0240601	42607483	CHEBI:75158	RM0007324	LMGP04050008	exact:fullname
+LPG 16:1	LPG 16:1	Lysophosphatidylglycerols								unmatched
+LPG 17:0	LPG 17:0	Lysophosphatidylglycerols								unmatched
+LPG 17:1	LPG 17:1	Lysophosphatidylglycerols								unmatched
+LPG 18:0	LPG 18:0	Lysophosphatidylglycerols								unmatched
+LPG 18:1	LPG 18:1	Lysophosphatidylglycerols	RAMP_C_000156821		HMDB0240602	9547135	CHEBI:72952	RM0161589	LMGP04050006	exact:fullname
+LPG 18:2	LPG 18:2	Lysophosphatidylglycerols	RAMP_C_000156819		HMDB0240600	52927437	CHEBI:156127	RM0133444	LMGP04050014	exact:fullname
+LPG 20:1	LPG 20:1	Lysophosphatidylglycerols								unmatched
+LPI 14:0	LPI 14:0	Lysophosphatidylinositols								unmatched
+LPI 14:1	LPI 14:1	Lysophosphatidylinositols								unmatched
+LPI 16:0	LPI 16:0	Lysophosphatidylinositols	RAMP_C_000041354		HMDB0061695	42607493	CHEBI:73218		LMGP06050002	exact:fullname
+LPI 16:1	LPI 16:1	Lysophosphatidylinositols								unmatched
+LPI 17:0	LPI 17:0	Lysophosphatidylinositols								unmatched
+LPI 17:1	LPI 17:1	Lysophosphatidylinositols								unmatched
+LPI 18:0	LPI 18:0	Lysophosphatidylinositols	RAMP_C_000156585		HMDB0061696	42607495	CHEBI:83054		LMGP06050004	exact:fullname
+LPI 18:1	LPI 18:1	Lysophosphatidylinositols	RAMP_C_000170131		HMDB0061693	42607496	CHEBI:82753	RM0133447	LMGP06050005	exact:fullname
+LPI 18:2	LPI 18:2	Lysophosphatidylinositols	RAMP_C_000158322		HMDB0240597	11124828	CHEBI:133077	RM0007321	LMGP06050010	exact:fullname
+LPI 18:3	LPI 18:3	Lysophosphatidylinositols								unmatched
+LPI 19:0	LPI 19:0	Lysophosphatidylinositols								unmatched
+LPI 20:1	LPI 20:1	Lysophosphatidylinositols								unmatched
+LPI 20:4	LPI 20:4	Lysophosphatidylinositols	RAMP_C_000170132		HMDB0061690	42607497	CHEBI:83053	RM0133449	LMGP06050006	exact:fullname
+LPI 22:0	LPI 22:0	Lysophosphatidylinositols								unmatched
+LPI 22:1	LPI 22:1	Lysophosphatidylinositols								unmatched
+LPS 16:0	LPS 16:0	Lysophosphatidylserines	RAMP_C_000156824		HMDB0240605	9547100	CHEBI:75020	RM0134448	LMGP03050002	exact:fullname
+LPS 16:1	LPS 16:1	Lysophosphatidylserines								unmatched
+LPS 18:0	LPS 18:0	Lysophosphatidylserines	RAMP_C_000156825		HMDB0061698	42607474	CHEBI:85403	RM0091781	LMGP03050006	exact:fullname
+LPS 18:1	LPS 18:1	Lysophosphatidylserines	RAMP_C_000041353		HMDB0061694	9547099	CHEBI:52649	RM0161587	LMGP03050001	exact:fullname
+LPS 18:2	LPS 18:2	Lysophosphatidylserines	RAMP_C_000156823		HMDB0240604	52926279	CHEBI:183040		LMGP03050011	exact:fullname
+LPS 18:3	LPS 18:3	Lysophosphatidylserines								unmatched
+LPS 20:0	LPS 20:0	Lysophosphatidylserines								unmatched
+LPS 20:1	LPS 20:1	Lysophosphatidylserines								unmatched
+LPS 20:4	LPS 20:4	Lysophosphatidylserines								unmatched
+LPS 20:5	LPS 20:5	Lysophosphatidylserines								unmatched
+LPS 22:0	LPS 22:0	Lysophosphatidylserines								unmatched
+LPS 22:6	LPS 22:6	Lysophosphatidylserines								unmatched
+MG 16:1	MG 16:1	Monoglycerides	RAMP_C_000007073		HMDB0011534	53480960	CHEBI:87254	RM0134401		norm:fullname
+MG 18:1	MG 18:1	Monoglycerides	RAMP_C_000007105		HMDB0011567	5283468	CHEBI:75342	RM0040711	LMGL01010005	exact:fullname
+MG 18:2	MG 18:2	Monoglycerides	RAMP_C_000007077		HMDB0011538	5365676	CHEBI:75457		LMGL01010033	exact:fullname
+MG 18:3	MG 18:3	Monoglycerides	RAMP_C_000007078		HMDB0011539	11646044				norm:fullname
+MG 20:1	MG 20:1	Monoglycerides								unmatched
+MG 20:3	MG 20:3	Monoglycerides								unmatched
+MG 20:4	MG 20:4	Monoglycerides	RAMP_C_000002127	C13856	HMDB0004666	5282280	CHEBI:52392	RM0134394	LMGL01010023	exact:fullname
+MG 20:5	MG 20:5	Monoglycerides	RAMP_C_000007088		HMDB0011550	11660820	CHEBI:86398	RM0133459	LMGL01010026	exact:fullname
+MG 22:1	MG 22:1	Monoglycerides								unmatched
+MG 22:2	MG 22:2	Monoglycerides	RAMP_C_000007121		HMDB0011583	53480991				norm:fullname
+MG 22:4	MG 22:4	Monoglycerides								unmatched
+MG 22:6	MG 22:6	Monoglycerides	RAMP_C_000007095		HMDB0011557	46896303	CHEBI:186738		LMGL01010027	exact:fullname
+PA 14:0_14:1	PA 14:0_14:1	Phosphatidic acids	RAMP_C_000093970		HMDB0114795	52928702			LMGP10010109	norm:fullname
+PA 16:0_18:1	PA 16:0_18:1	Phosphatidic acids	RAMP_C_000003857		HMDB0007858	9547158	CHEBI:89530		LMGP10010007	norm:fullname
+PA 16:0_18:2	PA 16:0_18:2	Phosphatidic acids	RAMP_C_000094124		HMDB0114949	52929469	CHEBI:170143		LMGP10010877	norm:fullname
+PA 16:0_18:3	PA 16:0_18:3	Phosphatidic acids	RAMP_C_000094011		HMDB0114836	52929497			LMGP10010907	norm:fullname
+PA 16:0_19:2	PA 16:0_19:2	Phosphatidic acids								unmatched
+PA 16:1_18:1	PA 16:1_18:1	Phosphatidic acids	RAMP_C_000094100		HMDB0114925	52929473	CHEBI:75074	RM0133498	LMGP10010881	norm:fullname
+PA 16:1_18:2	PA 16:1_18:2	Phosphatidic acids	RAMP_C_000094031		HMDB0114856	52929492			LMGP10010902	norm:fullname
+PA 16:1_22:0	PA 16:1_22:0	Phosphatidic acids	RAMP_C_000094039		HMDB0114864	52928813	CHEBI:186255		LMGP10010220	norm:fullname
+PA 16:2_18:1	PA 16:2_18:1	Phosphatidic acids								unmatched
+PA 17:0_18:1	PA 17:0_18:1	Phosphatidic acids								unmatched
+PA 17:0_18:2	PA 17:0_18:2	Phosphatidic acids								unmatched
+PA 17:0_18:3	PA 17:0_18:3	Phosphatidic acids								unmatched
+PA 17:1_18:1	PA 17:1_18:1	Phosphatidic acids								unmatched
+PA 17:1_18:2	PA 17:1_18:2	Phosphatidic acids								unmatched
+PA 17:2_18:1	PA 17:2_18:1	Phosphatidic acids								unmatched
+PA 18:0_18:1	PA 18:0_18:1	Phosphatidic acids	RAMP_C_000094101		HMDB0114926	52929549	CHEBI:74839	RM0133500	LMGP10010963	norm:fullname
+PA 18:0_18:2	PA 18:0_18:2	Phosphatidic acids	RAMP_C_000094126		HMDB0114951	52929468	CHEBI:170207		LMGP10010876	norm:fullname
+PA 18:0_18:3	PA 18:0_18:3	Phosphatidic acids	RAMP_C_000094053		HMDB0114878	52928906	CHEBI:170189		LMGP10010313	norm:fullname
+PA 18:1_18:1	PA 18:1_18:1	Phosphatidic acids	RAMP_C_000003861		HMDB0007862	53478602	CHEBI:89528			norm:fullname
+PA 18:1_18:2	PA 18:1_18:2	Phosphatidic acids	RAMP_C_000094102		HMDB0114927	52929548	CHEBI:74849	RM0133503	LMGP10010961	norm:fullname
+PA 18:1_18:3	PA 18:1_18:3	Phosphatidic acids	RAMP_C_000094103		HMDB0114928	52928921	CHEBI:170169		LMGP10010328	norm:fullname
+PA 18:1_18:4	PA 18:1_18:4	Phosphatidic acids	RAMP_C_000094105		HMDB0114930	52928922			LMGP10010329	norm:fullname
+PA 18:1_20:0	PA 18:1_20:0	Phosphatidic acids	RAMP_C_000094106		HMDB0114931	52929547	CHEBI:75134	RM0133504	LMGP10010960	norm:fullname
+PA 18:1_20:1	PA 18:1_20:1	Phosphatidic acids	RAMP_C_000094107		HMDB0114932	52929546			LMGP10010959	norm:fullname
+PA 18:1_20:2	PA 18:1_20:2	Phosphatidic acids	RAMP_C_000094693		HMDB0115518	52928925	CHEBI:170386		LMGP10010332	norm:fullname
+PA 18:1_20:3	PA 18:1_20:3	Phosphatidic acids	RAMP_C_000094694		HMDB0115519	52928926	CHEBI:170290		LMGP10010333	norm:fullname
+PA 18:1_22:0	PA 18:1_22:0	Phosphatidic acids	RAMP_C_000094112		HMDB0114937	52929545			LMGP10010958	norm:fullname
+PA 18:1_22:1	PA 18:1_22:1	Phosphatidic acids	RAMP_C_000094088		HMDB0114913	131821921				norm:fullname
+PA 18:1_22:2	PA 18:1_22:2	Phosphatidic acids	RAMP_C_000094114		HMDB0114939	52928929			LMGP10010336	norm:fullname
+PA 18:1_22:3	PA 18:1_22:3	Phosphatidic acids								unmatched
+PA 18:2_18:2	PA 18:2_18:2	Phosphatidic acids	RAMP_C_000094129		HMDB0031092	12894949	CHEBI:77254	RM0106164	LMGP10010957	norm:fullname
+PA 18:2_18:3	PA 18:2_18:3	Phosphatidic acids	RAMP_C_000094130		HMDB0114955	52928942			LMGP10010349	norm:fullname
+PA 18:2_20:0	PA 18:2_20:0	Phosphatidic acids	RAMP_C_000094133		HMDB0114958	52928947			LMGP10010354	norm:fullname
+PA 18:2_20:1	PA 18:2_20:1	Phosphatidic acids	RAMP_C_000094134		HMDB0114959	52928948	CHEBI:170398		LMGP10010355	norm:fullname
+PA 18:2_20:2	PA 18:2_20:2	Phosphatidic acids	RAMP_C_000094668		HMDB0115493	52929162	CHEBI:170293		LMGP10010569	norm:fullname
+PA 18:2_22:0	PA 18:2_22:0	Phosphatidic acids	RAMP_C_000094139		HMDB0114964	52928953	CHEBI:187255		LMGP10010360	norm:fullname
+PA 18:2_22:1	PA 18:2_22:1	Phosphatidic acids	RAMP_C_000094140		HMDB0114965	131821939				norm:fullname
+PA 18:2_22:3	PA 18:2_22:3	Phosphatidic acids								unmatched
+PA 18:2_22:4	PA 18:2_22:4	Phosphatidic acids	RAMP_C_000094142		HMDB0114967	52928956	CHEBI:170488		LMGP10010363	norm:fullname
+PA 18:3_18:3	PA 18:3_18:3	Phosphatidic acids	RAMP_C_000094157		HMDB0114982	52928971			LMGP10010378	norm:fullname
+PA 20:0_20:4	PA 20:0_20:4	Phosphatidic acids	RAMP_C_000094253		HMDB0115078	52929453	CHEBI:77241	RM0133512	LMGP10010861	norm:fullname
+PC 24:0	PC 24:0	Phosphatidylcholines	RAMP_C_000159974		HMDB0244809	65262	CHEBI:65211	RM0135039	LMGP01010429	exact:fullname
+PC 26:0	PC 26:0	Phosphatidylcholines								unmatched
+PC 28:1	PC 28:1	Phosphatidylcholines	RAMP_C_000003866		HMDB0007867	52922210	CHEBI:89525		LMGP01011364	exact:fullname
+PC 30:0	PC 30:0	Phosphatidylcholines	RAMP_C_000003868		HMDB0007869	129657	CHEBI:75062	RM0135042	LMGP01010481	exact:fullname
+PC 32:0	PC 32:0	Phosphatidylcholines	RAMP_C_000003881	C00157	HMDB0000564	6138	CHEBI:72999	RM0098444	LMGP01010506	exact:fullname
+PC 32:1	PC 32:1	Phosphatidylcholines	RAMP_C_000003870		HMDB0007872	24778618	CHEBI:73793	RM0135043	LMGP01010490	exact:fullname
+PC 32:2	PC 32:2	Phosphatidylcholines	RAMP_C_000003872		HMDB0007874	24778624	CHEBI:86094	RM0133529	LMGP01010496	exact:fullname
+PC 32:3	PC 32:3	Phosphatidylcholines	RAMP_C_000003873		HMDB0007875	52922220	CHEBI:89521		LMGP01011369	exact:fullname
+PC 34:1	PC 34:1	Phosphatidylcholines	RAMP_C_000003877		HMDB0007879	52922226	CHEBI:89520		LMGP01011372	exact:fullname
+PC 34:2	PC 34:2	Phosphatidylcholines	RAMP_C_000003878		HMDB0007880	52922228	CHEBI:89518		LMGP01011373	exact:fullname
+PC 34:3	PC 34:3	Phosphatidylcholines	RAMP_C_000003879		HMDB0007881	53478605	CHEBI:89517		LMGP01012127	exact:fullname
+PC 34:4	PC 34:4	Phosphatidylcholines	RAMP_C_000003881	C00157	HMDB0000564	6138	CHEBI:72999	RM0098444	LMGP01010506	exact:fullname
+PC 36:0	PC 36:0	Phosphatidylcholines	RAMP_C_000159318		HMDB0008036	65146	CHEBI:83718	RM0135036	LMGP01010006	exact:fullname
+PC 36:1	PC 36:1	Phosphatidylcholines	RAMP_C_000003885		HMDB0007887	53478609	CHEBI:89516		LMGP01012129	exact:fullname
+PC 36:2	PC 36:2	Phosphatidylcholines	RAMP_C_000000454		HMDB0000593	10350317	CHEBI:74669	RM0162116	LMGP01010890	exact:fullname
+PC 36:3	PC 36:3	Phosphatidylcholines	RAMP_C_000003919		HMDB0007921	52922294	CHEBI:88935		LMGP01011406	exact:fullname
+PC 36:4	PC 36:4	Phosphatidylcholines	RAMP_C_000003887		HMDB0007889	52922238	CHEBI:89514		LMGP01011378	exact:fullname
+PC 36:5	PC 36:5	Phosphatidylcholines	RAMP_C_000004200		HMDB0008204	52922845	CHEBI:89439		LMGP01011683	exact:fullname
+PC 36:6	PC 36:6	Phosphatidylcholines	RAMP_C_000003890		HMDB0007892	24778639	CHEBI:86162	RM0133533	LMGP01010512	exact:fullname
+PC 38:0	PC 38:0	Phosphatidylcholines	RAMP_C_000003891		HMDB0007893	24778642	CHEBI:86169	RM0133534	LMGP01010515	exact:fullname
+PC 38:3	PC 38:3	Phosphatidylcholines	RAMP_C_000004017		HMDB0008020	52922473	CHEBI:74479	RM0133588	LMGP01011496	exact:fullname
+PC 38:4	PC 38:4	Phosphatidylcholines	RAMP_C_000004045		HMDB0008048	5313387	CHEBI:74965	RM0133607	LMGP01010802	exact:fullname
+PC 38:5	PC 38:5	Phosphatidylcholines	RAMP_C_000003986		HMDB0007989	24778735	CHEBI:84795	RM0133564	LMGP01010645	exact:fullname
+PC 38:6	PC 38:6	Phosphatidylcholines	RAMP_C_000003988		HMDB0007991	6441886	CHEBI:74963	RM0133567	LMGP01012137	exact:fullname
+PC 40:1	PC 40:1	Phosphatidylcholines	RAMP_C_000003990		HMDB0007993	24778745	CHEBI:86197	RM0133569	LMGP01010659	exact:fullname
+PC 40:2	PC 40:2	Phosphatidylcholines	RAMP_C_000004023		HMDB0008026	53478691			LMGP01012142	exact:fullname
+PC 40:3	PC 40:3	Phosphatidylcholines	RAMP_C_000004083		HMDB0008086	53478747	CHEBI:89699		LMGP01012159	exact:fullname
+PC 40:4	PC 40:4	Phosphatidylcholines	RAMP_C_000004051		HMDB0008054	24778868	CHEBI:84565	RM0133611	LMGP01010813	exact:fullname
+PC 40:5	PC 40:5	Phosphatidylcholines	RAMP_C_000004052		HMDB0008055	24778871	CHEBI:73865	RM0133612	LMGP01010816	exact:fullname
+PC 40:6	PC 40:6	Phosphatidylcholines	RAMP_C_000004054		HMDB0008057	24778876	CHEBI:84829	RM0133615	LMGP01010821	exact:fullname
+PC 42:0	PC 42:0	Phosphatidylcholines	RAMP_C_000004055		HMDB0008058	24778880	CHEBI:86212	RM0133616	LMGP01010825	exact:fullname
+PC 42:1	PC 42:1	Phosphatidylcholines	RAMP_C_000004056		HMDB0008059	24778881	CHEBI:86219	RM0133617	LMGP01010826	exact:fullname
+PC 42:2	PC 42:2	Phosphatidylcholines	RAMP_C_000004089		HMDB0008092	53478755	CHEBI:89703		LMGP01012162	exact:fullname
+PC 42:4	PC 42:4	Phosphatidylcholines	RAMP_C_000004187		HMDB0008191	53478821	CHEBI:86422	RM0133657	LMGP01012177	exact:fullname
+PC 42:5	PC 42:5	Phosphatidylcholines	RAMP_C_000004283		HMDB0008287	24779052	CHEBI:86220	RM0133678	LMGP01011027	exact:fullname
+PC 42:6	PC 42:6	Phosphatidylcholines	RAMP_C_000004284		HMDB0008288	24779053	CHEBI:86221	RM0133679	LMGP01011028	exact:fullname
+PC O-28:0	PC O-28:0	Phosphatidylcholines								unmatched
+PC O-28:1	PC O-28:1	Phosphatidylcholines								unmatched
+PC O-30:0	PC O-30:0	Phosphatidylcholines	RAMP_C_000008249		HMDB0013341	24779275	CHEBI:86223	RM0095710	LMGP01020012	exact:fullname
+PC O-30:1	PC O-30:1	Phosphatidylcholines	RAMP_C_000006766		HMDB0011203	52923874	CHEBI:133669	RM0134898	LMGP01030021	exact:fullname
+PC O-30:2	PC O-30:2	Phosphatidylcholines	RAMP_C_000006767		HMDB0011204	52923876		RM0161754	LMGP01030022	exact:fullname
+PC O-32:1	PC O-32:1	Phosphatidylcholines	RAMP_C_000006769		HMDB0011206	11146967	CHEBI:133672	RM0017336	LMGP01030025	exact:fullname
+PC O-32:2	PC O-32:2	Phosphatidylcholines	RAMP_C_000006770		HMDB0011207	52923882	CHEBI:84562	RM0133752	LMGP01030026	exact:fullname
+PC O-34:0	PC O-34:0	Phosphatidylcholines	RAMP_C_000008253		HMDB0013405	11803170	CHEBI:86229	RM0135058	LMGP01020033	exact:fullname
+PC O-34:1	PC O-34:1	Phosphatidylcholines	RAMP_C_000008260		HMDB0013412	53481707	CHEBI:89892		LMGP01020256	exact:fullname
+PC O-34:2	PC O-34:2	Phosphatidylcholines	RAMP_C_000006729		HMDB0011151	6443157	CHEBI:86231	RM0133721	LMGP01020039	exact:fullname
+PC O-34:3	PC O-34:3	Phosphatidylcholines	RAMP_C_000006774		HMDB0011211	24779386	CHEBI:84557	RM0092662	LMGP01030008	exact:fullname
+PC O-36:0	PC O-36:0	Phosphatidylcholines	RAMP_C_000008254		HMDB0013406	24779297	CHEBI:86240	RM0135059	LMGP01020051	exact:fullname
+PC O-36:1	PC O-36:1	Phosphatidylcholines	RAMP_C_000006778		HMDB0011215	52923902	CHEBI:185529	RM0052448	LMGP01030036	exact:fullname
+PC O-36:2	PC O-36:2	Phosphatidylcholines	RAMP_C_000006779		HMDB0011216	52923904	CHEBI:89975		LMGP01030037	exact:fullname
+PC O-36:3	PC O-36:3	Phosphatidylcholines	RAMP_C_000006780		HMDB0011217	52923906	CHEBI:89974		LMGP01030038	exact:fullname
+PC O-36:4	PC O-36:4	Phosphatidylcholines	RAMP_C_000006807		HMDB0011245	52923946	CHEBI:89968		LMGP01030059	exact:fullname
+PC O-36:5	PC O-36:5	Phosphatidylcholines	RAMP_C_000006809		HMDB0011247	52923950	CHEBI:89967		LMGP01030061	exact:fullname
+PC O-38:0	PC O-38:0	Phosphatidylcholines	RAMP_C_000008256		HMDB0013408	24779301	CHEBI:86243	RM0135060	LMGP01020060	exact:fullname
+PC O-38:1	PC O-38:1	Phosphatidylcholines	RAMP_C_000006786		HMDB0011223	52923914	CHEBI:169587	RM0134952	LMGP01030042	exact:fullname
+PC O-38:2	PC O-38:2	Phosphatidylcholines	RAMP_C_000006811		HMDB0011249	52923958			LMGP01030065	exact:fullname
+PC O-38:3	PC O-38:3	Phosphatidylcholines	RAMP_C_000008287		HMDB0013439	52923834	CHEBI:89865		LMGP01020229	exact:fullname
+PC O-38:4	PC O-38:4	Phosphatidylcholines	RAMP_C_000006813		HMDB0011251	53480713	CHEBI:89956		LMGP01030131	exact:fullname
+PC O-38:5	PC O-38:5	Phosphatidylcholines	RAMP_C_000006815		HMDB0011253	24779390	CHEBI:84828	RM0017384	LMGP01030012	exact:fullname
+PC O-38:6	PC O-38:6	Phosphatidylcholines	RAMP_C_000006817		HMDB0011255	52923964	CHEBI:89954		LMGP01030068	exact:fullname
+PC O-40:1	PC O-40:1	Phosphatidylcholines	RAMP_C_000008281		HMDB0013433	53481731			LMGP01020268	exact:fullname
+PC O-40:2	PC O-40:2	Phosphatidylcholines	RAMP_C_000008285		HMDB0013437	53481739	CHEBI:89868		LMGP01020272	exact:fullname
+PC O-40:3	PC O-40:3	Phosphatidylcholines	RAMP_C_000006820		HMDB0011258	52923972			LMGP01030072	exact:fullname
+PC O-40:4	PC O-40:4	Phosphatidylcholines	RAMP_C_000006884		HMDB0011324	53480831	CHEBI:89470		LMGP01030148	exact:fullname
+PC O-40:5	PC O-40:5	Phosphatidylcholines	RAMP_C_000006821		HMDB0011259	52923974			LMGP01030073	exact:fullname
+PC O-40:6	PC O-40:6	Phosphatidylcholines	RAMP_C_000008270		HMDB0013422	24779341	CHEBI:86252	RM0133740	LMGP01020110	exact:fullname
+PC O-42:0	PC O-42:0	Phosphatidylcholines	RAMP_C_000008291		HMDB0013443	24779354	CHEBI:86253	RM0135065	LMGP01020125	exact:fullname
+PC O-42:1	PC O-42:1	Phosphatidylcholines	RAMP_C_000008282		HMDB0013434	53481733			LMGP01020269	exact:fullname
+PC O-42:2	PC O-42:2	Phosphatidylcholines	RAMP_C_000006826		HMDB0011264	53480727	CHEBI:89964		LMGP01030132	exact:fullname
+PC O-42:3	PC O-42:3	Phosphatidylcholines	RAMP_C_000006857		HMDB0011297	53480785	CHEBI:89909		LMGP01030142	exact:fullname
+PC O-42:4	PC O-42:4	Phosphatidylcholines								unmatched
+PC O-42:5	PC O-42:5	Phosphatidylcholines								unmatched
+PC O-44:3	PC O-44:3	Phosphatidylcholines	RAMP_C_000008297		HMDB0013449	53481753	CHEBI:86454	RM0133748	LMGP01020251	exact:fullname
+PC O-44:4	PC O-44:4	Phosphatidylcholines	RAMP_C_000008301		HMDB0013453	53481761	CHEBI:89998		LMGP01020276	exact:fullname
+PC O-44:5	PC O-44:5	Phosphatidylcholines	RAMP_C_000008304		HMDB0013456	53481767	CHEBI:89995		LMGP01020278	exact:fullname
+PC O-44:6	PC O-44:6	Phosphatidylcholines	RAMP_C_000008298		HMDB0013450	53481755				norm:fullname
+PE 20:0	PE 20:0	Phosphatidylethanolamines								unmatched
+PE 28:0	PE 28:0	Phosphatidylethanolamines	RAMP_C_000004817		HMDB0005313	9852308	CHEBI:167592	RM0007295	LMGP02010352	exact:fullname
+PE 28:1	PE 28:1	Phosphatidylethanolamines	RAMP_C_000004818		HMDB0008822	52924113	CHEBI:184463		LMGP02010407	exact:fullname
+PE 30:0	PE 30:0	Phosphatidylethanolamines	RAMP_C_000004820		HMDB0005314	9547000	CHEBI:176774	RM0161760	LMGP02010302	exact:fullname
+PE 30:1	PE 30:1	Phosphatidylethanolamines	RAMP_C_000004821		HMDB0008825	52924945			LMGP02011249	exact:fullname
+PE 31:0	PE 31:0	Phosphatidylethanolamines	RAMP_C_000004886		HMDB0008890	52924933			LMGP02011236	exact:fullname
+PE 32:0	PE 32:0	Phosphatidylethanolamines	RAMP_C_000161983		HMDB0005317	65109	CHEBI:73005	RM0095704	LMGP02010037	exact:fullname
+PE 32:1	PE 32:1	Phosphatidylethanolamines	RAMP_C_000004952		HMDB0008956	52924223	CHEBI:178349		LMGP02010520	exact:fullname
+PE 32:2	PE 32:2	Phosphatidylethanolamines	RAMP_C_000004825		HMDB0008829	52924943			LMGP02011246	exact:fullname
+PE 33:0	PE 33:0	Phosphatidylethanolamines	RAMP_C_000004984		HMDB0008988	52924324	CHEBI:171041	RM0161795	LMGP02010623	exact:fullname
+PE 33:1	PE 33:1	Phosphatidylethanolamines	RAMP_C_000004890		HMDB0008894	52924162			LMGP02010458	exact:fullname
+PE 33:2	PE 33:2	Phosphatidylethanolamines	RAMP_C_000004891		HMDB0008895	52924929			LMGP02011232	exact:fullname
+PE 34:0	PE 34:0	Phosphatidylethanolamines	RAMP_C_000004829		HMDB0005315	52924940			LMGP02011243	exact:fullname
+PE 34:1	PE 34:1	Phosphatidylethanolamines	RAMP_C_000004922		HMDB0008926	9546726	CHEBI:84833	RM0133777	LMGP02010010	exact:fullname
+PE 34:2	PE 34:2	Phosphatidylethanolamines	RAMP_C_000005052		HMDB0009056	52924899	CHEBI:78810	RM0133806	LMGP02011198	exact:fullname
+PE 34:3	PE 34:3	Phosphatidylethanolamines	RAMP_C_000004833		HMDB0008837	52924122			LMGP02010417	exact:fullname
+PE 34:4	PE 34:4	Phosphatidylethanolamines	RAMP_C_000004834		HMDB0008838	52924939	CHEBI:187078		LMGP02011242	exact:fullname
+PE 35:1	PE 35:1	Phosphatidylethanolamines	RAMP_C_000004896		HMDB0008900	52924167	CHEBI:138531		LMGP02010464	exact:fullname
+PE 35:2	PE 35:2	Phosphatidylethanolamines	RAMP_C_000004897		HMDB0008901	52924168	CHEBI:149576	RM0133772	LMGP02010465	exact:fullname
+PE 35:3	PE 35:3	Phosphatidylethanolamines	RAMP_C_000004899		HMDB0008903	52924169	CHEBI:171654		LMGP02010466	exact:fullname
+PE 36:0	PE 36:0	Phosphatidylethanolamines	RAMP_C_000040449		HMDB0005327	102547	CHEBI:39934	RM0099146	LMGP02010097	exact:fullname
+PE 36:1	PE 36:1	Phosphatidylethanolamines	RAMP_C_000004870		HMDB0008874	52924152	CHEBI:170441		LMGP02010447	exact:fullname
+PE 36:2	PE 36:2	Phosphatidylethanolamines	RAMP_C_000005055		HMDB0005347	108229	CHEBI:74986	RM0161911	LMGP02010052	exact:fullname
+PE 36:3	PE 36:3	Phosphatidylethanolamines	RAMP_C_000004872		HMDB0008876	52924154			LMGP02010449	exact:fullname
+PE 36:4	PE 36:4	Phosphatidylethanolamines	RAMP_C_000004933		HMDB0005323	9546800	CHEBI:73009	RM0133783	LMGP02010096	exact:fullname
+PE 36:5	PE 36:5	Phosphatidylethanolamines	RAMP_C_000004873		HMDB0008877	52924155			LMGP02010450	exact:fullname
+PE 36:6	PE 36:6	Phosphatidylethanolamines	RAMP_C_000004843		HMDB0008847	52924936			LMGP02011239	exact:fullname
+PE 38:0	PE 38:0	Phosphatidylethanolamines	RAMP_C_000004936		HMDB0008940	9546832			LMGP02010132	exact:fullname
+PE 38:1	PE 38:1	Phosphatidylethanolamines	RAMP_C_000004937		HMDB0008941	9546836	CHEBI:73875	RM0133784	LMGP02010136	exact:fullname
+PE 38:2	PE 38:2	Phosphatidylethanolamines	RAMP_C_000004938		HMDB0008942	52924216	CHEBI:170686		LMGP02010513	exact:fullname
+PE 38:3	PE 38:3	Phosphatidylethanolamines	RAMP_C_000005350		HMDB0009354	52924614	CHEBI:171350		LMGP02010913	exact:fullname
+PE 38:4	PE 38:4	Phosphatidylethanolamines	RAMP_C_000004999		HMDB0005333	5289133	CHEBI:78268	RM0133796	LMGP02010118	exact:fullname
+PE 38:5	PE 38:5	Phosphatidylethanolamines	RAMP_C_000004972		HMDB0008976	52924241	CHEBI:170583		LMGP02010538	exact:fullname
+PE 38:6	PE 38:6	Phosphatidylethanolamines	RAMP_C_000004942		HMDB0005324	9546799	CHEBI:78261	RM0133786	LMGP02010095	exact:fullname
+PE 38:7	PE 38:7	Phosphatidylethanolamines	RAMP_C_000004975		HMDB0008979	52924914	CHEBI:170069	RM0007024	LMGP02011216	exact:fullname
+PE 40:1	PE 40:1	Phosphatidylethanolamines	RAMP_C_000005003		HMDB0009007	9546850	CHEBI:137217	RM0162161	LMGP02010151	exact:fullname
+PE 40:3	PE 40:3	Phosphatidylethanolamines	RAMP_C_000005070		HMDB0009074	52924352			LMGP02010651	exact:fullname
+PE 40:4	PE 40:4	Phosphatidylethanolamines	RAMP_C_000005005		HMDB0009009	52924901	CHEBI:74484	RM0133797	LMGP02011200	exact:fullname
+PE 40:5	PE 40:5	Phosphatidylethanolamines	RAMP_C_000005071		HMDB0009075	52924353	CHEBI:170804		LMGP02010652	exact:fullname
+PE 40:6	PE 40:6	Phosphatidylethanolamines	RAMP_C_000005008		HMDB0005334	9546798	CHEBI:78266	RM0133799	LMGP02010094	exact:fullname
+PE 40:7	PE 40:7	Phosphatidylethanolamines	RAMP_C_000005074		HMDB0009078	52922113			LMGP02011264	exact:fullname
+PE 40:8	PE 40:8	Phosphatidylethanolamines	RAMP_C_000005107		HMDB0009111	52924892	CHEBI:137303		LMGP02011191	exact:fullname
+PE 42:7	PE 42:7	Phosphatidylethanolamines	RAMP_C_000005272		HMDB0009276	52924571	CHEBI:137312		LMGP02010870	exact:fullname
+PE 42:8	PE 42:8	Phosphatidylethanolamines	RAMP_C_000005305		HMDB0009309	52924602	CHEBI:176739		LMGP02010901	exact:fullname
+PE 44:11	PE 44:11	Phosphatidylethanolamines	RAMP_C_000005635		HMDB0009639	53479935				norm:fullname
+PE 44:12	PE 44:12	Phosphatidylethanolamines	RAMP_C_000005701		HMDB0005354	9546797	CHEBI:84538	RM0133833	LMGP02010093	exact:fullname
+PE 44:6	PE 44:6	Phosphatidylethanolamines	RAMP_C_000005503		HMDB0009507	52924740			LMGP02011039	exact:fullname
+PE 44:7	PE 44:7	Phosphatidylethanolamines								unmatched
+PE P-16:0/14:0	PE P-16:0/14:0	Phosphatidylethanolamines	RAMP_C_000006895		HMDB0011335	52925042			LMGP02030009	norm:fullname
+PE P-16:0/15:0	PE P-16:0/15:0	Phosphatidylethanolamines	RAMP_C_000006897		HMDB0011337	52925044			LMGP02030011	norm:fullname
+PE P-16:0/16:0	PE P-16:0/16:0	Phosphatidylethanolamines	RAMP_C_000006736	C04756	HMDB0011158	52925046	CHEBI:72743	RM0135672	LMGP02030013	norm:fullname
+PE P-16:0/16:1	PE P-16:0/16:1	Phosphatidylethanolamines	RAMP_C_000006898		HMDB0011339	52925047			LMGP02030014	norm:fullname
+PE P-16:0/18:1	PE P-16:0/18:1	Phosphatidylethanolamines	RAMP_C_000006901		HMDB0011342	52925128	CHEBI:84533	RM0133845	LMGP02030095	norm:fullname
+PE P-16:0/18:2	PE P-16:0/18:2	Phosphatidylethanolamines	RAMP_C_000006902		HMDB0011343	52925127	CHEBI:84532	RM0133846	LMGP02030094	norm:fullname
+PE P-16:0/18:3	PE P-16:0/18:3	Phosphatidylethanolamines	RAMP_C_000006903		HMDB0011344	52925052			LMGP02030019	norm:fullname
+PE P-16:0/20:3	PE P-16:0/20:3	Phosphatidylethanolamines	RAMP_C_000006910		HMDB0011351	52925060	CHEBI:90474	RM0133848	LMGP02030027	norm:fullname
+PE P-16:0/20:4	PE P-16:0/20:4	Phosphatidylethanolamines	RAMP_C_000006911		HMDB0011352	52925126	CHEBI:84527	RM0133849	LMGP02030093	norm:fullname
+PE P-16:0/20:5	PE P-16:0/20:5	Phosphatidylethanolamines	RAMP_C_000006913		HMDB0011354	52925061			LMGP02030028	norm:fullname
+PE P-16:0/22:4	PE P-16:0/22:4	Phosphatidylethanolamines	RAMP_C_000006917		HMDB0011358	52925066	CHEBI:170598		LMGP02030033	norm:fullname
+PE P-16:0/22:5	PE P-16:0/22:5	Phosphatidylethanolamines								unmatched
+PE P-16:0/22:6	PE P-16:0/22:6	Phosphatidylethanolamines	RAMP_C_000002515		HMDB0005780	5283497	CHEBI:90479	RM0133850	LMGP02030001	norm:fullname
+PE P-18:0/14:0	PE P-18:0/14:0	Phosphatidylethanolamines	RAMP_C_000006922		HMDB0011368	52925069	CHEBI:185280	RM0055323	LMGP02030036	norm:fullname
+PE P-18:0/16:0	PE P-18:0/16:0	Phosphatidylethanolamines	RAMP_C_000006925		HMDB0011371	52925073	CHEBI:90482	RM0134731	LMGP02030040	exact:fullname
+PE P-18:0/16:1	PE P-18:0/16:1	Phosphatidylethanolamines	RAMP_C_000006926		HMDB0011372	52925074			LMGP02030041	norm:fullname
+PE P-18:0/17:1	PE P-18:0/17:1	Phosphatidylethanolamines								unmatched
+PE P-18:0/18:0	PE P-18:0/18:0	Phosphatidylethanolamines	RAMP_C_000006927		HMDB0011373	52925078			LMGP02030045	norm:fullname
+PE P-18:0/18:1	PE P-18:0/18:1	Phosphatidylethanolamines	RAMP_C_000006929		HMDB0011375	42607457	CHEBI:78340	RM0133851	LMGP02030004	norm:fullname
+PE P-18:0/18:2	PE P-18:0/18:2	Phosphatidylethanolamines	RAMP_C_000006930		HMDB0011376	52925079	CHEBI:90483	RM0133852	LMGP02030046	exact:fullname
+PE P-18:0/18:3	PE P-18:0/18:3	Phosphatidylethanolamines	RAMP_C_000006931		HMDB0011377	52925080			LMGP02030047	norm:fullname
+PE P-18:0/19:1	PE P-18:0/19:1	Phosphatidylethanolamines								unmatched
+PE P-18:0/20:1	PE P-18:0/20:1	Phosphatidylethanolamines	RAMP_C_000006935		HMDB0011381	52925086			LMGP02030053	norm:fullname
+PE P-18:0/20:2	PE P-18:0/20:2	Phosphatidylethanolamines	RAMP_C_000006936		HMDB0011382	52925087			LMGP02030054	norm:fullname
+PE P-18:0/20:3	PE P-18:0/20:3	Phosphatidylethanolamines	RAMP_C_000006938		HMDB0011384	52925088	CHEBI:90484	RM0133853	LMGP02030055	exact:fullname
+PE P-18:0/20:4	PE P-18:0/20:4	Phosphatidylethanolamines	RAMP_C_000002514		HMDB0005779	9547058	CHEBI:78342	RM0133854	LMGP02030003	norm:fullname
+PE P-18:0/20:5	PE P-18:0/20:5	Phosphatidylethanolamines	RAMP_C_000006940		HMDB0011387	52925089	CHEBI:170521		LMGP02030056	norm:fullname
+PE P-18:0/22:1	PE P-18:0/22:1	Phosphatidylethanolamines								unmatched
+PE P-18:0/22:2	PE P-18:0/22:2	Phosphatidylethanolamines	RAMP_C_000006943		HMDB0011390	52925093			LMGP02030060	norm:fullname
+PE P-18:0/22:3	PE P-18:0/22:3	Phosphatidylethanolamines								unmatched
+PE P-18:0/22:4	PE P-18:0/22:4	Phosphatidylethanolamines	RAMP_C_000006944		HMDB0011391	52925094			LMGP02030061	norm:fullname
+PE P-18:0/22:5	PE P-18:0/22:5	Phosphatidylethanolamines	RAMP_C_000006945		HMDB0011392	53480857	CHEBI:90485	RM0133855		exact:fullname
+PE P-18:0/22:6	PE P-18:0/22:6	Phosphatidylethanolamines	RAMP_C_000006947		HMDB0011394	42607458	CHEBI:78263	RM0133856	LMGP02030005	norm:fullname
+PE P-18:1/18:1	PE P-18:1/18:1	Phosphatidylethanolamines								unmatched
+PE P-18:1/18:2	PE P-18:1/18:2	Phosphatidylethanolamines	RAMP_C_000006958		HMDB0011409	53480869	CHEBI:90486	RM0133859		exact:fullname
+PE P-18:1/20:4	PE P-18:1/20:4	Phosphatidylethanolamines	RAMP_C_000006996		HMDB0011451	53480908	CHEBI:170528		LMGP02030104	norm:fullname
+PE P-18:1/20:5	PE P-18:1/20:5	Phosphatidylethanolamines								unmatched
+PE P-18:1/22:6	PE P-18:1/22:6	Phosphatidylethanolamines	RAMP_C_000007005		HMDB0011460	52925039	CHEBI:90487	RM0133862	LMGP02030006	exact:fullname
+PE P-20:0/14:0	PE P-20:0/14:0	Phosphatidylethanolamines								unmatched
+PE P-20:0/16:0	PE P-20:0/16:0	Phosphatidylethanolamines								unmatched
+PE P-20:0/16:1	PE P-20:0/16:1	Phosphatidylethanolamines								unmatched
+PE P-20:0/17:1	PE P-20:0/17:1	Phosphatidylethanolamines								unmatched
+PE P-20:0/18:1	PE P-20:0/18:1	Phosphatidylethanolamines								unmatched
+PE P-20:0/18:2	PE P-20:0/18:2	Phosphatidylethanolamines								unmatched
+PE P-20:0/20:0	PE P-20:0/20:0	Phosphatidylethanolamines								unmatched
+PE P-20:0/20:4	PE P-20:0/20:4	Phosphatidylethanolamines								unmatched
+PE P-20:0/20:5	PE P-20:0/20:5	Phosphatidylethanolamines								unmatched
+PG 14:0_16:0	PG 14:0_16:0	Phosphatidylglycerols								unmatched
+PG 15:0_18:1	PG 15:0_18:1	Phosphatidylglycerols								unmatched
+PG 16:0_16:0	PG 16:0_16:0	Phosphatidylglycerols	RAMP_C_000006521		HMDB0010570	65144	CHEBI:60724	RM0134548	LMGP04010986	norm:fullname
+PG 16:0_16:1	PG 16:0_16:1	Phosphatidylglycerols	RAMP_C_000006522		HMDB0010571	52927174			LMGP04010910	norm:fullname
+PG 16:0_18:1	PG 16:0_18:1	Phosphatidylglycerols	RAMP_C_000159223		HMDB0010574	123897	CHEBI:34080	RM0133874	LMGP04010002	norm:fullname
+PG 16:0_18:2	PG 16:0_18:2	Phosphatidylglycerols	RAMP_C_000006526		HMDB0010575	52927246	CHEBI:73238	RM0133875	LMGP04010983	norm:fullname
+PG 16:0_18:3	PG 16:0_18:3	Phosphatidylglycerols	RAMP_C_000006527		HMDB0010576	52927171			LMGP04010906	norm:fullname
+PG 16:0_19:1	PG 16:0_19:1	Phosphatidylglycerols								unmatched
+PG 16:0_20:3	PG 16:0_20:3	Phosphatidylglycerols	RAMP_C_000006529		HMDB0010578	53480603	CHEBI:89227			norm:fullname
+PG 16:0_20:4	PG 16:0_20:4	Phosphatidylglycerols	RAMP_C_000095781		HMDB0116606	52927124			LMGP04010859	norm:fullname
+PG 16:0_20:5	PG 16:0_20:5	Phosphatidylglycerols								unmatched
+PG 16:0_22:1	PG 16:0_22:1	Phosphatidylglycerols								unmatched
+PG 16:0_22:2	PG 16:0_22:2	Phosphatidylglycerols								unmatched
+PG 16:1_16:1	PG 16:1_16:1	Phosphatidylglycerols	RAMP_C_000006537		HMDB0010586	52927230	CHEBI:137325		LMGP04010967	norm:fullname
+PG 16:1_18:0	PG 16:1_18:0	Phosphatidylglycerols	RAMP_C_000006538		HMDB0010587	52926476	CHEBI:85186	RM0133879	LMGP04010211	norm:fullname
+PG 16:1_18:1	PG 16:1_18:1	Phosphatidylglycerols	RAMP_C_000006539		HMDB0010588	53480606	CHEBI:89092			norm:fullname
+PG 16:1_18:2	PG 16:1_18:2	Phosphatidylglycerols	RAMP_C_000006541		HMDB0010590	52927166			LMGP04010901	norm:fullname
+PG 16:1_20:4	PG 16:1_20:4	Phosphatidylglycerols	RAMP_C_000095783		HMDB0116608	52926891			LMGP04010626	norm:fullname
+PG 16:1_22:1	PG 16:1_22:1	Phosphatidylglycerols								unmatched
+PG 16:2_18:1	PG 16:2_18:1	Phosphatidylglycerols								unmatched
+PG 16:2_18:2	PG 16:2_18:2	Phosphatidylglycerols								unmatched
+PG 16:3_18:1	PG 16:3_18:1	Phosphatidylglycerols								unmatched
+PG 17:0_18:1	PG 17:0_18:1	Phosphatidylglycerols								unmatched
+PG 17:0_18:2	PG 17:0_18:2	Phosphatidylglycerols								unmatched
+PG 17:1_18:1	PG 17:1_18:1	Phosphatidylglycerols								unmatched
+PG 18:0_18:1	PG 18:0_18:1	Phosphatidylglycerols	RAMP_C_000006554		HMDB0010603	53480610	CHEBI:89269			norm:fullname
+PG 18:0_18:2	PG 18:0_18:2	Phosphatidylglycerols	RAMP_C_000006556		HMDB0010605	52927245	CHEBI:89266		LMGP04010982	norm:fullname
+PG 18:0_18:3	PG 18:0_18:3	Phosphatidylglycerols	RAMP_C_000006557		HMDB0010606	52926580	CHEBI:89265		LMGP04010315	norm:fullname
+PG 18:0_22:1	PG 18:0_22:1	Phosphatidylglycerols								unmatched
+PG 18:1_18:1	PG 18:1_18:1	Phosphatidylglycerols	RAMP_C_000006569		HMDB0010618	53480617	CHEBI:89273			norm:fullname
+PG 18:1_18:2	PG 18:1_18:2	Phosphatidylglycerols	RAMP_C_000006571		HMDB0010620	53480619	CHEBI:89386			norm:fullname
+PG 18:1_18:3	PG 18:1_18:3	Phosphatidylglycerols	RAMP_C_000006572		HMDB0010621	53480620	CHEBI:89385			norm:fullname
+PG 18:1_20:0	PG 18:1_20:0	Phosphatidylglycerols								unmatched
+PG 18:1_20:1	PG 18:1_20:1	Phosphatidylglycerols								unmatched
+PG 18:1_20:2	PG 18:1_20:2	Phosphatidylglycerols								unmatched
+PG 18:1_20:3	PG 18:1_20:3	Phosphatidylglycerols	RAMP_C_000006574		HMDB0010623	53480622	CHEBI:89387			norm:fullname
+PG 18:1_20:4	PG 18:1_20:4	Phosphatidylglycerols	RAMP_C_000095785		HMDB0116610	52926896			LMGP04010631	norm:fullname
+PG 18:1_20:5	PG 18:1_20:5	Phosphatidylglycerols								unmatched
+PG 18:1_22:0	PG 18:1_22:0	Phosphatidylglycerols								unmatched
+PG 18:1_22:1	PG 18:1_22:1	Phosphatidylglycerols								unmatched
+PG 18:1_22:2	PG 18:1_22:2	Phosphatidylglycerols								unmatched
+PG 18:1_22:3	PG 18:1_22:3	Phosphatidylglycerols								unmatched
+PG 18:1_22:4	PG 18:1_22:4	Phosphatidylglycerols	RAMP_C_000006577		HMDB0010626	53480625	CHEBI:89381			norm:fullname
+PG 18:1_22:5	PG 18:1_22:5	Phosphatidylglycerols	RAMP_C_000006578		HMDB0010627	53480626	CHEBI:89380			norm:fullname
+PG 18:2_18:2	PG 18:2_18:2	Phosphatidylglycerols	RAMP_C_000006601		HMDB0010650	52927219	CHEBI:89361		LMGP04010956	norm:fullname
+PG 18:2_18:3	PG 18:2_18:3	Phosphatidylglycerols	RAMP_C_000006602		HMDB0010651	52926616	CHEBI:89378		LMGP04010351	norm:fullname
+PG 18:2_18:4	PG 18:2_18:4	Phosphatidylglycerols								unmatched
+PG 18:2_20:0	PG 18:2_20:0	Phosphatidylglycerols								unmatched
+PG 18:2_20:2	PG 18:2_20:2	Phosphatidylglycerols	RAMP_C_000095752		HMDB0116577	52926836			LMGP04010571	norm:fullname
+PG 18:2_20:3	PG 18:2_20:3	Phosphatidylglycerols	RAMP_C_000095756		HMDB0116581	52926867			LMGP04010602	norm:fullname
+PG 18:2_20:4	PG 18:2_20:4	Phosphatidylglycerols	RAMP_C_000095759		HMDB0116584	52926897			LMGP04010632	norm:fullname
+PG 18:2_20:5	PG 18:2_20:5	Phosphatidylglycerols								unmatched
+PG 18:2_22:0	PG 18:2_22:0	Phosphatidylglycerols								unmatched
+PG 18:2_22:1	PG 18:2_22:1	Phosphatidylglycerols								unmatched
+PG 18:2_22:3	PG 18:2_22:3	Phosphatidylglycerols								unmatched
+PG 18:2_22:4	PG 18:2_22:4	Phosphatidylglycerols	RAMP_C_000006607		HMDB0010656	52926630	CHEBI:89370		LMGP04010365	norm:fullname
+PG 20:3_20:4	PG 20:3_20:4	Phosphatidylglycerols	RAMP_C_000095763		HMDB0116588	52926906			LMGP04010641	norm:fullname
+PG 20:4_20:4	PG 20:4_20:4	Phosphatidylglycerols	RAMP_C_000095764		HMDB0116589	52927123			LMGP04010858	norm:fullname
+PG 20:4_22:1	PG 20:4_22:1	Phosphatidylglycerols								unmatched
+PG 20:4_22:3	PG 20:4_22:3	Phosphatidylglycerols								unmatched
+PG 20:4_22:4	PG 20:4_22:4	Phosphatidylglycerols								unmatched
+PG 22:4_22:6	PG 22:4_22:6	Phosphatidylglycerols								unmatched
+PG 22:5_22:6	PG 22:5_22:6	Phosphatidylglycerols	RAMP_C_000095795		HMDB0116620	131823257				norm:fullname
+PG 22:6_22:6	PG 22:6_22:6	Phosphatidylglycerols	RAMP_C_000095780		HMDB0116605	52927240	CHEBI:185302		LMGP04010977	norm:fullname
+PI 14:0_18:1	PI 14:0_18:1	Phosphatidylinositols								unmatched
+PI 14:0_18:2	PI 14:0_18:2	Phosphatidylinositols								unmatched
+PI 15:0_16:0	PI 15:0_16:0	Phosphatidylinositols								unmatched
+PI 15:1_16:0	PI 15:1_16:0	Phosphatidylinositols								unmatched
+PI 16:0_16:0	PI 16:0_16:0	Phosphatidylinositols	RAMP_C_000005774	C01194	HMDB0009778	24779556	CHEBI:73229	RM0135113	LMGP06010007	norm:fullname
+PI 16:0_17:0	PI 16:0_17:0	Phosphatidylinositols								unmatched
+PI 16:0_17:1	PI 16:0_17:1	Phosphatidylinositols								unmatched
+PI 16:0_17:2	PI 16:0_17:2	Phosphatidylinositols								unmatched
+PI 16:0_18:1	PI 16:0_18:1	Phosphatidylinositols	RAMP_C_000005779	C00626	HMDB0009783	5771758	CHEBI:73215	RM0162276	LMGP06010001	norm:fullname
+PI 16:0_18:2	PI 16:0_18:2	Phosphatidylinositols	RAMP_C_000005842		HMDB0009846	52928300	CHEBI:88640		LMGP06010847	norm:fullname
+PI 16:0_18:3	PI 16:0_18:3	Phosphatidylinositols								unmatched
+PI 16:0_20:0	PI 16:0_20:0	Phosphatidylinositols	RAMP_C_000005781		HMDB0009785	52928395	CHEBI:88388		LMGP06010942	norm:fullname
+PI 16:0_20:3	PI 16:0_20:3	Phosphatidylinositols	RAMP_C_000005784		HMDB0009788	52928328	CHEBI:88389		LMGP06010875	norm:fullname
+PI 16:0_20:4	PI 16:0_20:4	Phosphatidylinositols	RAMP_C_000005889		HMDB0009893	52928281	CHEBI:89112		LMGP06010828	norm:fullname
+PI 16:0_22:1	PI 16:0_22:1	Phosphatidylinositols								unmatched
+PI 16:1_18:0	PI 16:1_18:0	Phosphatidylinositols	RAMP_C_000005795		HMDB0009799	52927632	CHEBI:88423		LMGP06010179	norm:fullname
+PI 16:1_18:1	PI 16:1_18:1	Phosphatidylinositols	RAMP_C_000005797		HMDB0009801	52928326	CHEBI:88562		LMGP06010873	norm:fullname
+PI 16:1_18:2	PI 16:1_18:2	Phosphatidylinositols								unmatched
+PI 17:0_18:1	PI 17:0_18:1	Phosphatidylinositols								unmatched
+PI 17:1_18:1	PI 17:1_18:1	Phosphatidylinositols								unmatched
+PI 17:1_18:2	PI 17:1_18:2	Phosphatidylinositols								unmatched
+PI 18:0_18:0	PI 18:0_18:0	Phosphatidylinositols	RAMP_C_000005804		HMDB0009808	42607490	CHEBI:88556	RM0095740	LMGP06010008	norm:fullname
+PI 18:0_18:1	PI 18:0_18:1	Phosphatidylinositols	RAMP_C_000156885		HMDB0240667	52928410	CHEBI:77346	RM0133903	LMGP06010957	norm:fullname
+PI 18:0_18:2	PI 18:0_18:2	Phosphatidylinositols	RAMP_C_000005805		HMDB0009809	52928409	CHEBI:77343	RM0133904	LMGP06010956	norm:fullname
+PI 18:0_18:3	PI 18:0_18:3	Phosphatidylinositols	RAMP_C_000005806		HMDB0009810	52927736	CHEBI:88577		LMGP06010283	norm:fullname
+PI 18:0_20:0	PI 18:0_20:0	Phosphatidylinositols								unmatched
+PI 18:0_20:3	PI 18:0_20:3	Phosphatidylinositols	RAMP_C_000005810		HMDB0009814	52928308	CHEBI:88580		LMGP06010855	norm:fullname
+PI 18:0_20:4	PI 18:0_20:4	Phosphatidylinositols	RAMP_C_000005890		HMDB0009894	52928051	CHEBI:89110		LMGP06010598	norm:fullname
+PI 18:0_22:0	PI 18:0_22:0	Phosphatidylinositols								unmatched
+PI 18:1_18:1	PI 18:1_18:1	Phosphatidylinositols	RAMP_C_000005820		HMDB0009824		CHEBI:88604			norm:fullname
+PI 18:1_18:2	PI 18:1_18:2	Phosphatidylinositols	RAMP_C_000005834		HMDB0009838	52928384	CHEBI:88611		LMGP06010931	norm:fullname
+PI 18:1_18:3	PI 18:1_18:3	Phosphatidylinositols	RAMP_C_000005835		HMDB0009839	52927751	CHEBI:88613		LMGP06010298	norm:fullname
+PI 18:1_20:0	PI 18:1_20:0	Phosphatidylinositols								unmatched
+PI 18:1_20:1	PI 18:1_20:1	Phosphatidylinositols	RAMP_C_000005837		HMDB0009841	52928382	CHEBI:88646		LMGP06010929	norm:fullname
+PI 18:1_20:2	PI 18:1_20:2	Phosphatidylinositols								unmatched
+PI 18:1_20:3	PI 18:1_20:3	Phosphatidylinositols	RAMP_C_000005839		HMDB0009843	52927756	CHEBI:88644		LMGP06010303	norm:fullname
+PI 18:1_20:4	PI 18:1_20:4	Phosphatidylinositols	RAMP_C_000005892		HMDB0009896	52928052	CHEBI:89126		LMGP06010599	norm:fullname
+PI 18:1_20:5	PI 18:1_20:5	Phosphatidylinositols								unmatched
+PI 18:1_22:0	PI 18:1_22:0	Phosphatidylinositols								unmatched
+PI 18:1_22:1	PI 18:1_22:1	Phosphatidylinositols								unmatched
+PI 18:1_22:2	PI 18:1_22:2	Phosphatidylinositols								unmatched
+PI 18:1_22:3	PI 18:1_22:3	Phosphatidylinositols								unmatched
+PI 18:1_22:4	PI 18:1_22:4	Phosphatidylinositols								unmatched
+PI 18:1_22:5	PI 18:1_22:5	Phosphatidylinositols								unmatched
+PI 18:1_22:6	PI 18:1_22:6	Phosphatidylinositols								unmatched
+PI 18:2_18:3	PI 18:2_18:3	Phosphatidylinositols								unmatched
+PI 18:2_20:0	PI 18:2_20:0	Phosphatidylinositols	RAMP_C_000005847		HMDB0009851	52927777	CHEBI:88655		LMGP06010324	norm:fullname
+PI 18:2_20:1	PI 18:2_20:1	Phosphatidylinositols	RAMP_C_000005848		HMDB0009852	52927778	CHEBI:88656		LMGP06010325	norm:fullname
+PI 18:2_20:4	PI 18:2_20:4	Phosphatidylinositols								unmatched
+PI 18:2_20:5	PI 18:2_20:5	Phosphatidylinositols								unmatched
+PI 18:2_22:0	PI 18:2_22:0	Phosphatidylinositols								unmatched
+PI 18:2_22:1	PI 18:2_22:1	Phosphatidylinositols								unmatched
+PI 18:2_22:6	PI 18:2_22:6	Phosphatidylinositols								unmatched
+PS 30:0	PS 30:0	Phosphatidylserines	RAMP_C_000091455		HMDB0112280	52926088		RM0108455	LMGP03010982	exact:fullname
+PS 32:0	PS 32:0	Phosphatidylserines	RAMP_C_000217830	C02737	HMDB0000614	9547090	CHEBI:11750	RM0138807	LMGP03010000	exact:fullname
+PS 34:1	PS 34:1	Phosphatidylserines	RAMP_C_000007823		HMDB0012357	5283499	CHEBI:34086		LMGP03010024	exact:fullname
+PS 34:2	PS 34:2	Phosphatidylserines	RAMP_C_000007824		HMDB0012358	46891802	CHEBI:89823		LMGP03010976	exact:fullname
+PS 36:1	PS 36:1	Phosphatidylserines	RAMP_C_000006152		HMDB0010163	9547087	CHEBI:79096	RM0015035	LMGP03010025	exact:fullname
+PS 36:2	PS 36:2	Phosphatidylserines	RAMP_C_000007845		HMDB0012380	9547091	CHEBI:84513	RM0133925	LMGP03010031	exact:fullname
+PS 36:3	PS 36:3	Phosphatidylserines	RAMP_C_000007826		HMDB0012360	52926011	CHEBI:90030		LMGP03010903	exact:fullname
+PS 36:4	PS 36:4	Phosphatidylserines	RAMP_C_000007827		HMDB0012361	24779544	CHEBI:90029		LMGP03010038	exact:fullname
+PS 36:5	PS 36:5	Phosphatidylserines	RAMP_C_000007838		HMDB0012372	52926006			LMGP03010898	exact:fullname
+PS 38:4	PS 38:4	Phosphatidylserines	RAMP_C_000007848		HMDB0012383	24779545	CHEBI:79113	RM0133927	LMGP03010039	exact:fullname
+PS 38:5	PS 38:5	Phosphatidylserines	RAMP_C_000007858		HMDB0012394	52925988	CHEBI:75099	RM0133937	LMGP03010879	exact:fullname
+PS 38:6	PS 38:6	Phosphatidylserines	RAMP_C_000007828		HMDB0012362	46891805	CHEBI:79103	RM0133921	LMGP03010043	exact:fullname
+PS 38:7	PS 38:7	Phosphatidylserines	RAMP_C_000007839		HMDB0012373	52925154			LMGP03010044	exact:fullname
+PS 40:4	PS 40:4	Phosphatidylserines	RAMP_C_000091557		HMDB0112382	52925992	CHEBI:84506	RM0133929	LMGP03010883	exact:fullname
+PS 40:5	PS 40:5	Phosphatidylserines	RAMP_C_000091595		HMDB0112420	52925449			LMGP03010339	exact:fullname
+PS 40:6	PS 40:6	Phosphatidylserines	RAMP_C_000006156		HMDB0010167	24779546	CHEBI:79098	RM0133931	LMGP03010040	exact:fullname
+PS 40:7	PS 40:7	Phosphatidylserines	RAMP_C_000007859		HMDB0012395	52925155	CHEBI:90025		LMGP03010045	exact:fullname
+PS 40:8	PS 40:8	Phosphatidylserines	RAMP_C_000007870		HMDB0012406	52926085			LMGP03010979	exact:fullname
+SPB d14:0	SPB d14:0	Sphinganines and sphingosines								unmatched
+SPB d14:1	SPB d14:1	Sphinganines and sphingosines								unmatched
+SPB d16:0	SPB d16:0	Sphinganines and sphingosines								unmatched
+SPB d16:1	SPB d16:1	Sphinganines and sphingosines								unmatched
+SPB d17:0	SPB d17:0	Sphinganines and sphingosines								unmatched
+SPB d17:1	SPB d17:1	Sphinganines and sphingosines								unmatched
+SPB d18:0	SPB d18:0	Sphinganines and sphingosines								unmatched
+SPB d18:1	SPB d18:1	Sphinganines and sphingosines								unmatched
+SPBP d14:0	SPBP d14:0	Sphinganine and sphingosine phosphates								unmatched
+SPBP d14:1	SPBP d14:1	Sphinganine and sphingosine phosphates								unmatched
+SPBP d16:0	SPBP d16:0	Sphinganine and sphingosine phosphates								unmatched
+SPBP d16:1	SPBP d16:1	Sphinganine and sphingosine phosphates								unmatched
+SPBP d17:0	SPBP d17:0	Sphinganine and sphingosine phosphates								unmatched
+SPBP d17:1	SPBP d17:1	Sphinganine and sphingosine phosphates								unmatched
+SPBP d18:0	SPBP d18:0	Sphinganine and sphingosine phosphates								unmatched
+SPBP d18:1	SPBP d18:1	Sphinganine and sphingosine phosphates								unmatched
+SM 33:1	SM 33:1	Sphingomyelins	RAMP_C_000156827		HMDB0240608	52931139	CHEBI:64485	RM0135554	LMSP03010038	norm:fullname
+SM 34:1	SM 34:1	Sphingomyelins								unmatched
+SM 34:2	SM 34:2	Sphingomyelins	RAMP_C_000156832		HMDB0240613	52931145	CHEBI:64487		LMSP03010041	norm:fullname
+SM 35:1	SM 35:1	Sphingomyelins								unmatched
+SM 36:1	SM 36:1	Sphingomyelins								unmatched
+SM 36:2	SM 36:2	Sphingomyelins								unmatched
+SM 38:3	SM 38:3	Sphingomyelins								unmatched
+SM 41:1	SM 41:1	Sphingomyelins								unmatched
+SM 41:2	SM 41:2	Sphingomyelins	RAMP_C_000156833		HMDB0240614					norm:fullname
+SM 42:1	SM 42:1	Sphingomyelins								unmatched
+SM 42:2	SM 42:2	Sphingomyelins								unmatched
+SM 43:1	SM 43:1	Sphingomyelins								unmatched
+SM 44:1	SM 44:1	Sphingomyelins								unmatched
+SM 44:2	SM 44:2	Sphingomyelins								unmatched
+TG 14:0_32:2	TG 14:0_32:2	Triglycerides								unmatched
+TG 16:0_34:1	TG 16:0_34:1	Triglycerides								unmatched
+TG 16:1_32:0	TG 16:1_32:0	Triglycerides								unmatched
+TG 17:1_34:3	TG 17:1_34:3	Triglycerides								unmatched
+TG 14:0_34:0	TG 14:0_34:0	Triglycerides								unmatched
+TG 16:0_34:2	TG 16:0_34:2	Triglycerides								unmatched
+TG 16:1_32:1	TG 16:1_32:1	Triglycerides								unmatched
+TG 17:1_36:3	TG 17:1_36:3	Triglycerides								unmatched
+TG 14:0_34:1	TG 14:0_34:1	Triglycerides								unmatched
+TG 16:0_34:3	TG 16:0_34:3	Triglycerides								unmatched
+TG 16:1_32:2	TG 16:1_32:2	Triglycerides								unmatched
+TG 17:1_36:4	TG 17:1_36:4	Triglycerides								unmatched
+TG 14:0_34:2	TG 14:0_34:2	Triglycerides								unmatched
+TG 16:0_34:4	TG 16:0_34:4	Triglycerides								unmatched
+TG 16:1_33:1	TG 16:1_33:1	Triglycerides								unmatched
+TG 17:1_36:5	TG 17:1_36:5	Triglycerides								unmatched
+TG 14:0_34:3	TG 14:0_34:3	Triglycerides								unmatched
+TG 16:0_35:1	TG 16:0_35:1	Triglycerides								unmatched
+TG 16:1_34:0	TG 16:1_34:0	Triglycerides								unmatched
+TG 17:1_38:5	TG 17:1_38:5	Triglycerides								unmatched
+TG 14:0_35:1	TG 14:0_35:1	Triglycerides								unmatched
+TG 16:0_35:2	TG 16:0_35:2	Triglycerides								unmatched
+TG 16:1_34:1	TG 16:1_34:1	Triglycerides								unmatched
+TG 17:1_38:6	TG 17:1_38:6	Triglycerides								unmatched
+TG 14:0_35:2	TG 14:0_35:2	Triglycerides								unmatched
+TG 16:0_35:3	TG 16:0_35:3	Triglycerides								unmatched
+TG 16:1_34:2	TG 16:1_34:2	Triglycerides								unmatched
+TG 17:1_38:7	TG 17:1_38:7	Triglycerides								unmatched
+TG 14:0_36:1	TG 14:0_36:1	Triglycerides								unmatched
+TG 16:0_36:2	TG 16:0_36:2	Triglycerides								unmatched
+TG 16:1_34:3	TG 16:1_34:3	Triglycerides								unmatched
+TG 17:2_34:2	TG 17:2_34:2	Triglycerides								unmatched
+TG 14:0_36:2	TG 14:0_36:2	Triglycerides								unmatched
+TG 16:0_36:3	TG 16:0_36:3	Triglycerides								unmatched
+TG 16:1_36:1	TG 16:1_36:1	Triglycerides								unmatched
+TG 17:2_34:3	TG 17:2_34:3	Triglycerides								unmatched
+TG 14:0_36:3	TG 14:0_36:3	Triglycerides								unmatched
+TG 16:0_36:4	TG 16:0_36:4	Triglycerides								unmatched
+TG 16:1_36:2	TG 16:1_36:2	Triglycerides								unmatched
+TG 17:2_36:2	TG 17:2_36:2	Triglycerides								unmatched
+TG 14:0_36:4	TG 14:0_36:4	Triglycerides								unmatched
+TG 16:0_36:5	TG 16:0_36:5	Triglycerides								unmatched
+TG 16:1_36:3	TG 16:1_36:3	Triglycerides								unmatched
+TG 17:2_36:3	TG 17:2_36:3	Triglycerides								unmatched
+TG 14:0_38:4	TG 14:0_38:4	Triglycerides								unmatched
+TG 16:0_36:6	TG 16:0_36:6	Triglycerides								unmatched
+TG 16:1_36:4	TG 16:1_36:4	Triglycerides								unmatched
+TG 17:2_36:4	TG 17:2_36:4	Triglycerides								unmatched
+TG 14:0_38:5	TG 14:0_38:5	Triglycerides								unmatched
+TG 16:0_37:3	TG 16:0_37:3	Triglycerides								unmatched
+TG 16:1_36:5	TG 16:1_36:5	Triglycerides								unmatched
+TG 17:2_38:5	TG 17:2_38:5	Triglycerides								unmatched
+TG 14:0_39:3	TG 14:0_39:3	Triglycerides								unmatched
+TG 16:0_38:1	TG 16:0_38:1	Triglycerides								unmatched
+TG 16:1_38:3	TG 16:1_38:3	Triglycerides								unmatched
+TG 17:2_38:6	TG 17:2_38:6	Triglycerides								unmatched
+TG 14:0_40:5	TG 14:0_40:5	Triglycerides								unmatched
+TG 16:0_38:2	TG 16:0_38:2	Triglycerides								unmatched
+TG 16:1_38:4	TG 16:1_38:4	Triglycerides								unmatched
+TG 17:2_38:7	TG 17:2_38:7	Triglycerides								unmatched
+TG 16:0_28:1	TG 16:0_28:1	Triglycerides								unmatched
+TG 16:0_38:3	TG 16:0_38:3	Triglycerides								unmatched
+TG 16:1_38:5	TG 16:1_38:5	Triglycerides								unmatched
+TG 18:0_30:0	TG 18:0_30:0	Triglycerides								unmatched
+TG 16:0_28:2	TG 16:0_28:2	Triglycerides								unmatched
+TG 16:0_38:4	TG 16:0_38:4	Triglycerides								unmatched
+TG 17:0_32:1	TG 17:0_32:1	Triglycerides								unmatched
+TG 18:0_30:1	TG 18:0_30:1	Triglycerides								unmatched
+TG 16:0_30:2	TG 16:0_30:2	Triglycerides								unmatched
+TG 16:0_38:5	TG 16:0_38:5	Triglycerides								unmatched
+TG 17:0_34:1	TG 17:0_34:1	Triglycerides								unmatched
+TG 18:0_32:0	TG 18:0_32:0	Triglycerides								unmatched
+TG 16:0_32:0	TG 16:0_32:0	Triglycerides								unmatched
+TG 16:0_38:6	TG 16:0_38:6	Triglycerides								unmatched
+TG 17:0_34:3	TG 17:0_34:3	Triglycerides								unmatched
+TG 18:0_34:2	TG 18:0_34:2	Triglycerides								unmatched
+TG 16:0_32:1	TG 16:0_32:1	Triglycerides								unmatched
+TG 16:0_38:7	TG 16:0_38:7	Triglycerides								unmatched
+TG 17:0_36:3	TG 17:0_36:3	Triglycerides								unmatched
+TG 18:0_34:3	TG 18:0_34:3	Triglycerides								unmatched
+TG 16:0_32:2	TG 16:0_32:2	Triglycerides								unmatched
+TG 16:0_40:6	TG 16:0_40:6	Triglycerides								unmatched
+TG 17:0_36:4	TG 17:0_36:4	Triglycerides								unmatched
+TG 18:0_36:1	TG 18:0_36:1	Triglycerides								unmatched
+TG 16:0_32:3	TG 16:0_32:3	Triglycerides								unmatched
+TG 16:0_40:7	TG 16:0_40:7	Triglycerides								unmatched
+TG 17:1_32:1	TG 17:1_32:1	Triglycerides								unmatched
+TG 18:0_36:2	TG 18:0_36:2	Triglycerides								unmatched
+TG 16:0_33:1	TG 16:0_33:1	Triglycerides								unmatched
+TG 16:0_40:8	TG 16:0_40:8	Triglycerides								unmatched
+TG 17:1_34:1	TG 17:1_34:1	Triglycerides								unmatched
+TG 18:0_36:3	TG 18:0_36:3	Triglycerides								unmatched
+TG 16:0_33:2	TG 16:0_33:2	Triglycerides								unmatched
+TG 16:1_28:0	TG 16:1_28:0	Triglycerides								unmatched
+TG 17:1_34:2	TG 17:1_34:2	Triglycerides								unmatched
+TG 20:4_30:0	TG 20:4_30:0	Triglycerides								unmatched
+TG 16:0_34:0	TG 16:0_34:0	Triglycerides								unmatched
+TG 16:1_30:1	TG 16:1_30:1	Triglycerides								unmatched
+TG 18:3_36:3	TG 18:3_36:3	Triglycerides								unmatched
+TG 20:4_32:0	TG 20:4_32:0	Triglycerides								unmatched
+TG 18:0_36:4	TG 18:0_36:4	Triglycerides								unmatched
+TG 18:2_30:1	TG 18:2_30:1	Triglycerides								unmatched
+TG 18:3_36:4	TG 18:3_36:4	Triglycerides								unmatched
+TG 20:4_32:1	TG 20:4_32:1	Triglycerides								unmatched
+TG 18:0_36:5	TG 18:0_36:5	Triglycerides								unmatched
+TG 18:2_31:0	TG 18:2_31:0	Triglycerides								unmatched
+TG 18:3_38:5	TG 18:3_38:5	Triglycerides								unmatched
+TG 20:4_32:2	TG 20:4_32:2	Triglycerides								unmatched
+TG 18:0_38:6	TG 18:0_38:6	Triglycerides								unmatched
+TG 18:2_32:0	TG 18:2_32:0	Triglycerides								unmatched
+TG 18:3_38:6	TG 18:3_38:6	Triglycerides								unmatched
+TG 20:4_33:2	TG 20:4_33:2	Triglycerides								unmatched
+TG 18:0_38:7	TG 18:0_38:7	Triglycerides								unmatched
+TG 18:2_32:1	TG 18:2_32:1	Triglycerides								unmatched
+TG 20:0_32:3	TG 20:0_32:3	Triglycerides								unmatched
+TG 20:4_34:0	TG 20:4_34:0	Triglycerides								unmatched
+TG 18:1_26:0	TG 18:1_26:0	Triglycerides								unmatched
+TG 18:2_32:2	TG 18:2_32:2	Triglycerides								unmatched
+TG 20:0_32:4	TG 20:0_32:4	Triglycerides								unmatched
+TG 20:4_34:1	TG 20:4_34:1	Triglycerides								unmatched
+TG 18:1_28:1	TG 18:1_28:1	Triglycerides								unmatched
+TG 18:2_33:0	TG 18:2_33:0	Triglycerides								unmatched
+TG 20:0_34:1	TG 20:0_34:1	Triglycerides								unmatched
+TG 20:4_34:2	TG 20:4_34:2	Triglycerides								unmatched
+TG 18:1_30:0	TG 18:1_30:0	Triglycerides								unmatched
+TG 18:2_33:1	TG 18:2_33:1	Triglycerides								unmatched
+TG 20:1_26:1	TG 20:1_26:1	Triglycerides								unmatched
+TG 20:4_34:3	TG 20:4_34:3	Triglycerides								unmatched
+TG 18:1_30:1	TG 18:1_30:1	Triglycerides								unmatched
+TG 18:2_33:2	TG 18:2_33:2	Triglycerides								unmatched
+TG 20:1_30:1	TG 20:1_30:1	Triglycerides								unmatched
+TG 20:4_35:3	TG 20:4_35:3	Triglycerides								unmatched
+TG 18:1_30:2	TG 18:1_30:2	Triglycerides								unmatched
+TG 18:2_34:1	TG 18:2_34:1	Triglycerides								unmatched
+TG 20:1_31:0	TG 20:1_31:0	Triglycerides								unmatched
+TG 20:4_36:2	TG 20:4_36:2	Triglycerides								unmatched
+TG 18:1_31:0	TG 18:1_31:0	Triglycerides								unmatched
+TG 18:2_34:2	TG 18:2_34:2	Triglycerides								unmatched
+TG 20:1_32:0	TG 20:1_32:0	Triglycerides								unmatched
+TG 20:4_36:3	TG 20:4_36:3	Triglycerides								unmatched
+TG 18:1_32:0	TG 18:1_32:0	Triglycerides								unmatched
+TG 18:2_34:3	TG 18:2_34:3	Triglycerides								unmatched
+TG 20:1_32:1	TG 20:1_32:1	Triglycerides								unmatched
+TG 20:4_36:4	TG 20:4_36:4	Triglycerides								unmatched
+TG 18:1_32:1	TG 18:1_32:1	Triglycerides								unmatched
+TG 18:2_34:4	TG 18:2_34:4	Triglycerides								unmatched
+TG 20:1_32:2	TG 20:1_32:2	Triglycerides								unmatched
+TG 20:4_36:5	TG 20:4_36:5	Triglycerides								unmatched
+TG 18:1_32:2	TG 18:1_32:2	Triglycerides								unmatched
+TG 18:2_35:1	TG 18:2_35:1	Triglycerides								unmatched
+TG 20:1_32:3	TG 20:1_32:3	Triglycerides								unmatched
+TG 20:5_34:0	TG 20:5_34:0	Triglycerides								unmatched
+TG 18:1_32:3	TG 18:1_32:3	Triglycerides								unmatched
+TG 18:2_35:2	TG 18:2_35:2	Triglycerides								unmatched
+TG 20:1_34:0	TG 20:1_34:0	Triglycerides								unmatched
+TG 20:5_34:1	TG 20:5_34:1	Triglycerides								unmatched
+TG 18:1_33:0	TG 18:1_33:0	Triglycerides								unmatched
+TG 18:2_35:3	TG 18:2_35:3	Triglycerides								unmatched
+TG 20:1_34:1	TG 20:1_34:1	Triglycerides								unmatched
+TG 20:5_34:2	TG 20:5_34:2	Triglycerides								unmatched
+TG 18:1_33:1	TG 18:1_33:1	Triglycerides								unmatched
+TG 18:2_36:0	TG 18:2_36:0	Triglycerides								unmatched
+TG 20:1_34:2	TG 20:1_34:2	Triglycerides								unmatched
+TG 20:5_36:2	TG 20:5_36:2	Triglycerides								unmatched
+TG 18:1_33:2	TG 18:1_33:2	Triglycerides								unmatched
+TG 18:2_36:1	TG 18:2_36:1	Triglycerides								unmatched
+TG 20:1_34:3	TG 20:1_34:3	Triglycerides								unmatched
+TG 20:5_36:3	TG 20:5_36:3	Triglycerides								unmatched
+TG 18:1_33:3	TG 18:1_33:3	Triglycerides								unmatched
+TG 18:2_36:2	TG 18:2_36:2	Triglycerides								unmatched
+TG 20:2_32:0	TG 20:2_32:0	Triglycerides								unmatched
+TG 22:0_32:4	TG 22:0_32:4	Triglycerides								unmatched
+TG 18:1_34:1	TG 18:1_34:1	Triglycerides								unmatched
+TG 18:2_36:3	TG 18:2_36:3	Triglycerides								unmatched
+TG 20:2_32:1	TG 20:2_32:1	Triglycerides								unmatched
+TG 22:1_32:5	TG 22:1_32:5	Triglycerides								unmatched
+TG 18:1_34:2	TG 18:1_34:2	Triglycerides								unmatched
+TG 18:2_36:4	TG 18:2_36:4	Triglycerides								unmatched
+TG 20:2_34:1	TG 20:2_34:1	Triglycerides								unmatched
+TG 22:2_32:4	TG 22:2_32:4	Triglycerides								unmatched
+TG 18:1_34:3	TG 18:1_34:3	Triglycerides								unmatched
+TG 18:2_36:5	TG 18:2_36:5	Triglycerides								unmatched
+TG 20:2_34:2	TG 20:2_34:2	Triglycerides								unmatched
+TG 22:3_30:2	TG 22:3_30:2	Triglycerides								unmatched
+TG 18:1_34:4	TG 18:1_34:4	Triglycerides								unmatched
+TG 18:2_38:4	TG 18:2_38:4	Triglycerides								unmatched
+TG 20:2_34:3	TG 20:2_34:3	Triglycerides								unmatched
+TG 22:4_32:0	TG 22:4_32:0	Triglycerides								unmatched
+TG 18:1_35:2	TG 18:1_35:2	Triglycerides								unmatched
+TG 18:2_38:5	TG 18:2_38:5	Triglycerides								unmatched
+TG 20:2_34:4	TG 20:2_34:4	Triglycerides								unmatched
+TG 22:4_32:2	TG 22:4_32:2	Triglycerides								unmatched
+TG 18:1_35:3	TG 18:1_35:3	Triglycerides								unmatched
+TG 18:2_38:6	TG 18:2_38:6	Triglycerides								unmatched
+TG 20:2_36:5	TG 20:2_36:5	Triglycerides								unmatched
+TG 22:4_34:2	TG 22:4_34:2	Triglycerides								unmatched
+TG 18:1_36:0	TG 18:1_36:0	Triglycerides								unmatched
+TG 18:3_30:0	TG 18:3_30:0	Triglycerides								unmatched
+TG 20:3_32:0	TG 20:3_32:0	Triglycerides								unmatched
+TG 22:5_32:0	TG 22:5_32:0	Triglycerides								unmatched
+TG 18:1_36:1	TG 18:1_36:1	Triglycerides								unmatched
+TG 18:3_32:0	TG 18:3_32:0	Triglycerides								unmatched
+TG 20:3_32:1	TG 20:3_32:1	Triglycerides								unmatched
+TG 22:5_32:1	TG 22:5_32:1	Triglycerides								unmatched
+TG 18:1_36:2	TG 18:1_36:2	Triglycerides								unmatched
+TG 18:3_32:1	TG 18:3_32:1	Triglycerides								unmatched
+TG 20:3_32:2	TG 20:3_32:2	Triglycerides								unmatched
+TG 22:5_34:1	TG 22:5_34:1	Triglycerides								unmatched
+TG 18:1_36:3	TG 18:1_36:3	Triglycerides								unmatched
+TG 18:3_33:2	TG 18:3_33:2	Triglycerides								unmatched
+TG 20:3_34:0	TG 20:3_34:0	Triglycerides								unmatched
+TG 22:5_34:2	TG 22:5_34:2	Triglycerides								unmatched
+TG 18:1_36:4	TG 18:1_36:4	Triglycerides								unmatched
+TG 18:3_34:0	TG 18:3_34:0	Triglycerides								unmatched
+TG 20:3_34:1	TG 20:3_34:1	Triglycerides								unmatched
+TG 22:5_34:3	TG 22:5_34:3	Triglycerides								unmatched
+TG 18:1_36:5	TG 18:1_36:5	Triglycerides								unmatched
+TG 18:3_34:1	TG 18:3_34:1	Triglycerides								unmatched
+TG 20:3_34:2	TG 20:3_34:2	Triglycerides								unmatched
+TG 22:6_32:0	TG 22:6_32:0	Triglycerides								unmatched
+TG 18:1_36:6	TG 18:1_36:6	Triglycerides								unmatched
+TG 18:3_34:2	TG 18:3_34:2	Triglycerides								unmatched
+TG 20:3_34:3	TG 20:3_34:3	Triglycerides								unmatched
+TG 22:6_32:1	TG 22:6_32:1	Triglycerides								unmatched
+TG 18:1_38:5	TG 18:1_38:5	Triglycerides								unmatched
+TG 18:3_34:3	TG 18:3_34:3	Triglycerides								unmatched
+TG 20:3_36:3	TG 20:3_36:3	Triglycerides								unmatched
+TG 22:6_34:1	TG 22:6_34:1	Triglycerides								unmatched
+TG 18:1_38:6	TG 18:1_38:6	Triglycerides								unmatched
+TG 18:3_35:2	TG 18:3_35:2	Triglycerides								unmatched
+TG 20:3_36:4	TG 20:3_36:4	Triglycerides								unmatched
+TG 22:6_34:2	TG 22:6_34:2	Triglycerides								unmatched
+TG 18:1_38:7	TG 18:1_38:7	Triglycerides								unmatched
+TG 18:3_36:1	TG 18:3_36:1	Triglycerides								unmatched
+TG 20:3_36:5	TG 20:3_36:5	Triglycerides								unmatched
+TG 22:6_34:3	TG 22:6_34:3	Triglycerides								unmatched
+TG 18:2_28:0	TG 18:2_28:0	Triglycerides								unmatched
+TG 18:3_36:2	TG 18:3_36:2	Triglycerides								unmatched
+TG 18:0_32:1	TG 18:0_32:1	Triglycerides								unmatched
+TG 18:2_30:0	TG 18:2_30:0	Triglycerides								unmatched
+TG 17:0_34:2	TG 17:0_34:2	Triglycerides								unmatched
+TG 18:0_32:2	TG 18:0_32:2	Triglycerides								unmatched
+Hex3Cer d18:1/16:0	Hex3Cer d18:1/16:0	Trihexosylceramides								unmatched
+Hex3Cer d18:1/18:0	Hex3Cer d18:1/18:0	Trihexosylceramides								unmatched
+Hex3Cer d18:1/20:0	Hex3Cer d18:1/20:0	Trihexosylceramides								unmatched
+Hex3Cer d18:1/22:0	Hex3Cer d18:1/22:0	Trihexosylceramides								unmatched
+Hex3Cer d18:1/24:1	Hex3Cer d18:1/24:1	Trihexosylceramides								unmatched
+Hex3Cer d18:1/26:1	Hex3Cer d18:1/26:1	Trihexosylceramides								unmatched

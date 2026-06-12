@@ -1,0 +1,1235 @@
+analyte_class	shortname	fullname
+Alkaloids	Nicotine	Nicotine
+Alkaloids	Trigonelline	Trigonelline
+Amine oxides	TMAO	Trimethylamine N-oxide
+Amino acids	Ala	Alanine
+Amino acids	Arg	Arginine
+Amino acids	Asn	Asparagine
+Amino acids	Asp	Aspartic acid
+Amino acids	Cys	Cysteine
+Amino acids	Gln	Glutamine
+Amino acids	Glu	Glutamic acid
+Amino acids	Gly	Glycine
+Amino acids	His	Histidine
+Amino acids	Ile	Isoleucine
+Amino acids	Leu	Leucine
+Amino acids	Lys	Lysine
+Amino acids	Met	Methionine
+Amino acids	Phe	Phenylalanine
+Amino acids	Pro	Proline
+Amino acids	Ser	Serine
+Amino acids	Thr	Threonine
+Amino acids	Trp	Tryptophan
+Amino acids	Tyr	Tyrosine
+Amino acids	Val	Valine
+Amino acid-related	1-Met-His	1-Methylhistidine
+Amino acid-related	3-Met-2-oxovaleric acid	3-Methyl-2-oxovaleric acid
+Amino acid-related	3-Met-His	3-Methylhistidine
+Amino acid-related	3-OH-Anthranilic acid	3-Hydroxyanthranilic acid
+Amino acid-related	3-OH-Kynurenine	3-Hydroxykynurenine
+Amino acid-related	4-Guanidinobutanoic acid	4-Guanidinobutanoic acid
+Amino acid-related	4-Met-2-oxovaleric acid	2-Oxoisocaproic acid
+Amino acid-related	5-Amino-4-oxovaleric acid	5-Amino-4-oxovaleric acid
+Amino acid-related	5-AVA	5-Aminovaleric acid
+Amino acid-related	5-OH-Trp	5-Hydroxytryptophan
+Amino acid-related	5-Oxo-Pro	5-Oxoproline
+Amino acid-related	AABA	alpha-Aminobutyric acid
+Amino acid-related	Ac-Orn	Acetylornithine
+Amino acid-related	ADMA	Asymmetric dimethylarginine
+Amino acid-related	Agmatine	Agmatine
+Amino acid-related	a-Ketoisovaleric acid	alpha-Ketoisovaleric acid
+Amino acid-related	alpha-AAA	alpha-Aminoadipic acid
+Amino acid-related	Anserine	Anserine
+Amino acid-related	Anthranilic acid	Anthranilic acid
+Amino acid-related	Arginino-Suc	Argininosuccinic acid
+Amino acid-related	BABA	beta-Aminobutyric acid
+Amino acid-related	BAIBA	3-Aminoisobutyric acid
+Amino acid-related	Betaine	Betaine
+Amino acid-related	c4-OH-Pro	cis-4-Hydroxyproline
+Amino acid-related	Carbamoyl-PO4	Carbamoylphosphate
+Amino acid-related	Carnosine	Carnosine
+Amino acid-related	Cinnamoyl-Gly	Cinnamoylglycine
+Amino acid-related	Cit	Citrulline
+Amino acid-related	Creatine	Creatine
+Amino acid-related	Creatinine	Creatinine
+Amino acid-related	Cystine	Cystine
+Amino acid-related	DMG	Dimethylglycine
+Amino acid-related	DOPA	Dihydroxyphenylalanine
+Amino acid-related	Furoyl-Gly	Furoylglycine
+Amino acid-related	Guanidinoacetic acid	Guanidinoacetic acid
+Amino acid-related	HArg	Homoarginine
+Amino acid-related	HCit	Homocitrulline
+Amino acid-related	HCys	Homocysteine
+Amino acid-related	HSer	Homoserine
+Amino acid-related	Hypotaurine	Hypotaurine
+Amino acid-related	Imidazolepropionic acid	Imidazolepropionic acid
+Amino acid-related	Kynurenine	Kynurenine
+Amino acid-related	Met-SO	Methionine sulfoxide
+Amino acid-related	N2-Ac-Lys	N2-Acetyllysine
+Amino acid-related	N6-Ac-Lys	N6-Acetyllysine
+Amino acid-related	N-Ac-Ala	N-Acetylalanine
+Amino acid-related	N-Ac-Arg	N-Acetylarginine
+Amino acid-related	N-Ac-Asn	N-Acetylasparagine
+Amino acid-related	N-Ac-Asp	N-Acetylaspartic acid
+Amino acid-related	N-Ac-Gln	N-Acetylglutamine
+Amino acid-related	N-Ac-Glu	N-Acetylglutamic acid
+Amino acid-related	N-Ac-Gly	N-Acetylglycine
+Amino acid-related	N-Ac-His	N-Acetylhistidine
+Amino acid-related	N-Ac-Ile	N-Acetylisoleucine
+Amino acid-related	N-Ac-Leu	N-Acetylleucine
+Amino acid-related	N-Ac-Met	N-Acetylmethionine
+Amino acid-related	N-Ac-Phe	N-Acetylphenylalanine
+Amino acid-related	N-Ac-Pro	N-Acetylproline
+Amino acid-related	N-Ac-Ser	N-Acetylserine
+Amino acid-related	N-Ac-Trp	N-Acetyltryptophan
+Amino acid-related	N-Ac-Tyr	N-Acetyltyrosine
+Amino acid-related	N-Ac-Val	N-Acetylvaline
+Amino acid-related	Nitro-Tyr	Nitrotyrosine
+Amino acid-related	N-Met-Asp	N-Methylaspartic acid
+Amino acid-related	N-Nitroso-Pro	N-Nitrosoproline
+Amino acid-related	Orn	Ornithine
+Amino acid-related	PAG	Phenylacetylglycine
+Amino acid-related	PheAlaBetaine	Phenylalanine betaine
+Amino acid-related	Phenylacetylglutamine	Phenylacetylglutamine
+Amino acid-related	ProBetaine	Proline betaine
+Amino acid-related	Sarcosine	Sarcosine
+Amino acid-related	SDMA	Symmetric dimethylarginine
+Amino acid-related	t4-OH-Pro	trans-4-Hydroxyproline
+Amino acid-related	Taurine	Taurine
+Amino acid-related	TrpBetaine	Tryptophan betaine
+Amino acid-related	Tryptamine	Tryptamine
+Amino acid-related	Tyramine	Tyramine
+Bile acids	12-KetoDCA	12-Ketodeoxycholic acid
+Bile acids	3-EpiDCA	3-Epideoxycholic acid
+Bile acids	7-KetoDCA	7-Ketodeoxycholic acid
+Bile acids	CA	Cholic acid
+Bile acids	CDCA	Chenodeoxycholic acid
+Bile acids	DCA	Deoxycholic acid
+Bile acids	GCA	Glycocholic acid
+Bile acids	GCDCA	Glycochenodeoxycholic acid
+Bile acids	GDCA	Glycodeoxycholic acid
+Bile acids	GLCA	Glycolithocholic acid
+Bile acids	GLCAS	Glycolithocholic acid sulfate
+Bile acids	GUDCA	Glycoursodeoxycholic acid
+Bile acids	IsoLCA	Isolithocholic acid
+Bile acids	IsoUDCA	Isoursodeoxycholic acid
+Bile acids	LCA	Lithocholic acid
+Bile acids	NorDCA	Nordeoxycholic acid
+Bile acids	TCA	Taurocholic acid
+Bile acids	TCDCA	Taurochenodeoxycholic acid
+Bile acids	TDCA	Taurodeoxycholic acid
+Bile acids	THDCA	Taurohyodeoxycholic acid
+Bile acids	TLCA	Taurolithocholic acid
+Bile acids	TMCA	Tauromuricholic acids
+Bile acids	TUDCA	Tauroursodeoxycholic acid
+Bile acids	UDCA	Ursodeoxycholic acid
+Biogenic amines	beta-Ala	beta-Alanine
+Biogenic amines	GABA	gamma-Aminobutyric acid
+Biogenic amines	Dopamine	Dopamine
+Biogenic amines	Histamine	Histamine
+Biogenic amines	PEA	Phenylethylamine
+Biogenic amines	Putrescine	Putrescine
+Biogenic amines	Serotonin	Serotonin
+Biogenic amines	Spermidine	Spermidine
+Biogenic amines	Spermine	Spermine
+Biogenic amines	Urea	Urea
+Carboxylic acids	2-OH-Butyric acid	2-Hydroxybutyric acid
+Carboxylic acids	3-OH-Butyric acid	3-Hydroxybutyric acid
+Carboxylic acids	Glycolic acid	Glycolic acid
+Carboxylic acids	Glyoxylic acid	Glyoxylic acid
+Carboxylic acids	HipAcid	Hippuric acid
+Carboxylic acids	Lac	Lactic acid
+Carboxylic acids	Mevalonic acid	Mevalonic acid
+Carboxylic acids	Pyruvic acid	Pyruvic acid
+Catechols	"3,4-DiOH-Benzaldehyde"	"3,4-Dihydroxybenzaldehyde"
+Catechols	Epinephrine	Epinephrine
+Catechols	Norepinephrine	Norepinephrine
+Cresols	p-Cresol glucuronide	p-Cresol glucuronide
+Cresols	p-Cresol-SO4	p-Cresol sulfate
+Dicarboxylic acids	2-OH-Glutaric acid	2-Hydroxyglutaric acid
+Dicarboxylic acids	3-HMGA	3-Hydroxymethylglutaric acid
+Dicarboxylic acids	3-Met-adipic acid	3-Methyladipic acid
+Dicarboxylic acids	3-Met-glutaric acid	3-Methylglutaric acid
+Dicarboxylic acids	3-OH-Glutaric acid	3-Hydroxyglutaric acid
+Dicarboxylic acids	3-OH-Sebacic acid	3-Hydroxysebacic acid
+Dicarboxylic acids	Adipic acid	Adipic acid
+Dicarboxylic acids	a-Ketoglutaric acid	alpha-Ketoglutaric acid
+Dicarboxylic acids	Citramalic acid	Citramalic acid
+Dicarboxylic acids	DiCA 12:0	Dodecanedioic acid
+Dicarboxylic acids	DiCA 14:0	Tetradecanedioic acid
+Dicarboxylic acids	E-3-Met-glutaconic acid	E-3-Methylglutaconic acid
+Dicarboxylic acids	Ethylmalonic acid	Ethylmalonic acid
+Dicarboxylic acids	Fumaric acid	Fumaric acid
+Dicarboxylic acids	Glutaric acid	Glutaric acid
+Dicarboxylic acids	Itaconic acid	Itaconic acid
+Dicarboxylic acids	Maleic acid	Maleic acid
+Dicarboxylic acids	Malic acid	Malic acid
+Dicarboxylic acids	Malonic acid	Malonic acid
+Dicarboxylic acids	Methylmalonic acid	Methylmalonic acid
+Dicarboxylic acids	Oxalic acid	Oxalic acid
+Dicarboxylic acids	Oxaloacetic acid	Oxaloacetic acid
+Dicarboxylic acids	Suberic acid	Suberic acid
+Dicarboxylic acids	Suc	Succinic acid
+Dicarboxylic acids	Z-3-Met-glutaconic acid	Z-3-Methylglutaconic acid
+Fatty acids	FA 2:0	Acetic acid
+Fatty acids	FA 3:0	Propanoic acid
+Fatty acids	FA 3:0-2M	Isobutyric acid
+Fatty acids	FA 4:0	Butyric acid
+Fatty acids	FA 4:0-2M	2-Methylbutyric acid
+Fatty acids	FA 4:0-3M	Isovaleric acid
+Fatty acids	FA 5:0	Valeric acid
+Fatty acids	FA 5:0-3M	3-Methylvaleric acid
+Fatty acids	FA 5:0-4M	Isocaproic acid
+Fatty acids	FA 6:0	Caproic acid
+Fatty acids	FA 7:0	Heptanoic acid
+Fatty acids	FA 8:0	Caprylic acid
+Fatty acids	FA 9:0	Nonanoic acid
+Fatty acids	FA 10:0	Capric acid
+Fatty acids	FA 11:0	Undecanoic acid
+Fatty acids	FA 12:0	Lauric acid
+Fatty acids	FA 14:0	Myristic acid
+Fatty acids	FA 14:1n-5	Myristoleic acid
+Fatty acids	FA 15:0	Pentadecanoic acid
+Fatty acids	FA 16:0	Palmitic acid
+Fatty acids	FA 16:1	Palmitoleic acid
+Fatty acids	FA 18:0	Stearic acid
+Fatty acids	FA 18:1	Oleic acid
+Fatty acids	FA 18:2	Linoleic acid
+Fatty acids	FA 18:3	Octadecatrienoic acid
+Fatty acids	FA 20:0	Arachidic acid
+Fatty acids	FA 20:1n-9	Gondoic acid
+Fatty acids	FA 20:2	Eicosadienoic acid
+Fatty acids	FA 20:3n-6	Dihomo-gamma-linolenic acid (omega6)
+Fatty acids	FA 20:3n-9	Mead acid
+Fatty acids	FA 20:4n-6 (AA)	Arachidonic acid (AA; omega6)
+Fatty acids	FA 20:5n-3 (EPA)	Eicosapentaenoic acid (EPA; omega3)
+Fatty acids	FA 22:0	Behenic acid
+Fatty acids	FA 22:4n-6	Docosatetraenoic acid (omega6)
+Fatty acids	FA 22:5n-3 (DPA)	"Docosapentaenoic acid (DPA, omega3)"
+Fatty acids	FA 22:6n-3 (DHA)	Docosahexaenoic acid (DHA; omega3)
+Fatty acids	FA 24:0	Lignoceric acid
+Fatty acids	FA 24:1n-9	Nervonic acid
+Fatty acids	FA 24:4n-6	Tetracosatetraenoic acid (omega6)
+Hormones and related	Cortisol	Cortisol
+Hormones and related	Cortisone	Cortisone
+Hormones and related	DHEAS	Dehydroepiandrosterone sulfate
+Hormones and related	T3	"3,3',5-Triiodothyronine (T3)"
+Hormones and related	T4	Thyroxine (T4)
+Indoles and derivatives	3-IAA	3-Indoleacetic acid
+Indoles and derivatives	3-IPA	3-Indolepropionic acid
+Indoles and derivatives	5-HIAA	5-Hydroxyindoleacetic acid
+Indoles and derivatives	IAG	Indolylacryloylglycine
+Indoles and derivatives	Indole-3-acetamide	Indole-3-acetamide
+Indoles and derivatives	Indole-3-carboxylic acid	Indole-3-carboxylic acid
+Indoles and derivatives	Indole-3-ethanol	Indole-3-ethanol
+Indoles and derivatives	Indole-3-methanol	Indole-3-methanol
+Indoles and derivatives	Indoleacetaldehyde	Indoleacetaldehyde
+Indoles and derivatives	Indoleacrylic acid	Indoleacrylic acid
+Indoles and derivatives	Indolealdehyde	Indolealdehyde
+Indoles and derivatives	Indole-Lac	Indolelactic acid
+Indoles and derivatives	Indolepyruvic acid	Indolepyruvic acid
+Indoles and derivatives	Indoxyl glucuronide	Indoxyl glucuronide
+Indoles and derivatives	Ind-SO4	Indoxyl sulfate
+Indoles and derivatives	Melatonin	Melatonin
+Indoles and derivatives	Met-IAA	Methylindole-3-acetic acid
+Indoles and derivatives	Met-IPA	Methylindole-3-propionic acid
+Nucleobases	Adenine	Adenine
+Nucleobases	Cytosine	Cytosine
+Nucleobases	Guanine	Guanine
+Nucleobases	Thymine	Thymine
+Nucleobases	Uracil	Uracil
+Nucleobase-related	Adenosine	Adenosine
+Nucleobase-related	AHCys	S-Adenosylhomocysteine
+Nucleobase-related	Cytidine	Cytidine
+Nucleobase-related	Deoxycytidine	Deoxycytidine
+Nucleobase-related	Deoxyguanosine	Deoxyguanosine
+Nucleobase-related	Guanosine	Guanosine
+Nucleobase-related	Hypoxanthine	Hypoxanthine
+Nucleobase-related	Inosine	Inosine
+Nucleobase-related	N-Ac-Cytidine	N4-Acetylcytidine
+Nucleobase-related	Orotic acid	Orotic acid
+Nucleobase-related	Thymidine	Thymidine
+Nucleobase-related	Uric acid	Uric acid
+Nucleobase-related	Uridine	Uridine
+Nucleobase-related	Xanthine	Xanthine
+Nucleotides	cAMP	"Adenosine monophosphate, cyclic (cAMP)"
+Nucleotides	cGMP	"Guanosine monophosphate, cyclic (cGMP)"
+Organic acids	"2,5-Furandicarboxylic acid"	"Furan-2,5-dicarboxylic acid"
+Organic acids	2-Met-HipAcid	2-Methylhippuric acid
+Organic acids	2-OH-2-Met-butyric acid	2-Hydroxy-2-methylbutyric acid
+Organic acids	2-OH-Isobutyric acid	2-Hydroxyisobutyric acid
+Organic acids	3-Guanidinopropionic acid	3-Guanidinopropionic acid
+Organic acids	3-OH-HipAcid	3-Hydroxyhippuric acid
+Organic acids	3-OH-Isobutyric acid	3-Hydroxyisobutyric acid
+Organic acids	4-OH-HipAcid	4-Hydroxyhippuric acid
+Organic acids	4-Quinolinecarboxylic acid	4-Quinolinecarboxylic acid
+Organic acids	Abscisic acid	Abscisic acid
+Organic acids	Argininic acid	Argininic acid
+Organic acids	Bilirubin	Bilirubin
+Organic acids	Biliverdin	Biliverdin
+Organic acids	CMPF	3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid
+Organic acids	Glyceric acid	Glyceric acid
+Organic acids	Nicotinuric acid	Nicotinuric acid
+Phenolic acids	2-OH-Benzoic acid	2-Hydroxybenzoic acid
+Phenolic acids	2-OH-Phenylacetic acid	2-Hydroxyphenylacetic acid
+Phenolic acids	3-(3-OH-Phenyl)propanoic acid	3-(3-Hydroxyphenyl)propanoic acid
+Phenolic acids	"3,5-DiOH-Benzoic acid"	"3,5-Dihydroxybenzoic acid"
+Phenolic acids	3-OH-Phenylacetic acid	3-Hydroxyphenylacetic acid
+Phenolic acids	3-OH-Phenylpyruvic acid	3-Hydroxyphenylpyruvic acid
+Phenolic acids	4-OH-Benzoic acid	4-Hydroxybenzoic acid
+Phenolic acids	4-OH-Phenylacetic acid	4-Hydroxyphenylacetic acid
+Phenolic acids	4-OH-Phenylpyruvic acid	4-Hydroxyphenylpyruvic acid
+Phenolic acids	Benzoic acid	Benzoic acid
+Phenolic acids	Desamino-Tyr	Desaminotyrosine
+Phenolic acids	DOPAC	"3,4-Dihydroxyphenylacetic acid"
+Phenolic acids	Homovanillic acid	Homovanillic acid
+Phenolic acids	HPHPA	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid
+Phenolic acids	OH-Phenyl-Lac	Hydroxyphenyllactic acid
+Phenolic acids	Phenylacetic acid	Phenylacetic acid
+Phenolic acids	Phenyl-Lac	Phenyllactic acid
+Phenolic acids	Phenylpyruvic acid	Phenylpyruvic acid
+Phenolic acids	t-p-Coumaric acid	trans-p-Coumaric acid
+Phenolic acids	Vanillactic acid	Vanillactic acid
+Phenolic acids	Vanillic acid	Vanillic acid
+Phenolic acids	Vanillylmandelic acid	Vanillylmandelic acid
+Phenoxy compounds	4-EPS	4-Ethylphenyl sulfate
+Phenoxy compounds	Phenylglucuronide	Phenylglucuronide
+Polyamines	Cadaverine	Cadaverine
+Polyamines	"N1,N8-Di-Ac-Spermidine"	"N1,N8-Diacetylspermidine"
+Polyamines	"N1,N12-Di-Ac-Spermine"	"N1,N12-Diacetylspermine"
+Polyamines	N1-Ac-Spermidine	N1-Acetylspermidine
+Polyamines	N1-Ac-Spermine	N1-Acetylspermine
+Polyamines	N8-Ac-Spermidine	N8-Acetylspermidine
+Polyamines	N-Ac-Putrescine	N-Acetylputrescine
+Pyridinecarboxylic acids	Isonicotinic acid	Isonicotinic acid
+Pyridinecarboxylic acids	Kynurenic acid	Kynurenic acid
+Pyridinecarboxylic acids	Picolinic acid	Picolinic acid
+Pyridinecarboxylic acids	Quinaldic acid	Quinaldic acid
+Pyridinecarboxylic acids	Quinolinic acid	Quinolinic acid
+Pyridinecarboxylic acids	Xanthurenic acid	Xanthurenic acid
+Sugars	3-Deoxyglucosone	3-Deoxyglucosone
+Sugars	Fructose	Fructose
+Sugars	Glucose	Glucose
+Sugars	Mannose	Mannose
+Sugars	NeuAc	Acetylneuraminic acid
+Sugars	Ribose	Ribose
+Sugars	Threonic acid	Threonic acid
+Tricarboxylic acids	AconAcid	Aconitic acid
+Tricarboxylic acids	Citric acid	Citric acid
+Tricarboxylic acids	Isocitric acid	Isocitric acid
+Vitamins and cofactors	Biotin (B7)	Biotin (B7)
+Vitamins and cofactors	Choline	Choline
+Vitamins and cofactors	Folic acid (B9)	Folic acid (B9)
+Vitamins and cofactors	Nicotinamide (B3)	Nicotinamide (B3)
+Vitamins and cofactors	Nicotinic acid (B3)	Nicotinic acid (B3)
+Vitamins and cofactors	Pantothenic acid (B5)	Pantothenic acid (B5)
+Vitamins and cofactors	PMP	Pyridoxamine 5'-phosphate
+Vitamins and cofactors	Pyridoxine (B6)	Pyridoxine (B6)
+Vitamins and cofactors	Riboflavin (B2)	Riboflavin (B2)
+Acylcarnitines	C0	Carnitine
+Acylcarnitines	C2	Acetylcarnitine
+Acylcarnitines	C3	Propionylcarnitine
+Acylcarnitines	C3-DC (C4-OH)	Malonylcarnitine (Hydroxybutyrylcarnitine)
+Acylcarnitines	C3-OH	Hydroxypropionylcarnitine
+Acylcarnitines	C3:1	Propenoylcarnitine
+Acylcarnitines	C4	Butyrylcarnitine
+Acylcarnitines	C4:1	Butenylcarnitine
+Acylcarnitines	C5	Valerylcarnitine
+Acylcarnitines	C5-DC (C6-OH)	Glutarylcarnitine (Hydroxyhexanoylcarnitine)
+Acylcarnitines	C5-M-DC	Methylglutarylcarnitine
+Acylcarnitines	C5-OH (C3-DC-M)	Hydroxyvalerylcarnitine (Methylmalonylcarnitine)
+Acylcarnitines	C5:1	Tiglylcarnitine
+Acylcarnitines	C5:1-DC	Glutaconylcarnitine
+Acylcarnitines	C10:1	Decenoylcarnitine
+Acylcarnitines	C10:2	Decadienoylcarnitine
+Acylcarnitines	C12	Dodecanoylcarnitine
+Acylcarnitines	C12-DC	Dodecanedioylcarnitine
+Acylcarnitines	C12:1	Dodecenoylcarnitine
+Acylcarnitines	C14	Tetradecanoylcarnitine
+Acylcarnitines	C14:1	Tetradecenoylcarnitine
+Acylcarnitines	C14:1-OH	Hydroxytetradecenoylcarnitine
+Acylcarnitines	C14:2	Tetradecadienoylcarnitine
+Acylcarnitines	C14:2-OH	Hydroxytetradecadienoylcarnitine
+Acylcarnitines	C16	Hexadecanoylcarnitine
+Acylcarnitines	C16-OH	Hydroxyhexadecanoylcarnitine
+Acylcarnitines	C16:1	Hexadecenoylcarnitine
+Acylcarnitines	C16:1-OH	Hydroxyhexadecenoylcarnitine
+Acylcarnitines	C6 (C4:1-DC)	Hexanoylcarnitine (Fumarylcarnitine)
+Acylcarnitines	C6:1	Hexenoylcarnitine
+Acylcarnitines	C7-DC	Pimeloylcarnitine
+Acylcarnitines	C8	Octanoylcarnitine
+Acylcarnitines	C9	Nonanoylcarnitine
+Acylcarnitines	C10	Decanoylcarnitine
+Acylcarnitines	C16:2	Hexadecadienoylcarnitine
+Acylcarnitines	C16:2-OH	Hydroxyhexadecadienoylcarnitine
+Acylcarnitines	C18	Octadecanoylcarnitine
+Acylcarnitines	C18:1	Octadecenoylcarnitine
+Acylcarnitines	C18:1-OH	Hydroxyoctadecenoylcarnitine
+Acylcarnitines	C18:2	Octadecadienoylcarnitine
+Ceramides	Cer d16:1/18:0	Cer d16:1/18:0
+Ceramides	Cer d16:1/20:0	Cer d16:1/20:0
+Ceramides	Cer d16:1/22:0	Cer d16:1/22:0
+Ceramides	Cer d16:1/23:0	Cer d16:1/23:0
+Ceramides	Cer d16:1/24:0	Cer d16:1/24:0
+Ceramides	Cer d18:1/14:0	Cer d18:1/14:0
+Ceramides	Cer d18:1/16:0	Cer d18:1/16:0
+Ceramides	Cer d18:1/18:0-OH	Cer d18:1/18:0-OH
+Ceramides	Cer d18:1/18:0	Cer d18:1/18:0
+Ceramides	Cer d18:1/18:1	Cer d18:1/18:1
+Ceramides	Cer d18:1/20:0-OH	Cer d18:1/20:0-OH
+Ceramides	Cer d18:1/20:0	Cer d18:1/20:0
+Ceramides	Cer d18:1/22:0	Cer d18:1/22:0
+Ceramides	Cer d18:1/23:0	Cer d18:1/23:0
+Ceramides	Cer d18:1/24:0	Cer d18:1/24:0
+Ceramides	Cer d18:1/24:1	Cer d18:1/24:1
+Ceramides	Cer d18:1/25:0	Cer d18:1/25:0
+Ceramides	Cer d18:1/26:0	Cer d18:1/26:0
+Ceramides	Cer d18:1/26:1	Cer d18:1/26:1
+Ceramides	Cer d18:2/14:0	Cer d18:2/14:0
+Ceramides	Cer d18:2/16:0	Cer d18:2/16:0
+Ceramides	Cer d18:2/18:0	Cer d18:2/18:0
+Ceramides	Cer d18:2/18:1	Cer d18:2/18:1
+Ceramides	Cer d18:2/20:0	Cer d18:2/20:0
+Ceramides	Cer d18:2/22:0	Cer d18:2/22:0
+Ceramides	Cer d18:2/23:0	Cer d18:2/23:0
+Ceramides	Cer d18:2/24:0	Cer d18:2/24:0
+Ceramides	Cer d18:2/24:1	Cer d18:2/24:1
+Ceramides	CerP d18:1/16:0	CerP d18:1/16:0
+Cholesteryl esters	CE 14:0	CE 14:0
+Cholesteryl esters	CE 14:1	CE 14:1
+Cholesteryl esters	CE 15:0	CE 15:0
+Cholesteryl esters	CE 15:1	CE 15:1
+Cholesteryl esters	CE 16:0	CE 16:0
+Cholesteryl esters	CE 16:1	CE 16:1
+Cholesteryl esters	CE 17:0	CE 17:0
+Cholesteryl esters	CE 17:1	CE 17:1
+Cholesteryl esters	CE 18:0	CE 18:0
+Cholesteryl esters	CE 18:1	CE 18:1
+Cholesteryl esters	CE 18:2	CE 18:2
+Cholesteryl esters	CE 18:3	CE 18:3
+Cholesteryl esters	CE 20:0	CE 20:0
+Cholesteryl esters	CE 20:1	CE 20:1
+Cholesteryl esters	CE 20:3	CE 20:3
+Cholesteryl esters	CE 20:4	CE 20:4
+Cholesteryl esters	CE 20:5	CE 20:5
+Cholesteryl esters	CE 22:0	CE 22:0
+Cholesteryl esters	CE 22:1	CE 22:1
+Cholesteryl esters	CE 22:2	CE 22:2
+Cholesteryl esters	CE 22:5	CE 22:5
+Cholesteryl esters	CE 22:6	CE 22:6
+Diglycerides	DG 14:0_14:0	DG 14:0_14:0
+Diglycerides	DG 14:0_18:1	DG 14:0_18:1
+Diglycerides	DG 14:0_18:2	DG 14:0_18:2
+Diglycerides	DG 14:0_20:0	DG 14:0_20:0
+Diglycerides	DG 14:1_18:1	DG 14:1_18:1
+Diglycerides	DG 14:1_20:2	DG 14:1_20:2
+Diglycerides	DG 16:0_16:0	DG 16:0_16:0
+Diglycerides	DG 16:0_16:1	DG 16:0_16:1
+Diglycerides	DG 16:0_18:1	DG 16:0_18:1
+Diglycerides	DG 16:0_18:2	DG 16:0_18:2
+Diglycerides	DG 16:0_20:0	DG 16:0_20:0
+Diglycerides	DG 16:0_20:3	DG 16:0_20:3
+Diglycerides	DG 16:0_20:4	DG 16:0_20:4
+Diglycerides	DG 16:1_18:0	DG 16:1_18:0
+Diglycerides	DG 16:1_18:1	DG 16:1_18:1
+Diglycerides	DG 16:1_18:2	DG 16:1_18:2
+Diglycerides	DG 16:1_20:0	DG 16:1_20:0
+Diglycerides	DG 17:0_18:1	DG 17:0_18:1
+Diglycerides	DG 18:0_20:4	DG 18:0_20:4
+Diglycerides	DG 18:1_18:1	DG 18:1_18:1
+Diglycerides	DG 18:1_18:2	DG 18:1_18:2
+Diglycerides	DG 18:1_18:3	DG 18:1_18:3
+Diglycerides	DG 18:1_18:4	DG 18:1_18:4
+Diglycerides	DG 18:1_20:0	DG 18:1_20:0
+Diglycerides	DG 18:1_20:1	DG 18:1_20:1
+Diglycerides	DG 18:1_20:2	DG 18:1_20:2
+Diglycerides	DG 18:1_20:3	DG 18:1_20:3
+Diglycerides	DG 18:1_20:4	DG 18:1_20:4
+Diglycerides	DG 18:1_22:5	DG 18:1_22:5
+Diglycerides	DG 18:1_22:6	DG 18:1_22:6
+Diglycerides	DG 18:2_18:2	DG 18:2_18:2
+Diglycerides	DG 18:2_18:3	DG 18:2_18:3
+Diglycerides	DG 18:2_18:4	DG 18:2_18:4
+Diglycerides	DG 18:2_20:0	DG 18:2_20:0
+Diglycerides	DG 18:2_20:4	DG 18:2_20:4
+Diglycerides	DG 18:3_18:3	DG 18:3_18:3
+Diglycerides	DG 18:3_20:2	DG 18:3_20:2
+Diglycerides	DG 21:0_22:6	DG 21:0_22:6
+Diglycerides	DG 22:1_22:2	DG 22:1_22:2
+Diglycerides	DG O-14:0_18:2	DG O-14:0_18:2
+Diglycerides	DG O-16:0_18:1	DG O-16:0_18:1
+Diglycerides	DG O-18:2_18:2	DG O-18:2_18:2
+Dihexosylceramides	Hex2Cer d18:1/14:0	Hex2Cer d18:1/14:0
+Dihexosylceramides	Hex2Cer d18:1/16:0	Hex2Cer d18:1/16:0
+Dihexosylceramides	Hex2Cer d18:1/18:0	Hex2Cer d18:1/18:0
+Dihexosylceramides	Hex2Cer d18:1/20:0	Hex2Cer d18:1/20:0
+Dihexosylceramides	Hex2Cer d18:1/22:0	Hex2Cer d18:1/22:0
+Dihexosylceramides	Hex2Cer d18:1/24:0	Hex2Cer d18:1/24:0
+Dihexosylceramides	Hex2Cer d18:1/24:1	Hex2Cer d18:1/24:1
+Dihexosylceramides	Hex2Cer d18:1/26:0	Hex2Cer d18:1/26:0
+Dihexosylceramides	Hex2Cer d18:1/26:1	Hex2Cer d18:1/26:1
+Dihydroceramides	Cer d18:0/18:0-OH	Cer d18:0/18:0-OH
+Dihydroceramides	Cer d18:0/18:0	Cer d18:0/18:0
+Dihydroceramides	Cer d18:0/20:0	Cer d18:0/20:0
+Dihydroceramides	Cer d18:0/22:0	Cer d18:0/22:0
+Dihydroceramides	Cer d18:0/24:0	Cer d18:0/24:0
+Dihydroceramides	Cer d18:0/24:1	Cer d18:0/24:1
+Dihydroceramides	Cer d18:0/26:1-OH	Cer d18:0/26:1-OH
+Dihydroceramides	Cer d18:0/26:1	Cer d18:0/26:1
+Hexosylceramides	Hex-Cer d16:1/20:0	Hex-Cer d16:1/20:0
+Hexosylceramides	Hex-Cer d16:1/22:0	Hex-Cer d16:1/22:0
+Hexosylceramides	Hex-Cer d16:1/24:0	Hex-Cer d16:1/24:0
+Hexosylceramides	Hex-Cer d18:1/14:0	Hex-Cer d18:1/14:0
+Hexosylceramides	Hex-Cer d18:1/16:0	Hex-Cer d18:1/16:0
+Hexosylceramides	Hex-Cer d18:1/18:0	Hex-Cer d18:1/18:0
+Hexosylceramides	Hex-Cer d18:1/18:1	Hex-Cer d18:1/18:1
+Hexosylceramides	Hex-Cer d18:1/20:0	Hex-Cer d18:1/20:0
+Hexosylceramides	Hex-Cer d18:1/22:0	Hex-Cer d18:1/22:0
+Hexosylceramides	Hex-Cer d18:1/23:0	Hex-Cer d18:1/23:0
+Hexosylceramides	Hex-Cer d18:1/24:0	Hex-Cer d18:1/24:0
+Hexosylceramides	Hex-Cer d18:1/24:1	Hex-Cer d18:1/24:1
+Hexosylceramides	Hex-Cer d18:1/26:0	Hex-Cer d18:1/26:0
+Hexosylceramides	Hex-Cer d18:1/26:1	Hex-Cer d18:1/26:1
+Hexosylceramides	Hex-Cer d18:2/16:0	Hex-Cer d18:2/16:0
+Hexosylceramides	Hex-Cer d18:2/18:0	Hex-Cer d18:2/18:0
+Hexosylceramides	Hex-Cer d18:2/20:0	Hex-Cer d18:2/20:0
+Hexosylceramides	Hex-Cer d18:2/22:0	Hex-Cer d18:2/22:0
+Hexosylceramides	Hex-Cer d18:2/23:0	Hex-Cer d18:2/23:0
+Hexosylceramides	Hex-Cer d18:2/24:0	Hex-Cer d18:2/24:0
+Lysophosphatidic acids	LPA 14:0	LPA 14:0
+Lysophosphatidic acids	LPA 14:1	LPA 14:1
+Lysophosphatidic acids	LPA 15:0	LPA 15:0
+Lysophosphatidic acids	LPA 16:0	LPA 16:0
+Lysophosphatidic acids	LPA 18:1	LPA 18:1
+Lysophosphatidic acids	LPA 18:2	LPA 18:2
+Lysophosphatidic acids	LPA 22:3	LPA 22:3
+Lysophosphatidic acids	LPA 22:4	LPA 22:4
+Lysophosphatidylcholines	LPC 14:0	LPC 14:0
+Lysophosphatidylcholines	LPC 16:0	LPC 16:0
+Lysophosphatidylcholines	LPC 16:1	LPC 16:1
+Lysophosphatidylcholines	LPC 17:0	LPC 17:0
+Lysophosphatidylcholines	LPC 18:0	LPC 18:0
+Lysophosphatidylcholines	LPC 18:1	LPC 18:1
+Lysophosphatidylcholines	LPC 18:2	LPC 18:2
+Lysophosphatidylcholines	LPC 20:3	LPC 20:3
+Lysophosphatidylcholines	LPC 20:4	LPC 20:4
+Lysophosphatidylcholines	LPC 24:0	LPC 24:0
+Lysophosphatidylcholines	LPC 26:0	LPC 26:0
+Lysophosphatidylcholines	LPC 26:1	LPC 26:1
+Lysophosphatidylethanolamines	LPE 12:0	LPE 12:0
+Lysophosphatidylethanolamines	LPE 14:0	LPE 14:0
+Lysophosphatidylethanolamines	LPE 14:1	LPE 14:1
+Lysophosphatidylethanolamines	LPE 15:0	LPE 15:0
+Lysophosphatidylethanolamines	LPE 16:0	LPE 16:0
+Lysophosphatidylethanolamines	LPE 16:1	LPE 16:1
+Lysophosphatidylethanolamines	LPE 17:0	LPE 17:0
+Lysophosphatidylethanolamines	LPE 17:1	LPE 17:1
+Lysophosphatidylethanolamines	LPE 18:0	LPE 18:0
+Lysophosphatidylethanolamines	LPE 18:1	LPE 18:1
+Lysophosphatidylethanolamines	LPE 18:2	LPE 18:2
+Lysophosphatidylethanolamines	LPE 18:3	LPE 18:3
+Lysophosphatidylethanolamines	LPE 19:0	LPE 19:0
+Lysophosphatidylethanolamines	LPE 19:1	LPE 19:1
+Lysophosphatidylethanolamines	LPE 19:2	LPE 19:2
+Lysophosphatidylethanolamines	LPE 20:0	LPE 20:0
+Lysophosphatidylethanolamines	LPE 20:1	LPE 20:1
+Lysophosphatidylethanolamines	LPE 20:2	LPE 20:2
+Lysophosphatidylethanolamines	LPE 20:3	LPE 20:3
+Lysophosphatidylethanolamines	LPE 20:4	LPE 20:4
+Lysophosphatidylethanolamines	LPE 20:5	LPE 20:5
+Lysophosphatidylethanolamines	LPE 22:0	LPE 22:0
+Lysophosphatidylethanolamines	LPE 22:1	LPE 22:1
+Lysophosphatidylethanolamines	LPE 22:4	LPE 22:4
+Lysophosphatidylethanolamines	LPE 22:5	LPE 22:5
+Lysophosphatidylethanolamines	LPE 22:6	LPE 22:6
+Lysophosphatidylethanolamines	LPE 24:0	LPE 24:0
+Lysophosphatidylethanolamines	LPE P-14:0	LPE P-14:0
+Lysophosphatidylethanolamines	LPE P-15:0	LPE P-15:0
+Lysophosphatidylethanolamines	LPE P-16:0	LPE P-16:0
+Lysophosphatidylethanolamines	LPE P-17:0	LPE P-17:0
+Lysophosphatidylethanolamines	LPE P-18:0	LPE P-18:0
+Lysophosphatidylethanolamines	LPE P-18:1	LPE P-18:1
+Lysophosphatidylethanolamines	LPE P-18:2	LPE P-18:2
+Lysophosphatidylethanolamines	LPE P-20:0	LPE P-20:0
+Lysophosphatidylethanolamines	LPE P-20:1	LPE P-20:1
+Lysophosphatidylethanolamines	LPE P-20:4	LPE P-20:4
+Lysophosphatidylethanolamines	LPE P-20:5	LPE P-20:5
+Lysophosphatidylethanolamines	LPE P-22:0	LPE P-22:0
+Lysophosphatidylethanolamines	LPE P-22:1	LPE P-22:1
+Lysophosphatidylethanolamines	LPE P-22:4	LPE P-22:4
+Lysophosphatidylethanolamines	LPE P-22:5	LPE P-22:5
+Lysophosphatidylethanolamines	LPE P-22:6	LPE P-22:6
+Lysophosphatidylglycerols	LPG 14:0	LPG 14:0
+Lysophosphatidylglycerols	LPG 14:1	LPG 14:1
+Lysophosphatidylglycerols	LPG 16:0	LPG 16:0
+Lysophosphatidylglycerols	LPG 16:1	LPG 16:1
+Lysophosphatidylglycerols	LPG 17:0	LPG 17:0
+Lysophosphatidylglycerols	LPG 17:1	LPG 17:1
+Lysophosphatidylglycerols	LPG 18:0	LPG 18:0
+Lysophosphatidylglycerols	LPG 18:1	LPG 18:1
+Lysophosphatidylglycerols	LPG 18:2	LPG 18:2
+Lysophosphatidylglycerols	LPG 20:1	LPG 20:1
+Lysophosphatidylinositols	LPI 14:0	LPI 14:0
+Lysophosphatidylinositols	LPI 14:1	LPI 14:1
+Lysophosphatidylinositols	LPI 16:0	LPI 16:0
+Lysophosphatidylinositols	LPI 16:1	LPI 16:1
+Lysophosphatidylinositols	LPI 17:0	LPI 17:0
+Lysophosphatidylinositols	LPI 17:1	LPI 17:1
+Lysophosphatidylinositols	LPI 18:0	LPI 18:0
+Lysophosphatidylinositols	LPI 18:1	LPI 18:1
+Lysophosphatidylinositols	LPI 18:2	LPI 18:2
+Lysophosphatidylinositols	LPI 18:3	LPI 18:3
+Lysophosphatidylinositols	LPI 19:0	LPI 19:0
+Lysophosphatidylinositols	LPI 20:1	LPI 20:1
+Lysophosphatidylinositols	LPI 20:4	LPI 20:4
+Lysophosphatidylinositols	LPI 22:0	LPI 22:0
+Lysophosphatidylinositols	LPI 22:1	LPI 22:1
+Lysophosphatidylserines	LPS 16:0	LPS 16:0
+Lysophosphatidylserines	LPS 16:1	LPS 16:1
+Lysophosphatidylserines	LPS 18:0	LPS 18:0
+Lysophosphatidylserines	LPS 18:1	LPS 18:1
+Lysophosphatidylserines	LPS 18:2	LPS 18:2
+Lysophosphatidylserines	LPS 18:3	LPS 18:3
+Lysophosphatidylserines	LPS 20:0	LPS 20:0
+Lysophosphatidylserines	LPS 20:1	LPS 20:1
+Lysophosphatidylserines	LPS 20:4	LPS 20:4
+Lysophosphatidylserines	LPS 20:5	LPS 20:5
+Lysophosphatidylserines	LPS 22:0	LPS 22:0
+Lysophosphatidylserines	LPS 22:6	LPS 22:6
+Monoglycerides	MG 16:1	MG 16:1
+Monoglycerides	MG 18:1	MG 18:1
+Monoglycerides	MG 18:2	MG 18:2
+Monoglycerides	MG 18:3	MG 18:3
+Monoglycerides	MG 20:1	MG 20:1
+Monoglycerides	MG 20:3	MG 20:3
+Monoglycerides	MG 20:4	MG 20:4
+Monoglycerides	MG 20:5	MG 20:5
+Monoglycerides	MG 22:1	MG 22:1
+Monoglycerides	MG 22:2	MG 22:2
+Monoglycerides	MG 22:4	MG 22:4
+Monoglycerides	MG 22:6	MG 22:6
+Phosphatidic acids	PA 14:0_14:1	PA 14:0_14:1
+Phosphatidic acids	PA 16:0_18:1	PA 16:0_18:1
+Phosphatidic acids	PA 16:0_18:2	PA 16:0_18:2
+Phosphatidic acids	PA 16:0_18:3	PA 16:0_18:3
+Phosphatidic acids	PA 16:0_19:2	PA 16:0_19:2
+Phosphatidic acids	PA 16:1_18:1	PA 16:1_18:1
+Phosphatidic acids	PA 16:1_18:2	PA 16:1_18:2
+Phosphatidic acids	PA 16:1_22:0	PA 16:1_22:0
+Phosphatidic acids	PA 16:2_18:1	PA 16:2_18:1
+Phosphatidic acids	PA 17:0_18:1	PA 17:0_18:1
+Phosphatidic acids	PA 17:0_18:2	PA 17:0_18:2
+Phosphatidic acids	PA 17:0_18:3	PA 17:0_18:3
+Phosphatidic acids	PA 17:1_18:1	PA 17:1_18:1
+Phosphatidic acids	PA 17:1_18:2	PA 17:1_18:2
+Phosphatidic acids	PA 17:2_18:1	PA 17:2_18:1
+Phosphatidic acids	PA 18:0_18:1	PA 18:0_18:1
+Phosphatidic acids	PA 18:0_18:2	PA 18:0_18:2
+Phosphatidic acids	PA 18:0_18:3	PA 18:0_18:3
+Phosphatidic acids	PA 18:1_18:1	PA 18:1_18:1
+Phosphatidic acids	PA 18:1_18:2	PA 18:1_18:2
+Phosphatidic acids	PA 18:1_18:3	PA 18:1_18:3
+Phosphatidic acids	PA 18:1_18:4	PA 18:1_18:4
+Phosphatidic acids	PA 18:1_20:0	PA 18:1_20:0
+Phosphatidic acids	PA 18:1_20:1	PA 18:1_20:1
+Phosphatidic acids	PA 18:1_20:2	PA 18:1_20:2
+Phosphatidic acids	PA 18:1_20:3	PA 18:1_20:3
+Phosphatidic acids	PA 18:1_22:0	PA 18:1_22:0
+Phosphatidic acids	PA 18:1_22:1	PA 18:1_22:1
+Phosphatidic acids	PA 18:1_22:2	PA 18:1_22:2
+Phosphatidic acids	PA 18:1_22:3	PA 18:1_22:3
+Phosphatidic acids	PA 18:2_18:2	PA 18:2_18:2
+Phosphatidic acids	PA 18:2_18:3	PA 18:2_18:3
+Phosphatidic acids	PA 18:2_20:0	PA 18:2_20:0
+Phosphatidic acids	PA 18:2_20:1	PA 18:2_20:1
+Phosphatidic acids	PA 18:2_20:2	PA 18:2_20:2
+Phosphatidic acids	PA 18:2_22:0	PA 18:2_22:0
+Phosphatidic acids	PA 18:2_22:1	PA 18:2_22:1
+Phosphatidic acids	PA 18:2_22:3	PA 18:2_22:3
+Phosphatidic acids	PA 18:2_22:4	PA 18:2_22:4
+Phosphatidic acids	PA 18:3_18:3	PA 18:3_18:3
+Phosphatidic acids	PA 20:0_20:4	PA 20:0_20:4
+Phosphatidylcholines	PC 24:0	PC 24:0
+Phosphatidylcholines	PC 26:0	PC 26:0
+Phosphatidylcholines	PC 28:1	PC 28:1
+Phosphatidylcholines	PC 30:0	PC 30:0
+Phosphatidylcholines	PC 32:0	PC 32:0
+Phosphatidylcholines	PC 32:1	PC 32:1
+Phosphatidylcholines	PC 32:2	PC 32:2
+Phosphatidylcholines	PC 32:3	PC 32:3
+Phosphatidylcholines	PC 34:1	PC 34:1
+Phosphatidylcholines	PC 34:2	PC 34:2
+Phosphatidylcholines	PC 34:3	PC 34:3
+Phosphatidylcholines	PC 34:4	PC 34:4
+Phosphatidylcholines	PC 36:0	PC 36:0
+Phosphatidylcholines	PC 36:1	PC 36:1
+Phosphatidylcholines	PC 36:2	PC 36:2
+Phosphatidylcholines	PC 36:3	PC 36:3
+Phosphatidylcholines	PC 36:4	PC 36:4
+Phosphatidylcholines	PC 36:5	PC 36:5
+Phosphatidylcholines	PC 36:6	PC 36:6
+Phosphatidylcholines	PC 38:0	PC 38:0
+Phosphatidylcholines	PC 38:3	PC 38:3
+Phosphatidylcholines	PC 38:4	PC 38:4
+Phosphatidylcholines	PC 38:5	PC 38:5
+Phosphatidylcholines	PC 38:6	PC 38:6
+Phosphatidylcholines	PC 40:1	PC 40:1
+Phosphatidylcholines	PC 40:2	PC 40:2
+Phosphatidylcholines	PC 40:3	PC 40:3
+Phosphatidylcholines	PC 40:4	PC 40:4
+Phosphatidylcholines	PC 40:5	PC 40:5
+Phosphatidylcholines	PC 40:6	PC 40:6
+Phosphatidylcholines	PC 42:0	PC 42:0
+Phosphatidylcholines	PC 42:1	PC 42:1
+Phosphatidylcholines	PC 42:2	PC 42:2
+Phosphatidylcholines	PC 42:4	PC 42:4
+Phosphatidylcholines	PC 42:5	PC 42:5
+Phosphatidylcholines	PC 42:6	PC 42:6
+Phosphatidylcholines	PC O-28:0	PC O-28:0
+Phosphatidylcholines	PC O-28:1	PC O-28:1
+Phosphatidylcholines	PC O-30:0	PC O-30:0
+Phosphatidylcholines	PC O-30:1	PC O-30:1
+Phosphatidylcholines	PC O-30:2	PC O-30:2
+Phosphatidylcholines	PC O-32:1	PC O-32:1
+Phosphatidylcholines	PC O-32:2	PC O-32:2
+Phosphatidylcholines	PC O-34:0	PC O-34:0
+Phosphatidylcholines	PC O-34:1	PC O-34:1
+Phosphatidylcholines	PC O-34:2	PC O-34:2
+Phosphatidylcholines	PC O-34:3	PC O-34:3
+Phosphatidylcholines	PC O-36:0	PC O-36:0
+Phosphatidylcholines	PC O-36:1	PC O-36:1
+Phosphatidylcholines	PC O-36:2	PC O-36:2
+Phosphatidylcholines	PC O-36:3	PC O-36:3
+Phosphatidylcholines	PC O-36:4	PC O-36:4
+Phosphatidylcholines	PC O-36:5	PC O-36:5
+Phosphatidylcholines	PC O-38:0	PC O-38:0
+Phosphatidylcholines	PC O-38:1	PC O-38:1
+Phosphatidylcholines	PC O-38:2	PC O-38:2
+Phosphatidylcholines	PC O-38:3	PC O-38:3
+Phosphatidylcholines	PC O-38:4	PC O-38:4
+Phosphatidylcholines	PC O-38:5	PC O-38:5
+Phosphatidylcholines	PC O-38:6	PC O-38:6
+Phosphatidylcholines	PC O-40:1	PC O-40:1
+Phosphatidylcholines	PC O-40:2	PC O-40:2
+Phosphatidylcholines	PC O-40:3	PC O-40:3
+Phosphatidylcholines	PC O-40:4	PC O-40:4
+Phosphatidylcholines	PC O-40:5	PC O-40:5
+Phosphatidylcholines	PC O-40:6	PC O-40:6
+Phosphatidylcholines	PC O-42:0	PC O-42:0
+Phosphatidylcholines	PC O-42:1	PC O-42:1
+Phosphatidylcholines	PC O-42:2	PC O-42:2
+Phosphatidylcholines	PC O-42:3	PC O-42:3
+Phosphatidylcholines	PC O-42:4	PC O-42:4
+Phosphatidylcholines	PC O-42:5	PC O-42:5
+Phosphatidylcholines	PC O-44:3	PC O-44:3
+Phosphatidylcholines	PC O-44:4	PC O-44:4
+Phosphatidylcholines	PC O-44:5	PC O-44:5
+Phosphatidylcholines	PC O-44:6	PC O-44:6
+Phosphatidylethanolamines	PE 20:0	PE 20:0
+Phosphatidylethanolamines	PE 28:0	PE 28:0
+Phosphatidylethanolamines	PE 28:1	PE 28:1
+Phosphatidylethanolamines	PE 30:0	PE 30:0
+Phosphatidylethanolamines	PE 30:1	PE 30:1
+Phosphatidylethanolamines	PE 31:0	PE 31:0
+Phosphatidylethanolamines	PE 32:0	PE 32:0
+Phosphatidylethanolamines	PE 32:1	PE 32:1
+Phosphatidylethanolamines	PE 32:2	PE 32:2
+Phosphatidylethanolamines	PE 33:0	PE 33:0
+Phosphatidylethanolamines	PE 33:1	PE 33:1
+Phosphatidylethanolamines	PE 33:2	PE 33:2
+Phosphatidylethanolamines	PE 34:0	PE 34:0
+Phosphatidylethanolamines	PE 34:1	PE 34:1
+Phosphatidylethanolamines	PE 34:2	PE 34:2
+Phosphatidylethanolamines	PE 34:3	PE 34:3
+Phosphatidylethanolamines	PE 34:4	PE 34:4
+Phosphatidylethanolamines	PE 35:1	PE 35:1
+Phosphatidylethanolamines	PE 35:2	PE 35:2
+Phosphatidylethanolamines	PE 35:3	PE 35:3
+Phosphatidylethanolamines	PE 36:0	PE 36:0
+Phosphatidylethanolamines	PE 36:1	PE 36:1
+Phosphatidylethanolamines	PE 36:2	PE 36:2
+Phosphatidylethanolamines	PE 36:3	PE 36:3
+Phosphatidylethanolamines	PE 36:4	PE 36:4
+Phosphatidylethanolamines	PE 36:5	PE 36:5
+Phosphatidylethanolamines	PE 36:6	PE 36:6
+Phosphatidylethanolamines	PE 38:0	PE 38:0
+Phosphatidylethanolamines	PE 38:1	PE 38:1
+Phosphatidylethanolamines	PE 38:2	PE 38:2
+Phosphatidylethanolamines	PE 38:3	PE 38:3
+Phosphatidylethanolamines	PE 38:4	PE 38:4
+Phosphatidylethanolamines	PE 38:5	PE 38:5
+Phosphatidylethanolamines	PE 38:6	PE 38:6
+Phosphatidylethanolamines	PE 38:7	PE 38:7
+Phosphatidylethanolamines	PE 40:1	PE 40:1
+Phosphatidylethanolamines	PE 40:3	PE 40:3
+Phosphatidylethanolamines	PE 40:4	PE 40:4
+Phosphatidylethanolamines	PE 40:5	PE 40:5
+Phosphatidylethanolamines	PE 40:6	PE 40:6
+Phosphatidylethanolamines	PE 40:7	PE 40:7
+Phosphatidylethanolamines	PE 40:8	PE 40:8
+Phosphatidylethanolamines	PE 42:7	PE 42:7
+Phosphatidylethanolamines	PE 42:8	PE 42:8
+Phosphatidylethanolamines	PE 44:11	PE 44:11
+Phosphatidylethanolamines	PE 44:12	PE 44:12
+Phosphatidylethanolamines	PE 44:6	PE 44:6
+Phosphatidylethanolamines	PE 44:7	PE 44:7
+Phosphatidylethanolamines	PE P-16:0/14:0	PE P-16:0/14:0
+Phosphatidylethanolamines	PE P-16:0/15:0	PE P-16:0/15:0
+Phosphatidylethanolamines	PE P-16:0/16:0	PE P-16:0/16:0
+Phosphatidylethanolamines	PE P-16:0/16:1	PE P-16:0/16:1
+Phosphatidylethanolamines	PE P-16:0/18:1	PE P-16:0/18:1
+Phosphatidylethanolamines	PE P-16:0/18:2	PE P-16:0/18:2
+Phosphatidylethanolamines	PE P-16:0/18:3	PE P-16:0/18:3
+Phosphatidylethanolamines	PE P-16:0/20:3	PE P-16:0/20:3
+Phosphatidylethanolamines	PE P-16:0/20:4	PE P-16:0/20:4
+Phosphatidylethanolamines	PE P-16:0/20:5	PE P-16:0/20:5
+Phosphatidylethanolamines	PE P-16:0/22:4	PE P-16:0/22:4
+Phosphatidylethanolamines	PE P-16:0/22:5	PE P-16:0/22:5
+Phosphatidylethanolamines	PE P-16:0/22:6	PE P-16:0/22:6
+Phosphatidylethanolamines	PE P-18:0/14:0	PE P-18:0/14:0
+Phosphatidylethanolamines	PE P-18:0/16:0	PE P-18:0/16:0
+Phosphatidylethanolamines	PE P-18:0/16:1	PE P-18:0/16:1
+Phosphatidylethanolamines	PE P-18:0/17:1	PE P-18:0/17:1
+Phosphatidylethanolamines	PE P-18:0/18:0	PE P-18:0/18:0
+Phosphatidylethanolamines	PE P-18:0/18:1	PE P-18:0/18:1
+Phosphatidylethanolamines	PE P-18:0/18:2	PE P-18:0/18:2
+Phosphatidylethanolamines	PE P-18:0/18:3	PE P-18:0/18:3
+Phosphatidylethanolamines	PE P-18:0/19:1	PE P-18:0/19:1
+Phosphatidylethanolamines	PE P-18:0/20:1	PE P-18:0/20:1
+Phosphatidylethanolamines	PE P-18:0/20:2	PE P-18:0/20:2
+Phosphatidylethanolamines	PE P-18:0/20:3	PE P-18:0/20:3
+Phosphatidylethanolamines	PE P-18:0/20:4	PE P-18:0/20:4
+Phosphatidylethanolamines	PE P-18:0/20:5	PE P-18:0/20:5
+Phosphatidylethanolamines	PE P-18:0/22:1	PE P-18:0/22:1
+Phosphatidylethanolamines	PE P-18:0/22:2	PE P-18:0/22:2
+Phosphatidylethanolamines	PE P-18:0/22:3	PE P-18:0/22:3
+Phosphatidylethanolamines	PE P-18:0/22:4	PE P-18:0/22:4
+Phosphatidylethanolamines	PE P-18:0/22:5	PE P-18:0/22:5
+Phosphatidylethanolamines	PE P-18:0/22:6	PE P-18:0/22:6
+Phosphatidylethanolamines	PE P-18:1/18:1	PE P-18:1/18:1
+Phosphatidylethanolamines	PE P-18:1/18:2	PE P-18:1/18:2
+Phosphatidylethanolamines	PE P-18:1/20:4	PE P-18:1/20:4
+Phosphatidylethanolamines	PE P-18:1/20:5	PE P-18:1/20:5
+Phosphatidylethanolamines	PE P-18:1/22:6	PE P-18:1/22:6
+Phosphatidylethanolamines	PE P-20:0/14:0	PE P-20:0/14:0
+Phosphatidylethanolamines	PE P-20:0/16:0	PE P-20:0/16:0
+Phosphatidylethanolamines	PE P-20:0/16:1	PE P-20:0/16:1
+Phosphatidylethanolamines	PE P-20:0/17:1	PE P-20:0/17:1
+Phosphatidylethanolamines	PE P-20:0/18:1	PE P-20:0/18:1
+Phosphatidylethanolamines	PE P-20:0/18:2	PE P-20:0/18:2
+Phosphatidylethanolamines	PE P-20:0/20:0	PE P-20:0/20:0
+Phosphatidylethanolamines	PE P-20:0/20:4	PE P-20:0/20:4
+Phosphatidylethanolamines	PE P-20:0/20:5	PE P-20:0/20:5
+Phosphatidylglycerols	PG 14:0_16:0	PG 14:0_16:0
+Phosphatidylglycerols	PG 15:0_18:1	PG 15:0_18:1
+Phosphatidylglycerols	PG 16:0_16:0	PG 16:0_16:0
+Phosphatidylglycerols	PG 16:0_16:1	PG 16:0_16:1
+Phosphatidylglycerols	PG 16:0_18:1	PG 16:0_18:1
+Phosphatidylglycerols	PG 16:0_18:2	PG 16:0_18:2
+Phosphatidylglycerols	PG 16:0_18:3	PG 16:0_18:3
+Phosphatidylglycerols	PG 16:0_19:1	PG 16:0_19:1
+Phosphatidylglycerols	PG 16:0_20:3	PG 16:0_20:3
+Phosphatidylglycerols	PG 16:0_20:4	PG 16:0_20:4
+Phosphatidylglycerols	PG 16:0_20:5	PG 16:0_20:5
+Phosphatidylglycerols	PG 16:0_22:1	PG 16:0_22:1
+Phosphatidylglycerols	PG 16:0_22:2	PG 16:0_22:2
+Phosphatidylglycerols	PG 16:1_16:1	PG 16:1_16:1
+Phosphatidylglycerols	PG 16:1_18:0	PG 16:1_18:0
+Phosphatidylglycerols	PG 16:1_18:1	PG 16:1_18:1
+Phosphatidylglycerols	PG 16:1_18:2	PG 16:1_18:2
+Phosphatidylglycerols	PG 16:1_20:4	PG 16:1_20:4
+Phosphatidylglycerols	PG 16:1_22:1	PG 16:1_22:1
+Phosphatidylglycerols	PG 16:2_18:1	PG 16:2_18:1
+Phosphatidylglycerols	PG 16:2_18:2	PG 16:2_18:2
+Phosphatidylglycerols	PG 16:3_18:1	PG 16:3_18:1
+Phosphatidylglycerols	PG 17:0_18:1	PG 17:0_18:1
+Phosphatidylglycerols	PG 17:0_18:2	PG 17:0_18:2
+Phosphatidylglycerols	PG 17:1_18:1	PG 17:1_18:1
+Phosphatidylglycerols	PG 18:0_18:1	PG 18:0_18:1
+Phosphatidylglycerols	PG 18:0_18:2	PG 18:0_18:2
+Phosphatidylglycerols	PG 18:0_18:3	PG 18:0_18:3
+Phosphatidylglycerols	PG 18:0_22:1	PG 18:0_22:1
+Phosphatidylglycerols	PG 18:1_18:1	PG 18:1_18:1
+Phosphatidylglycerols	PG 18:1_18:2	PG 18:1_18:2
+Phosphatidylglycerols	PG 18:1_18:3	PG 18:1_18:3
+Phosphatidylglycerols	PG 18:1_20:0	PG 18:1_20:0
+Phosphatidylglycerols	PG 18:1_20:1	PG 18:1_20:1
+Phosphatidylglycerols	PG 18:1_20:2	PG 18:1_20:2
+Phosphatidylglycerols	PG 18:1_20:3	PG 18:1_20:3
+Phosphatidylglycerols	PG 18:1_20:4	PG 18:1_20:4
+Phosphatidylglycerols	PG 18:1_20:5	PG 18:1_20:5
+Phosphatidylglycerols	PG 18:1_22:0	PG 18:1_22:0
+Phosphatidylglycerols	PG 18:1_22:1	PG 18:1_22:1
+Phosphatidylglycerols	PG 18:1_22:2	PG 18:1_22:2
+Phosphatidylglycerols	PG 18:1_22:3	PG 18:1_22:3
+Phosphatidylglycerols	PG 18:1_22:4	PG 18:1_22:4
+Phosphatidylglycerols	PG 18:1_22:5	PG 18:1_22:5
+Phosphatidylglycerols	PG 18:2_18:2	PG 18:2_18:2
+Phosphatidylglycerols	PG 18:2_18:3	PG 18:2_18:3
+Phosphatidylglycerols	PG 18:2_18:4	PG 18:2_18:4
+Phosphatidylglycerols	PG 18:2_20:0	PG 18:2_20:0
+Phosphatidylglycerols	PG 18:2_20:2	PG 18:2_20:2
+Phosphatidylglycerols	PG 18:2_20:3	PG 18:2_20:3
+Phosphatidylglycerols	PG 18:2_20:4	PG 18:2_20:4
+Phosphatidylglycerols	PG 18:2_20:5	PG 18:2_20:5
+Phosphatidylglycerols	PG 18:2_22:0	PG 18:2_22:0
+Phosphatidylglycerols	PG 18:2_22:1	PG 18:2_22:1
+Phosphatidylglycerols	PG 18:2_22:3	PG 18:2_22:3
+Phosphatidylglycerols	PG 18:2_22:4	PG 18:2_22:4
+Phosphatidylglycerols	PG 20:3_20:4	PG 20:3_20:4
+Phosphatidylglycerols	PG 20:4_20:4	PG 20:4_20:4
+Phosphatidylglycerols	PG 20:4_22:1	PG 20:4_22:1
+Phosphatidylglycerols	PG 20:4_22:3	PG 20:4_22:3
+Phosphatidylglycerols	PG 20:4_22:4	PG 20:4_22:4
+Phosphatidylglycerols	PG 22:4_22:6	PG 22:4_22:6
+Phosphatidylglycerols	PG 22:5_22:6	PG 22:5_22:6
+Phosphatidylglycerols	PG 22:6_22:6	PG 22:6_22:6
+Phosphatidylinositols	PI 14:0_18:1	PI 14:0_18:1
+Phosphatidylinositols	PI 14:0_18:2	PI 14:0_18:2
+Phosphatidylinositols	PI 15:0_16:0	PI 15:0_16:0
+Phosphatidylinositols	PI 15:1_16:0	PI 15:1_16:0
+Phosphatidylinositols	PI 16:0_16:0	PI 16:0_16:0
+Phosphatidylinositols	PI 16:0_17:0	PI 16:0_17:0
+Phosphatidylinositols	PI 16:0_17:1	PI 16:0_17:1
+Phosphatidylinositols	PI 16:0_17:2	PI 16:0_17:2
+Phosphatidylinositols	PI 16:0_18:1	PI 16:0_18:1
+Phosphatidylinositols	PI 16:0_18:2	PI 16:0_18:2
+Phosphatidylinositols	PI 16:0_18:3	PI 16:0_18:3
+Phosphatidylinositols	PI 16:0_20:0	PI 16:0_20:0
+Phosphatidylinositols	PI 16:0_20:3	PI 16:0_20:3
+Phosphatidylinositols	PI 16:0_20:4	PI 16:0_20:4
+Phosphatidylinositols	PI 16:0_22:1	PI 16:0_22:1
+Phosphatidylinositols	PI 16:1_18:0	PI 16:1_18:0
+Phosphatidylinositols	PI 16:1_18:1	PI 16:1_18:1
+Phosphatidylinositols	PI 16:1_18:2	PI 16:1_18:2
+Phosphatidylinositols	PI 17:0_18:1	PI 17:0_18:1
+Phosphatidylinositols	PI 17:1_18:1	PI 17:1_18:1
+Phosphatidylinositols	PI 17:1_18:2	PI 17:1_18:2
+Phosphatidylinositols	PI 18:0_18:0	PI 18:0_18:0
+Phosphatidylinositols	PI 18:0_18:1	PI 18:0_18:1
+Phosphatidylinositols	PI 18:0_18:2	PI 18:0_18:2
+Phosphatidylinositols	PI 18:0_18:3	PI 18:0_18:3
+Phosphatidylinositols	PI 18:0_20:0	PI 18:0_20:0
+Phosphatidylinositols	PI 18:0_20:3	PI 18:0_20:3
+Phosphatidylinositols	PI 18:0_20:4	PI 18:0_20:4
+Phosphatidylinositols	PI 18:0_22:0	PI 18:0_22:0
+Phosphatidylinositols	PI 18:1_18:1	PI 18:1_18:1
+Phosphatidylinositols	PI 18:1_18:2	PI 18:1_18:2
+Phosphatidylinositols	PI 18:1_18:3	PI 18:1_18:3
+Phosphatidylinositols	PI 18:1_20:0	PI 18:1_20:0
+Phosphatidylinositols	PI 18:1_20:1	PI 18:1_20:1
+Phosphatidylinositols	PI 18:1_20:2	PI 18:1_20:2
+Phosphatidylinositols	PI 18:1_20:3	PI 18:1_20:3
+Phosphatidylinositols	PI 18:1_20:4	PI 18:1_20:4
+Phosphatidylinositols	PI 18:1_20:5	PI 18:1_20:5
+Phosphatidylinositols	PI 18:1_22:0	PI 18:1_22:0
+Phosphatidylinositols	PI 18:1_22:1	PI 18:1_22:1
+Phosphatidylinositols	PI 18:1_22:2	PI 18:1_22:2
+Phosphatidylinositols	PI 18:1_22:3	PI 18:1_22:3
+Phosphatidylinositols	PI 18:1_22:4	PI 18:1_22:4
+Phosphatidylinositols	PI 18:1_22:5	PI 18:1_22:5
+Phosphatidylinositols	PI 18:1_22:6	PI 18:1_22:6
+Phosphatidylinositols	PI 18:2_18:3	PI 18:2_18:3
+Phosphatidylinositols	PI 18:2_20:0	PI 18:2_20:0
+Phosphatidylinositols	PI 18:2_20:1	PI 18:2_20:1
+Phosphatidylinositols	PI 18:2_20:4	PI 18:2_20:4
+Phosphatidylinositols	PI 18:2_20:5	PI 18:2_20:5
+Phosphatidylinositols	PI 18:2_22:0	PI 18:2_22:0
+Phosphatidylinositols	PI 18:2_22:1	PI 18:2_22:1
+Phosphatidylinositols	PI 18:2_22:6	PI 18:2_22:6
+Phosphatidylserines	PS 30:0	PS 30:0
+Phosphatidylserines	PS 32:0	PS 32:0
+Phosphatidylserines	PS 34:1	PS 34:1
+Phosphatidylserines	PS 34:2	PS 34:2
+Phosphatidylserines	PS 36:1	PS 36:1
+Phosphatidylserines	PS 36:2	PS 36:2
+Phosphatidylserines	PS 36:3	PS 36:3
+Phosphatidylserines	PS 36:4	PS 36:4
+Phosphatidylserines	PS 36:5	PS 36:5
+Phosphatidylserines	PS 38:4	PS 38:4
+Phosphatidylserines	PS 38:5	PS 38:5
+Phosphatidylserines	PS 38:6	PS 38:6
+Phosphatidylserines	PS 38:7	PS 38:7
+Phosphatidylserines	PS 40:4	PS 40:4
+Phosphatidylserines	PS 40:5	PS 40:5
+Phosphatidylserines	PS 40:6	PS 40:6
+Phosphatidylserines	PS 40:7	PS 40:7
+Phosphatidylserines	PS 40:8	PS 40:8
+Sphinganines and sphingosines	SPB d14:0	SPB d14:0
+Sphinganines and sphingosines	SPB d14:1	SPB d14:1
+Sphinganines and sphingosines	SPB d16:0	SPB d16:0
+Sphinganines and sphingosines	SPB d16:1	SPB d16:1
+Sphinganines and sphingosines	SPB d17:0	SPB d17:0
+Sphinganines and sphingosines	SPB d17:1	SPB d17:1
+Sphinganines and sphingosines	SPB d18:0	SPB d18:0
+Sphinganines and sphingosines	SPB d18:1	SPB d18:1
+Sphinganine and sphingosine phosphates	SPBP d14:0	SPBP d14:0
+Sphinganine and sphingosine phosphates	SPBP d14:1	SPBP d14:1
+Sphinganine and sphingosine phosphates	SPBP d16:0	SPBP d16:0
+Sphinganine and sphingosine phosphates	SPBP d16:1	SPBP d16:1
+Sphinganine and sphingosine phosphates	SPBP d17:0	SPBP d17:0
+Sphinganine and sphingosine phosphates	SPBP d17:1	SPBP d17:1
+Sphinganine and sphingosine phosphates	SPBP d18:0	SPBP d18:0
+Sphinganine and sphingosine phosphates	SPBP d18:1	SPBP d18:1
+Sphingomyelins	SM 33:1	SM 33:1
+Sphingomyelins	SM 34:1	SM 34:1
+Sphingomyelins	SM 34:2	SM 34:2
+Sphingomyelins	SM 35:1	SM 35:1
+Sphingomyelins	SM 36:1	SM 36:1
+Sphingomyelins	SM 36:2	SM 36:2
+Sphingomyelins	SM 38:3	SM 38:3
+Sphingomyelins	SM 41:1	SM 41:1
+Sphingomyelins	SM 41:2	SM 41:2
+Sphingomyelins	SM 42:1	SM 42:1
+Sphingomyelins	SM 42:2	SM 42:2
+Sphingomyelins	SM 43:1	SM 43:1
+Sphingomyelins	SM 44:1	SM 44:1
+Sphingomyelins	SM 44:2	SM 44:2
+Triglycerides	TG 14:0_32:2	TG 14:0_32:2
+Triglycerides	TG 16:0_34:1	TG 16:0_34:1
+Triglycerides	TG 16:1_32:0	TG 16:1_32:0
+Triglycerides	TG 17:1_34:3	TG 17:1_34:3
+Triglycerides	TG 14:0_34:0	TG 14:0_34:0
+Triglycerides	TG 16:0_34:2	TG 16:0_34:2
+Triglycerides	TG 16:1_32:1	TG 16:1_32:1
+Triglycerides	TG 17:1_36:3	TG 17:1_36:3
+Triglycerides	TG 14:0_34:1	TG 14:0_34:1
+Triglycerides	TG 16:0_34:3	TG 16:0_34:3
+Triglycerides	TG 16:1_32:2	TG 16:1_32:2
+Triglycerides	TG 17:1_36:4	TG 17:1_36:4
+Triglycerides	TG 14:0_34:2	TG 14:0_34:2
+Triglycerides	TG 16:0_34:4	TG 16:0_34:4
+Triglycerides	TG 16:1_33:1	TG 16:1_33:1
+Triglycerides	TG 17:1_36:5	TG 17:1_36:5
+Triglycerides	TG 14:0_34:3	TG 14:0_34:3
+Triglycerides	TG 16:0_35:1	TG 16:0_35:1
+Triglycerides	TG 16:1_34:0	TG 16:1_34:0
+Triglycerides	TG 17:1_38:5	TG 17:1_38:5
+Triglycerides	TG 14:0_35:1	TG 14:0_35:1
+Triglycerides	TG 16:0_35:2	TG 16:0_35:2
+Triglycerides	TG 16:1_34:1	TG 16:1_34:1
+Triglycerides	TG 17:1_38:6	TG 17:1_38:6
+Triglycerides	TG 14:0_35:2	TG 14:0_35:2
+Triglycerides	TG 16:0_35:3	TG 16:0_35:3
+Triglycerides	TG 16:1_34:2	TG 16:1_34:2
+Triglycerides	TG 17:1_38:7	TG 17:1_38:7
+Triglycerides	TG 14:0_36:1	TG 14:0_36:1
+Triglycerides	TG 16:0_36:2	TG 16:0_36:2
+Triglycerides	TG 16:1_34:3	TG 16:1_34:3
+Triglycerides	TG 17:2_34:2	TG 17:2_34:2
+Triglycerides	TG 14:0_36:2	TG 14:0_36:2
+Triglycerides	TG 16:0_36:3	TG 16:0_36:3
+Triglycerides	TG 16:1_36:1	TG 16:1_36:1
+Triglycerides	TG 17:2_34:3	TG 17:2_34:3
+Triglycerides	TG 14:0_36:3	TG 14:0_36:3
+Triglycerides	TG 16:0_36:4	TG 16:0_36:4
+Triglycerides	TG 16:1_36:2	TG 16:1_36:2
+Triglycerides	TG 17:2_36:2	TG 17:2_36:2
+Triglycerides	TG 14:0_36:4	TG 14:0_36:4
+Triglycerides	TG 16:0_36:5	TG 16:0_36:5
+Triglycerides	TG 16:1_36:3	TG 16:1_36:3
+Triglycerides	TG 17:2_36:3	TG 17:2_36:3
+Triglycerides	TG 14:0_38:4	TG 14:0_38:4
+Triglycerides	TG 16:0_36:6	TG 16:0_36:6
+Triglycerides	TG 16:1_36:4	TG 16:1_36:4
+Triglycerides	TG 17:2_36:4	TG 17:2_36:4
+Triglycerides	TG 14:0_38:5	TG 14:0_38:5
+Triglycerides	TG 16:0_37:3	TG 16:0_37:3
+Triglycerides	TG 16:1_36:5	TG 16:1_36:5
+Triglycerides	TG 17:2_38:5	TG 17:2_38:5
+Triglycerides	TG 14:0_39:3	TG 14:0_39:3
+Triglycerides	TG 16:0_38:1	TG 16:0_38:1
+Triglycerides	TG 16:1_38:3	TG 16:1_38:3
+Triglycerides	TG 17:2_38:6	TG 17:2_38:6
+Triglycerides	TG 14:0_40:5	TG 14:0_40:5
+Triglycerides	TG 16:0_38:2	TG 16:0_38:2
+Triglycerides	TG 16:1_38:4	TG 16:1_38:4
+Triglycerides	TG 17:2_38:7	TG 17:2_38:7
+Triglycerides	TG 16:0_28:1	TG 16:0_28:1
+Triglycerides	TG 16:0_38:3	TG 16:0_38:3
+Triglycerides	TG 16:1_38:5	TG 16:1_38:5
+Triglycerides	TG 18:0_30:0	TG 18:0_30:0
+Triglycerides	TG 16:0_28:2	TG 16:0_28:2
+Triglycerides	TG 16:0_38:4	TG 16:0_38:4
+Triglycerides	TG 17:0_32:1	TG 17:0_32:1
+Triglycerides	TG 18:0_30:1	TG 18:0_30:1
+Triglycerides	TG 16:0_30:2	TG 16:0_30:2
+Triglycerides	TG 16:0_38:5	TG 16:0_38:5
+Triglycerides	TG 17:0_34:1	TG 17:0_34:1
+Triglycerides	TG 18:0_32:0	TG 18:0_32:0
+Triglycerides	TG 16:0_32:0	TG 16:0_32:0
+Triglycerides	TG 16:0_38:6	TG 16:0_38:6
+Triglycerides	TG 17:0_34:3	TG 17:0_34:3
+Triglycerides	TG 18:0_34:2	TG 18:0_34:2
+Triglycerides	TG 16:0_32:1	TG 16:0_32:1
+Triglycerides	TG 16:0_38:7	TG 16:0_38:7
+Triglycerides	TG 17:0_36:3	TG 17:0_36:3
+Triglycerides	TG 18:0_34:3	TG 18:0_34:3
+Triglycerides	TG 16:0_32:2	TG 16:0_32:2
+Triglycerides	TG 16:0_40:6	TG 16:0_40:6
+Triglycerides	TG 17:0_36:4	TG 17:0_36:4
+Triglycerides	TG 18:0_36:1	TG 18:0_36:1
+Triglycerides	TG 16:0_32:3	TG 16:0_32:3
+Triglycerides	TG 16:0_40:7	TG 16:0_40:7
+Triglycerides	TG 17:1_32:1	TG 17:1_32:1
+Triglycerides	TG 18:0_36:2	TG 18:0_36:2
+Triglycerides	TG 16:0_33:1	TG 16:0_33:1
+Triglycerides	TG 16:0_40:8	TG 16:0_40:8
+Triglycerides	TG 17:1_34:1	TG 17:1_34:1
+Triglycerides	TG 18:0_36:3	TG 18:0_36:3
+Triglycerides	TG 16:0_33:2	TG 16:0_33:2
+Triglycerides	TG 16:1_28:0	TG 16:1_28:0
+Triglycerides	TG 17:1_34:2	TG 17:1_34:2
+Triglycerides	TG 20:4_30:0	TG 20:4_30:0
+Triglycerides	TG 16:0_34:0	TG 16:0_34:0
+Triglycerides	TG 16:1_30:1	TG 16:1_30:1
+Triglycerides	TG 18:3_36:3	TG 18:3_36:3
+Triglycerides	TG 20:4_32:0	TG 20:4_32:0
+Triglycerides	TG 18:0_36:4	TG 18:0_36:4
+Triglycerides	TG 18:2_30:1	TG 18:2_30:1
+Triglycerides	TG 18:3_36:4	TG 18:3_36:4
+Triglycerides	TG 20:4_32:1	TG 20:4_32:1
+Triglycerides	TG 18:0_36:5	TG 18:0_36:5
+Triglycerides	TG 18:2_31:0	TG 18:2_31:0
+Triglycerides	TG 18:3_38:5	TG 18:3_38:5
+Triglycerides	TG 20:4_32:2	TG 20:4_32:2
+Triglycerides	TG 18:0_38:6	TG 18:0_38:6
+Triglycerides	TG 18:2_32:0	TG 18:2_32:0
+Triglycerides	TG 18:3_38:6	TG 18:3_38:6
+Triglycerides	TG 20:4_33:2	TG 20:4_33:2
+Triglycerides	TG 18:0_38:7	TG 18:0_38:7
+Triglycerides	TG 18:2_32:1	TG 18:2_32:1
+Triglycerides	TG 20:0_32:3	TG 20:0_32:3
+Triglycerides	TG 20:4_34:0	TG 20:4_34:0
+Triglycerides	TG 18:1_26:0	TG 18:1_26:0
+Triglycerides	TG 18:2_32:2	TG 18:2_32:2
+Triglycerides	TG 20:0_32:4	TG 20:0_32:4
+Triglycerides	TG 20:4_34:1	TG 20:4_34:1
+Triglycerides	TG 18:1_28:1	TG 18:1_28:1
+Triglycerides	TG 18:2_33:0	TG 18:2_33:0
+Triglycerides	TG 20:0_34:1	TG 20:0_34:1
+Triglycerides	TG 20:4_34:2	TG 20:4_34:2
+Triglycerides	TG 18:1_30:0	TG 18:1_30:0
+Triglycerides	TG 18:2_33:1	TG 18:2_33:1
+Triglycerides	TG 20:1_26:1	TG 20:1_26:1
+Triglycerides	TG 20:4_34:3	TG 20:4_34:3
+Triglycerides	TG 18:1_30:1	TG 18:1_30:1
+Triglycerides	TG 18:2_33:2	TG 18:2_33:2
+Triglycerides	TG 20:1_30:1	TG 20:1_30:1
+Triglycerides	TG 20:4_35:3	TG 20:4_35:3
+Triglycerides	TG 18:1_30:2	TG 18:1_30:2
+Triglycerides	TG 18:2_34:1	TG 18:2_34:1
+Triglycerides	TG 20:1_31:0	TG 20:1_31:0
+Triglycerides	TG 20:4_36:2	TG 20:4_36:2
+Triglycerides	TG 18:1_31:0	TG 18:1_31:0
+Triglycerides	TG 18:2_34:2	TG 18:2_34:2
+Triglycerides	TG 20:1_32:0	TG 20:1_32:0
+Triglycerides	TG 20:4_36:3	TG 20:4_36:3
+Triglycerides	TG 18:1_32:0	TG 18:1_32:0
+Triglycerides	TG 18:2_34:3	TG 18:2_34:3
+Triglycerides	TG 20:1_32:1	TG 20:1_32:1
+Triglycerides	TG 20:4_36:4	TG 20:4_36:4
+Triglycerides	TG 18:1_32:1	TG 18:1_32:1
+Triglycerides	TG 18:2_34:4	TG 18:2_34:4
+Triglycerides	TG 20:1_32:2	TG 20:1_32:2
+Triglycerides	TG 20:4_36:5	TG 20:4_36:5
+Triglycerides	TG 18:1_32:2	TG 18:1_32:2
+Triglycerides	TG 18:2_35:1	TG 18:2_35:1
+Triglycerides	TG 20:1_32:3	TG 20:1_32:3
+Triglycerides	TG 20:5_34:0	TG 20:5_34:0
+Triglycerides	TG 18:1_32:3	TG 18:1_32:3
+Triglycerides	TG 18:2_35:2	TG 18:2_35:2
+Triglycerides	TG 20:1_34:0	TG 20:1_34:0
+Triglycerides	TG 20:5_34:1	TG 20:5_34:1
+Triglycerides	TG 18:1_33:0	TG 18:1_33:0
+Triglycerides	TG 18:2_35:3	TG 18:2_35:3
+Triglycerides	TG 20:1_34:1	TG 20:1_34:1
+Triglycerides	TG 20:5_34:2	TG 20:5_34:2
+Triglycerides	TG 18:1_33:1	TG 18:1_33:1
+Triglycerides	TG 18:2_36:0	TG 18:2_36:0
+Triglycerides	TG 20:1_34:2	TG 20:1_34:2
+Triglycerides	TG 20:5_36:2	TG 20:5_36:2
+Triglycerides	TG 18:1_33:2	TG 18:1_33:2
+Triglycerides	TG 18:2_36:1	TG 18:2_36:1
+Triglycerides	TG 20:1_34:3	TG 20:1_34:3
+Triglycerides	TG 20:5_36:3	TG 20:5_36:3
+Triglycerides	TG 18:1_33:3	TG 18:1_33:3
+Triglycerides	TG 18:2_36:2	TG 18:2_36:2
+Triglycerides	TG 20:2_32:0	TG 20:2_32:0
+Triglycerides	TG 22:0_32:4	TG 22:0_32:4
+Triglycerides	TG 18:1_34:1	TG 18:1_34:1
+Triglycerides	TG 18:2_36:3	TG 18:2_36:3
+Triglycerides	TG 20:2_32:1	TG 20:2_32:1
+Triglycerides	TG 22:1_32:5	TG 22:1_32:5
+Triglycerides	TG 18:1_34:2	TG 18:1_34:2
+Triglycerides	TG 18:2_36:4	TG 18:2_36:4
+Triglycerides	TG 20:2_34:1	TG 20:2_34:1
+Triglycerides	TG 22:2_32:4	TG 22:2_32:4
+Triglycerides	TG 18:1_34:3	TG 18:1_34:3
+Triglycerides	TG 18:2_36:5	TG 18:2_36:5
+Triglycerides	TG 20:2_34:2	TG 20:2_34:2
+Triglycerides	TG 22:3_30:2	TG 22:3_30:2
+Triglycerides	TG 18:1_34:4	TG 18:1_34:4
+Triglycerides	TG 18:2_38:4	TG 18:2_38:4
+Triglycerides	TG 20:2_34:3	TG 20:2_34:3
+Triglycerides	TG 22:4_32:0	TG 22:4_32:0
+Triglycerides	TG 18:1_35:2	TG 18:1_35:2
+Triglycerides	TG 18:2_38:5	TG 18:2_38:5
+Triglycerides	TG 20:2_34:4	TG 20:2_34:4
+Triglycerides	TG 22:4_32:2	TG 22:4_32:2
+Triglycerides	TG 18:1_35:3	TG 18:1_35:3
+Triglycerides	TG 18:2_38:6	TG 18:2_38:6
+Triglycerides	TG 20:2_36:5	TG 20:2_36:5
+Triglycerides	TG 22:4_34:2	TG 22:4_34:2
+Triglycerides	TG 18:1_36:0	TG 18:1_36:0
+Triglycerides	TG 18:3_30:0	TG 18:3_30:0
+Triglycerides	TG 20:3_32:0	TG 20:3_32:0
+Triglycerides	TG 22:5_32:0	TG 22:5_32:0
+Triglycerides	TG 18:1_36:1	TG 18:1_36:1
+Triglycerides	TG 18:3_32:0	TG 18:3_32:0
+Triglycerides	TG 20:3_32:1	TG 20:3_32:1
+Triglycerides	TG 22:5_32:1	TG 22:5_32:1
+Triglycerides	TG 18:1_36:2	TG 18:1_36:2
+Triglycerides	TG 18:3_32:1	TG 18:3_32:1
+Triglycerides	TG 20:3_32:2	TG 20:3_32:2
+Triglycerides	TG 22:5_34:1	TG 22:5_34:1
+Triglycerides	TG 18:1_36:3	TG 18:1_36:3
+Triglycerides	TG 18:3_33:2	TG 18:3_33:2
+Triglycerides	TG 20:3_34:0	TG 20:3_34:0
+Triglycerides	TG 22:5_34:2	TG 22:5_34:2
+Triglycerides	TG 18:1_36:4	TG 18:1_36:4
+Triglycerides	TG 18:3_34:0	TG 18:3_34:0
+Triglycerides	TG 20:3_34:1	TG 20:3_34:1
+Triglycerides	TG 22:5_34:3	TG 22:5_34:3
+Triglycerides	TG 18:1_36:5	TG 18:1_36:5
+Triglycerides	TG 18:3_34:1	TG 18:3_34:1
+Triglycerides	TG 20:3_34:2	TG 20:3_34:2
+Triglycerides	TG 22:6_32:0	TG 22:6_32:0
+Triglycerides	TG 18:1_36:6	TG 18:1_36:6
+Triglycerides	TG 18:3_34:2	TG 18:3_34:2
+Triglycerides	TG 20:3_34:3	TG 20:3_34:3
+Triglycerides	TG 22:6_32:1	TG 22:6_32:1
+Triglycerides	TG 18:1_38:5	TG 18:1_38:5
+Triglycerides	TG 18:3_34:3	TG 18:3_34:3
+Triglycerides	TG 20:3_36:3	TG 20:3_36:3
+Triglycerides	TG 22:6_34:1	TG 22:6_34:1
+Triglycerides	TG 18:1_38:6	TG 18:1_38:6
+Triglycerides	TG 18:3_35:2	TG 18:3_35:2
+Triglycerides	TG 20:3_36:4	TG 20:3_36:4
+Triglycerides	TG 22:6_34:2	TG 22:6_34:2
+Triglycerides	TG 18:1_38:7	TG 18:1_38:7
+Triglycerides	TG 18:3_36:1	TG 18:3_36:1
+Triglycerides	TG 20:3_36:5	TG 20:3_36:5
+Triglycerides	TG 22:6_34:3	TG 22:6_34:3
+Triglycerides	TG 18:2_28:0	TG 18:2_28:0
+Triglycerides	TG 18:3_36:2	TG 18:3_36:2
+Triglycerides	TG 18:0_32:1	TG 18:0_32:1
+Triglycerides	TG 18:2_30:0	TG 18:2_30:0
+Triglycerides	TG 17:0_34:2	TG 17:0_34:2
+Triglycerides	TG 18:0_32:2	TG 18:0_32:2
+Trihexosylceramides	Hex3Cer d18:1/16:0	Hex3Cer d18:1/16:0
+Trihexosylceramides	Hex3Cer d18:1/18:0	Hex3Cer d18:1/18:0
+Trihexosylceramides	Hex3Cer d18:1/20:0	Hex3Cer d18:1/20:0
+Trihexosylceramides	Hex3Cer d18:1/22:0	Hex3Cer d18:1/22:0
+Trihexosylceramides	Hex3Cer d18:1/24:1	Hex3Cer d18:1/24:1
+Trihexosylceramides	Hex3Cer d18:1/26:1	Hex3Cer d18:1/26:1
