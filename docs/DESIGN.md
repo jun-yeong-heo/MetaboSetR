@@ -4,6 +4,7 @@
 > **Purpose**: MetaboSetR R package의 설계 single source of truth.
 > **Scope**: "무엇을 왜 그렇게 설계했는가" (what & how). 구현 순서와 진행 상태는 `ROADMAP.md`, 의사결정 이력은 `decisions.md` 참조.
 > MetaboSetR은 내부 패키지 MetaboIndicatoR에서 indicator 레이어를 제거하여 파생되었다 (→ decisions.md #1).
+> **Python 포트**: 전 파이프라인이 순수 Python으로 재이식되어 `python/metabosetr/`에 있다 (→ decisions.md #6). 본 문서는 설계 SSOT로 언어 중립이며, R 판본과 Python 포트가 동일 설계를 따른다. Python 실현 상세(파일-단위 매핑·의존성·수치 재현성)는 `MIGRATION.md` 참조.
 
 ---
 
@@ -21,7 +22,7 @@ Biocrates MxP® Quant 1000 kit의 WebIDQ export 데이터를 input으로 받아�
 
 ### 1.2 기본 정보
 - **패키지 이름**: `MetaboSetR`
-- **라이선스 / 배포**: GitHub private repo로 시작, 논문 공개 시점에 함께 공개 (→ decisions.md #1, #5)
+- **라이선스 / 배포**: **GPL-3.0 (copyleft)** (→ decisions.md #9). GitHub private repo로 시작, 논문 공개 시점에 함께 공개 (→ decisions.md #1, #5). 코드는 GPL-3.0, 번들 데이터 라이선스는 별도 명시 예정, 외부-DB 세트 attribution은 §8.5대로 유지
 - **데이터 단위**: 모든 통계·pathway set은 metabolite-level. (indicator 레이어는 license 사유로 제외 — → decisions.md #1)
 - **코딩 관례**: R에서 `summarise()` 등 tidyverse 사용 금지, base R + Bioconductor만 사용
 - **Tidyverse dependency 의도적 제외**
@@ -267,7 +268,7 @@ pathway_sets_meta    # data.frame: domain, set_name, member, direction, brief_no
 ### 6.1 Approach A: Metabolite-as-Feature
 - 각 metabolite를 individual feature로 취급 (`test_metabolites()`)
 - 입력: `PreprocessedData` (metabolite 농도 행렬). Outlier sample은 제외.
-- Group comparison: limma moderated t (default) 또는 Wilcoxon
+- Group comparison: moderated t (default) 또는 Wilcoxon. Moderated-t 엔진은 R `limma`, Python 포트는 `inmoose.limma` (empirical Bayes 방법·default 지위 불변, backend만 상이 → decisions.md #7)
 - Multiple testing correction: BH + BY 동시 리포트 (default)
 - **주의**: 같은 chemical class 내 metabolite 간 상관이 높을 수 있음
 - Output: data.frame (metabolite 1행), 컬럼 `metabolite`, `log2FC`, `P.Value`, `padj_*` 등
@@ -285,7 +286,7 @@ pathway_sets_meta    # data.frame: domain, set_name, member, direction, brief_no
 - Output: fgsea result (data.table) — `gsea_to_df()`로 list-column을 collapsed string으로 변환 후 TSV 저장 가능
 
 #### 6.2.1 Method 선택 논거
-- `fgsea` 사용 이유: method paper 있음 (Korotkevich et al. 2021), Bioconductor 생태계 활발
+- GSEA backend: R 판본은 `fgsea::fgseaMultilevel` (method paper 있음 — Korotkevich et al. 2021), Python 포트는 `gseapy` prerank. 두 backend는 수치 동일하지 않으며, Python 포트는 R fgsea와의 bit-identical을 요구하지 않고 seed 고정으로 결정론만 보장한다 (→ decisions.md #8)
 - `limma-voom` 불필요: count data가 아닌 continuous concentration이므로
 
 ### 6.3 결과 저장 정책
@@ -439,6 +440,8 @@ ann <- annotate_metabolites(colnames(prep@sample@assay))
 ```
 
 ### 7.4 Dependencies
+아래는 R 판본의 의존성이다. Python 포트의 대응 스택(numpy/pandas/openpyxl/scipy/
+inmoose/gseapy/scikit-bio/matplotlib)은 `MIGRATION.md` §3.1 참조 (→ decisions.md #6).
 - `readxl` — xlsx value reading
 - `tidyxl` — cell color parsing (fallback status)
 - `vegan` — PERMANOVA
