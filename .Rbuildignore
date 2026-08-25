@@ -5,6 +5,7 @@
 ^\.gitignore$
 ^\.github$
 ^docs$
+^python$
 ^data-raw$
 ^renv$
 ^renv\.lock$

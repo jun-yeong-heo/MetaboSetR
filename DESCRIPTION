@@ -12,7 +12,7 @@ Description: Preprocesses Biocrates MxP Quant 1000 WebIDQ exports and
     origin and disease-association sets), with KEGG/HMDB/PubChem/ChEBI/
     RefMet/LIPID MAPS/LION id annotations for KEGG-map overlays. See
     DESIGN.md for the full design.
-License: file LICENSE
+License: GPL-3
 Encoding: UTF-8
 LazyData: false
 Roxygen: list(markdown = TRUE)
