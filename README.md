@@ -1,7 +1,8 @@
 # MetaboSetR
 
 Biocrates MxP Quant 1000 (WebIDQ) preprocessing, metabolite-level
-statistics, and curated pathway-set enrichment (GSEA / ORA). R package.
+statistics, and curated pathway-set enrichment (GSEA / ORA). R package,
+with a pure-Python port under `python/` as a reference implementation.
 
 **Status**: v0.1.0. See `docs/ROADMAP.md` for the current status and
 `docs/DESIGN.md` for the design rationale.
@@ -148,11 +149,37 @@ pathview::pathview(cpd.data = fc, pathway.id = "hsa00020", species = "hsa")
 
 ---
 
+## Python port (reference implementation)
+
+`python/metabosetr/` holds a pure-Python port of the whole pipeline: WebIDQ
+readers (text + cell-fill status), the sample/metabolite filters, the four
+containers, Approaches A/B/C, pathway loaders, annotation and QC
+diagnostics. It exists to run the pipeline without an R runtime and to
+cross-check numerics. **The R package is the baseline implementation**; the
+port tracks it (`docs/decisions.md` #10).
+
+Two backends differ, because the R libraries have no drop-in Python twin:
+`limma` → `inmoose.limma` (#7, near-identical) and `fgsea` → `gseapy`
+prerank (#8 — not numerically identical to fgsea, deterministic under
+`seed`). Filters, Wilcoxon, `p.adjust` (BH/BY) and hypergeometric ORA are
+verified against R base `stats` on identical inputs to ~1e-14.
+
+```bash
+cd python && python3 -m pytest -q
+# 36 passed
+```
+
+Usage is in `python/README.md`; the file-by-file mapping and the porting
+notes are in `docs/MIGRATION.md`.
+
+---
+
 ## Project documentation
 
 - `docs/DESIGN.md` — design single source of truth ("what & why")
 - `docs/ROADMAP.md` — version roadmap, current status, open questions
 - `docs/decisions.md` — append-only decision log
+- `docs/MIGRATION.md` — Python port mapping and porting notes
 - `CLAUDE.md` — work rules for the Claude Code agent
 
 The vendor reference TSV and synthetic fixtures are under `data-raw/`
@@ -175,6 +202,25 @@ required.
 
 ## License
 
-Private and proprietary for now; see `LICENSE` for the full text. Intended
-for public release alongside the accompanying paper. Do not redistribute
-until then.
+**Code: GPL-3.0-or-later** — see `LICENSE` for the full text
+(`docs/decisions.md` #9). The repository is public (#11); the copyleft
+terms above are the redistribution terms.
+
+**Bundled data is licensed separately from the code.** The external-DB
+pathway sets carry attribution obligations that the GPL does not replace
+(DESIGN.md §8.5):
+
+| Bundled data | Terms |
+|---|---|
+| `data-raw/reference/biocrates_Quant1000_metabolites.tsv` | Factual analyte roster (short/long name, class) parsed from Biocrates Q1000 documentation. The Biocrates indicator catalogue is **not** part of this package (decisions #1). |
+| `reactome` sets | Reactome — CC-BY 4.0; cite Reactome. |
+| `wikipathways` sets | WikiPathways — CC0. |
+| `smpdb` sets | SMPDB / Wishart — academic and personal use; cite SMPDB. |
+| `source`, `health` sets | Derived from the HMDB ontology via RaMP-DB; cite RaMP-DB (ncats/RaMP-DB). |
+| `lion` sets | LION/web — cite Molenaar MR, et al. (2019) *GigaScience* 8(6):giz061. |
+| `immunomet` sets | In-house curation after O'Neill LAJ, Kishton RJ, Rathmell J. (2016) *Nat Rev Immunol* 16(9):553–565. |
+| `inst/extdata/synthetic/` | Synthetic fixtures; same terms as the code. |
+
+KEGG pathway sets and maps are deliberately **not** bundled — their license
+forbids bulk redistribution. Only RaMP-derived `kegg_id` cross-references
+ship, for use with `pathview` (DESIGN.md §6.5).
