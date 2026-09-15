@@ -22,7 +22,8 @@ Biocrates MxP® Quant 1000 kit의 WebIDQ export 데이터를 input으로 받아�
 
 ### 1.2 기본 정보
 - **패키지 이름**: `MetaboSetR`
-- **라이선스 / 배포**: **GPL-3.0 (copyleft)** (→ decisions.md #9). GitHub private repo로 시작, 논문 공개 시점에 함께 공개 (→ decisions.md #1, #5). 코드는 GPL-3.0, 번들 데이터 라이선스는 별도 명시 예정, 외부-DB 세트 attribution은 §8.5대로 유지
+- **라이선스 / 배포**: **GPL-3.0 (copyleft)** (→ decisions.md #9). GitHub public repo (논문 이전 공개 전환 → decisions.md #11; 당초 private 시작 계획은 #5). 코드는 GPL-3.0, 번들 데이터 라이선스는 별도 명시 예정, 외부-DB 세트 attribution은 §8.5대로 유지
+- **기준 구현**: **R 패키지**. `python/metabosetr/`의 순수 Python 포트는 참조·대조 구현으로 유지 (→ decisions.md #10, #6; MIGRATION.md)
 - **데이터 단위**: 모든 통계·pathway set은 metabolite-level. (indicator 레이어는 license 사유로 제외 — → decisions.md #1)
 - **코딩 관례**: R에서 `summarise()` 등 tidyverse 사용 금지, base R + Bioconductor만 사용
 - **Tidyverse dependency 의도적 제외**
